@@ -1,0 +1,78 @@
+% paper size is in preamble.sty
+\documentclass[12pt,openany,table,x11names]{book}
+
+% Continuous footnote numbering across all chapters (don't reset at \chapter)
+\makeatletter
+\@removefromreset{footnote}{chapter}
+\makeatother
+
+\newenvironment{smallquote}
+  {\begin{quote}\small}
+  {\end{quote}}
+
+\newenvironment{tinyquote}
+  {\begin{quote}\footnotesize}
+  {\end{quote}}
+
+\newcommand*{\crossupsidedown}[1]{
+    \text{
+      \raisebox{.5ex}{
+        \makebox[0pt][l]{\rule[-.2pt]{.75ex}{#1pt}}
+        \makebox[.75ex]{\rule[-.5ex]{#1pt}{1.5ex}}
+      }
+    }   
+}
+
+% meta data
+\newcommand{\authorname}{Kirill Eskrov}
+\newcommand{\booktitle}{The Gospel of Afranius}
+\newcommand{\subtitle}{A Detective Investigation into Sacred History}
+\newcommand{\publisher}{Me}
+\newcommand{\editionyear}{1997}
+\newcommand{\isbn}{}
+
+% Load options (and fontspec) before title so we can use \fontspec for title font
+\usepackage{misc/options}
+
+% Title font: use monospace if available (cursor-style); otherwise document default
+\IfFontExistsTF{texgyrecursor-regular.otf}{%
+  {\fontspec{texgyrecursor-regular.otf}\title{\booktitle}}%
+}{%
+  \title{\booktitle}%
+}
+\author{\authorname}
+\begin{document}
+
+% Front matter
+\frontmatter
+\input{frontmatter/titlepage}      
+\input{frontmatter/copyrightpage}  
+% \input{frontmatter/preface}       
+% \input{frontmatter/timeline}       
+
+% Main matter
+\mainmatter
+\pagestyle{fancy}
+
+% contents
+\input{content/01-preface.tex}
+\input{content/02-mcdowells-argument.tex}
+\input{content/03-problem-statement.tex}
+\input{content/04-historical-background.tex}
+\input{content/05-the-procurator-of-judea.tex}
+\input{content/06-golgatha.tex}
+\input{content/07-john-the-baptist.tex}
+\input{content/08-the-raising-of-lazarus.tex}
+\input{content/09-judas.tex}
+\input{content/10-last-supper.tex}
+\input{content/11-empty-tomb.tex}
+\input{content/12-second-warning.tex}
+\input{content/13-appearances-of-the-risen-christ.tex}
+\input{content/14-third-warning.tex}
+\input{content/15-the-gospel-of-afranius.tex}
+
+% Back matter (no part title in running head)
+\backmatter
+\tocbackmatterdivider
+
+\end{document}

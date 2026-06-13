@@ -1,0 +1,5 @@
+[0] Config.pm:328> INFO - This is Biber 2.21
+[0] Config.pm:331> INFO - Logfile is 'cache.blg'
+[29] biber-darwin:342> INFO - === Thu Apr  9, 2026, 18:43:24
+[130] Utils.pm:479> ERROR - Cannot find 'cache.bcf'!
+[130] Biber.pm:137> INFO - ERRORS: 1

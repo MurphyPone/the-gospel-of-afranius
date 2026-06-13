@@ -1,0 +1,329 @@
+% XeLaTeX: load fontspec first for Unicode support
+\usepackage{fontspec}
+
+% For Hebrew
+% https://tuteurs.ens.fr/noncvs/docs/cjhebrew/cjh-en.pdf
+\usepackage{cjhebrew}
+
+% For inserting timeline 
+\usepackage{pdfpages}
+
+% Font for old English / long s (U+017F); Libertine has the glyph, Merriweather does not.
+% Try filename first (from libertine package in TeX Live); else fall back to default so doc compiles.
+\IfFontExistsTF{LinLibertine_R.otf}{%
+  \newfontfamily\oldenglishfont{LinLibertine_R.otf}%
+}{%
+  \IfFontExistsTF{LinLibertine_O.otf}{%
+    \newfontfamily\oldenglishfont{LinLibertine_O.otf}%
+  }{%
+    \let\oldenglishfont\normalfont
+  }%
+}
+% Old English font has no italic; use graphic slant so names match \itshape convention
+\newcommand{\oldenglishemph}[1]{%
+  \tikz[baseline=(X.base), inner sep=0pt, outer sep=0pt] \node[anchor=base, xslant=0.18] (X) {\oldenglishfont #1};%
+}
+
+\usepackage[english]{babel} % language
+\addto\captionsbrazilian{\renewcommand{\contentsname}{Contents}}
+
+\usepackage{lettrine}   % Add drop caps to chapter openings
+\usepackage{graphicx}
+\usepackage{fourier,heuristica}
+\usepackage{libertine}
+\usepackage[black]{merriweather}
+% \usepackage{ebgaramond}
+\usepackage{csquotes}
+\usepackage[backend=biber, style=verbose-ibid, citepages=separate]{biblatex}
+% TODO: revisit how to sort these jaunts
+\DeclareNameAlias{sortname}{family-given}
+\addbibresource{references.bib}
+\usepackage{amsmath}
+\usepackage{tikz}
+\usetikzlibrary{positioning}
+
+% Font encoding (inputenc not needed: XeLaTeX uses UTF-8 by default)
+\usepackage[TS1,T1]{fontenc}
+% fourier, heuristica removed: not used; caused font conflicts and XeLaTeX warns to use fourier-otf
+% \usepackage{merriweather} %% Option 'black' gives heavier bold face 
+\usepackage{array, booktabs}
+\usepackage{graphicx}
+\usepackage{epigraph} 
+
+% Codificação de entrada e saída
+\usepackage{xspace}
+
+% for strikethrough
+\usepackage[normalem]{ulem}
+
+\usepackage[para]{bigfoot}
+\DeclareNewFootnote[para]{arabic}
+\interfootnotelinepenalty=10000
+\usepackage{needspace}
+% Use \needspace{<lines>\baselineskip} before a paragraph that has a long
+% para footnote so the paragraph+footnote start on a page with enough room.
+
+% Leading indent for all footnote text (so you can omit \hspace{0.25em} in each)
+\let\savedfootnote\footnote
+\RenewDocumentCommand{\footnote}{ o m }{%
+  \IfNoValueTF{#1}{\savedfootnote{\hspace{0.25em}#2}}{\savedfootnote[#1]{\hspace{0.25em}#2}}%
+}
+
+% custom colors
+\definecolor{myPeriwinkle}{RGB}{204, 204, 255} 
+
+\newcommand{\hsp}{\kern 1pt}    % for nested quotation marks
+
+% Paragraph formatting
+\renewcommand{\baselinestretch}{1.125}      % Allow paragraphs to breathe by spreading the lines further
+% \setlength{\parskip}{0pt}                   % Fixed space between paragraphs (i.e. disable variable parskip)
+\setlength{\parindent}{2em}
+
+% Don’t add extra space after sentences
+\frenchspacing
+
+% Reduce widows/orphans
+\widowpenalty=0
+\clubpenalty=10000
+\hyphenpenalty=10000
+
+%  Title Fonts
+% J: hey beauty
+% ohn Milton: Apple Chancery
+% Through the Heretical Lens: Couture 
+
+
+% Page size
+\usepackage[
+    twoside,
+    % Executive
+    paperwidth=7in,
+    paperheight=10in,
+    top=0.95in,
+    bottom=1.15in,
+    outer=0.75in,
+    inner=0.85in,
+    bindingoffset=0.35in,
+    includeheadfoot,
+]{geometry}
+
+% Reduce overfull \hbox{} warnings
+\sloppy
+
+% Contents page
+
+% TOC
+\usepackage[titles]{tocloft} % Make the part *number* print as "Part I" 
+\renewcommand{\cftpartpresnum}{\partname~} % "Part " 
+
+% \renewcommand{\cftchapfont}{\large\itshape} 
+% \renewcommand{\cftchappagefont}{\normalfont} 
+% \renewcommand{\numberline}[1]{}
+\renewcommand{\cftpartaftersnum}{} % nothing after the Roman numeral 
+\renewcommand{\cftchapfont}{\large\itshape}
+\renewcommand{\cftchappagefont}{\normalfont}
+% (Do not redefine \numberline to {} — that hides chapter/section numbers in the TOC.)
+
+% PART entries (bigger / more prominent)
+\renewcommand{\cftpartfont}{\Large\scshape}
+\renewcommand{\cftpartpagefont}{\Large\normalfont}
+
+% CHAPTER entries (smaller / subordinate)
+\renewcommand{\cftchapfont}{\normalsize}      % or \small\itshape
+\renewcommand{\cftchappagefont}{\normalsize\normalfont}
+% Widen the number column so Roman numerals (e.g. VIII, XII) don't crowd the title
+\setlength{\cftchapnumwidth}{2.5em}
+
+% Call \tocbackmatterdivider once after \backmatter (before Glossary): inserts space and a
+% small flourish line in the .toc only, so the last Part is visually separated from back matter.
+% (Macro name must not contain @: .aux is read before @ is a letter.)
+\newcommand{\tocbackmatterdivider}{%
+  \addtocontents{toc}{\protect\tocbackmatterdividerprint}%
+}
+\newcommand{\tocbackmatterdividerprint}{%
+  \nobreak
+  \vskip 1em plus 2pt minus 2pt
+  \begingroup
+  \parindent \z@
+  \normalfont\normalsize
+  \noindent\rule{2cm}{1pt}
+  \par
+  \endgroup
+  \nobreak
+  \vskip 0.75em plus 2pt minus 2pt
+}
+
+% chapter headings
+\usepackage[center,sc]{titlesec}
+% Part TOC prefix: "Part I " (titlesec oldparttoc hook; applies to writes with name "part").
+\makeatletter
+\def\ttl@tocpart{\def\ttl@a{\partname~\thepart\hspace{1em}}}
+\makeatother
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{}
+
+\renewcommand{\thechapter}{\Roman{chapter}}
+\renewcommand{\chaptermark}[1]{\markboth{#1}{}}
+
+% Part and Chapter re-definitions
+\usepackage{adforn}
+\usepackage{xparse}
+
+% Holds the optional "Book ..." line for the next chapter (empty by default)
+\newcommand{\chapterbook}{}
+
+\titleformat{\chapter}[display]
+  {\normalfont}
+  {\centering{\fontsize{72}{80}\selectfont\thechapter}\\}
+  {0.5em}
+  {\centering\huge}
+  [
+    \if\relax\detokenize{\chapterbook}\relax
+    \else 
+      \vspace{0.5em}
+      \centering{\normalfont\Large \chapterbook}
+    \fi
+  ]
+
+% Space above chapter block (smaller = title higher on the page).
+% change 0.75em 1.25em or higher to move chapter title lower on the page
+\titlespacing*{\chapter}{0pt}{0.75em}{2em}
+
+% Optional chapter on a specific book
+\let\oldchapter\chapter
+\RenewDocumentCommand{\chapter}{ O{} O{} m }{%
+  \gdef\chapterbook{#2}%
+  \IfNoValueTF{#1}
+    {\oldchapter{#3}}
+    {%
+      % If user left the first optional arg empty, treat it as "not provided"
+      \if\relax\detokenize{#1}\relax
+        \oldchapter{#3}%
+      \else
+        \oldchapter[#1]{#3}%
+      \fi
+    }%
+  \gdef\chapterbook{}% reset so it doesn't leak to the next chapter
+}
+
+% --- Chapter opener: optional verso plate + recto \chapter (twoside spreads) ---
+% The book class is often used with openany, so \chapter does not guarantee a recto
+% opening. Call \chapteropener (with or without an image) immediately before \chapter
+% when you want the chapter title to begin on a right-hand (odd) page. If an image path
+% is given, it is set alone on the preceding verso (even) page with the attribution below.
+% The attribution is a single braced argument: avoid ``\cmd{}'' before the closing ``}''
+% (use ``\PL '' or ``\PL\ '' instead of ``\PL{}''), or wrap the whole line in an extra
+% pair of braces: \chapteropener[fig]{{Text \PL{} here.}}
+% For a recto chapter with no plate, use \chapterrectoonly instead of \chapteropener with
+% an empty optional (the latter ignores the attribution argument).
+\makeatletter
+\newcommand{\ttlchapterforcerecto}{%
+  \clearpage
+  \if@twoside
+    \ifodd\c@page
+    \else
+      \null\thispagestyle{empty}\newpage
+    \fi
+  \fi
+}
+\newcommand{\ttlchapterensureverso}{%
+  \clearpage
+  \if@twoside
+    \ifodd\c@page
+      \null\thispagestyle{empty}\newpage
+    \fi
+  \fi
+}
+\makeatother
+\newcommand{\chapterrectoonly}{\ttlchapterforcerecto}
+\NewDocumentCommand{\chapteropener}{ O{} m }{%
+  \if\relax\detokenize{#1}\relax
+    \ttlchapterforcerecto
+  \else
+    \ttlchapterensureverso
+    \thispagestyle{empty}%
+    \enlargethispage{\baselineskip}%
+    \vspace*{\stretch{1}}%
+    \begin{center}
+      \includegraphics[width=\linewidth,height=0.72\textheight,keepaspectratio]{#1}%
+    \end{center}%
+    \vspace{\stretch{1.5}}%
+    \if\relax\detokenize{#2}\relax
+    \else
+      \begin{minipage}[t]{\linewidth}
+        \footnotesize\itshape\raggedright
+        \noindent #2\par
+      \end{minipage}%
+    \fi
+    \vspace*{\stretch{1}}%
+    \clearpage
+    \ttlchapterforcerecto
+  \fi
+}
+
+\titleformat{\part}[display]
+  {\centering}                    % overall alignment
+  {\fontsize{48}{56}\selectfont
+  Part \thepart}                  % BIG "Part I"
+  {2em}                           % space between label and title
+  {\Huge\itshape}                 % title style
+  [\vspace{1em}\adfdoublesharpflourishleft\quad\adfast{9}\quad\adfdoublesharpflourishright] % TODO: add upside down cross here
+
+% Store part title for running head (left-center even page)
+\newcommand{\currentparttitle}{\subtitle} % default before first \part
+\let\oldpart\part
+\RenewDocumentCommand{\part}{ o m }{%
+  \gdef\currentparttitle{#2}%
+  \IfNoValueTF{#1}{\oldpart{#2}}{\oldpart[#1]{#2}}%
+}
+
+% With the book class, \titleformat{\part} runs \titleclass{\part}{page}, so \part uses
+% \ttl@page@i (not \ttl@part@i). titlesec's \ttl@labelling overwrites \ttl@savewrite with
+% \ttl@write{#1}{#2} (optional short title), duplicating "Part I" in the .toc; restore #3 after it.
+\makeatletter
+\def\ttl@page@i#1[#2]#3{%
+  \gdef\ttl@savemark{\csname#1mark\endcsname{#3}}%
+  \ifx\ttl@notocparts\@undefined
+    \def\ttl@savewrite{\ttl@write{#1}{#3}}%
+  \else
+    \let\ttl@savewrite\@empty
+  \fi
+  \def\ttl@savetitle{#3}%
+  \ttl@labelling{#1}{#2}%
+  \ifx\ttl@notocparts\@undefined
+    \def\ttl@savewrite{\ttl@write{#1}{#3}}%
+  \fi
+  \ttl@startargs\ttl@page@ii{#1}{#3}}
+\makeatother
+
+% headers/footers
+
+\newcommand{\ornpagenum}{%
+  \centering
+  \adfsharpflourishleft\kern0.6em
+  \thepage
+  \kern0.6em\adfsharpflourishright
+}
+
+\setlength{\headheight}{15pt}
+\renewcommand{\headrulewidth}{0pt}
+% \fancyhf[LFE,RFO]{\ornpagenum} % Set page numbers in the footer
+% \fancyhead[CE]{\subtitle} % Book title in middle of right-side page header
+\fancyhead[RCO]{\leftmark} % Chapter 
+\fancyhead[RO]{\thepage} % Chapter 
+\fancyhead[LCE]{{\itshape \currentparttitle}} % Part name (or subtitle before first part)
+\fancyhead[LE]{\thepage} % title
+ 
+
+% custom colors
+\definecolor{customgold}{RGB}{203,161,53}
+
+% for stressing syllables
+\usepackage{stackengine}
+\renewcommand\stacktype{L}
+
+% for the index
+\usepackage{imakeidx}
+\makeindex

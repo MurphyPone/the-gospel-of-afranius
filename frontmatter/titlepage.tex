@@ -1,0 +1,31 @@
+% Página de título (contra-capa)
+\begin{titlepage}
+    \centering
+    \newgeometry{top=1in,bottom=1in,right=0in,left=0in}
+    \thispagestyle{empty}
+
+    % Title
+    % Mess with the font size here
+    \vspace{6pt}
+    {\Huge\booktitle}
+
+    % Subtitle
+    {
+        \vspace{25pt}
+        \hspace{50pt}
+        \begin{minipage}{10cm}{
+            \Huge\subtitle
+        }
+        \end{minipage}
+	
+	% \vspace{\stretch{1.25}}
+    }
+    
+
+    % Editora
+    \vspace{\stretch{6}}
+    {
+        % {\scshape\large \authorname\par}
+        % \Huge\scshape\large\publisher\par
+    }
+\end{titlepage}

@@ -1,0 +1,10 @@
+\cleardoublepage
+\thispagestyle{empty}
+\begingroup
+  \makeatletter
+  \let\addcontentsline\@gobblethree % don't write "Contents" into the .toc
+  \makeatother
+  \renewcommand{\contentsname}{{\Huge Table of Contents}} % optional
+  \tableofcontents
+\endgroup
+\cleardoublepage
