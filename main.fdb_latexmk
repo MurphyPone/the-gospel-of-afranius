@@ -1,22 +1,22 @@
 # Fdb version 4
-["biber main"] 1781288474.31809 "main.bcf" "main.bbl" "main" 1781293537.34809 0
-  "main.bcf" 1781293536.75367 108131 30320fdbe89f7517eb602099ed86e32b "xelatex"
+["biber main"] 1781528005.38996 "main.bcf" "main.bbl" "main" 1781535283.56579 0
+  "main.bcf" 1781535282.48714 108131 30320fdbe89f7517eb602099ed86e32b "xelatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["makeindex main.idx"] 1781288473.87464 "main.idx" "main.ind" "main" 1781293537.34804 0
-  "main.idx" 1781293536.32436 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+["makeindex main.idx"] 1781528005.19046 "main.idx" "main.ind" "main" 1781535283.56574 0
+  "main.idx" 1781535281.89145 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
   (generated)
   "main.ilg"
   "main.ind"
   (rewritten before read)
-["xdvipdfmx"] 1781293537.03502 "main.xdv" "main.pdf" "main" 1781293537.34955 0
-  "main.xdv" 1781293536.75479 411212 db82bda6a6d5b778552007e8f750778d "xelatex"
+["xdvipdfmx"] 1781535282.89005 "main.xdv" "main.pdf" "main" 1781535283.56738 0
+  "main.xdv" 1781535282.4885 546768 171d1d2706358d1952482f436b301d60 "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1781293535.07679 "main.tex" "main.xdv" "main" 1781293537.34811 0
+["xelatex"] 1781535280.75404 "main.tex" "main.xdv" "main" 1781535283.56582 0
   "/usr/local/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/jknappen/ec/ecrm1200.tfm" 1136768653 3584 f80ddd985bd00e29e9a6047ebd9d4781 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm" 1575236847 588 30b875a179a99eec0f6f0a2540c942c1 ""
@@ -223,11 +223,12 @@
   "/usr/local/texlive/2026/texmf-dist/web2c/texmf.cnf" 1770478701 43630 e9fa012910491fe5ae08a72c3c2997a7 ""
   "/usr/local/texlive/2026/texmf-var/web2c/xetex/xelatex.fmt" 1772409801 5948578 5fe39ea6ff7c75811a06ab52f34ee855 ""
   "/usr/local/texlive/2026/texmf.cnf" 1772409725 577 648cd9f92f9c0eac486f4c71c85cfbbe ""
+  "assets/procurator.png" 1781535164.46247 941099 4dce147e038b9302891ba37bcc1ce721 ""
   "content/01-preface.tex" 1781187436.72783 3984 6bfc4015156033d31fcf9b9bb7b0cf80 ""
   "content/02-mcdowells-argument.tex" 1781188305.5493 6904 ab47c8fcf690bd8a66ca8b88674d5cc1 ""
   "content/03-problem-statement.tex" 1781192547.95495 8438 6a95e41277b8a892c6fb5f33eff170f0 ""
   "content/04-historical-background.tex" 1781192542.33829 10793 9aae999a493058162a5d5f16f990d628 ""
-  "content/05-the-procurator-of-judea.tex" 1781193343.93784 15362 fdac9ada7c012f24a7f294ea5a5c7730 ""
+  "content/05-the-procurator-of-judea.tex" 1781535277.55842 15538 98024c4c6409fa1e608190ff374af964 ""
   "content/06-golgatha.tex" 1781195770.44808 12264 461fda586b685f1895dc1727bc826e3c ""
   "content/07-john-the-baptist.tex" 1781204272.10865 27609 36bc423d2649a29e24f3aa1c8678cb43 ""
   "content/08-the-raising-of-lazarus.tex" 1781284469.2758 10519 09465ddf537a23feb8a202b2d49093ca ""
@@ -237,15 +238,15 @@
   "content/12-second-warning.tex" 1781290181.84748 9291 e8542eb740badd1d75c0b8ec26fe8ea1 ""
   "content/13-appearances-of-the-risen-christ.tex" 1781291457.54503 27695 9fc06287dae21b39187bf9414a6f812d ""
   "content/14-third-warning.tex" 1781291630.16433 2627 6c0251e772b58a317b5ac371be53f71d ""
-  "content/15-the-gospel-of-afranius.tex" 1781293530.43834 62540 1ca52ce08c42c9345920862801376ce1 ""
+  "content/15-the-gospel-of-afranius.tex" 1781527834.4816 126910 a1390352feb2f6d1ecc269384564ab2f ""
   "frontmatter/copyrightpage.tex" 1781186484.28628 922 4962f5bad72fecde9af16d3fe24be779 ""
   "frontmatter/titlepage.tex" 1781186793.75828 590 0c7a18f1ef89cd0a9c81ed39df448892 ""
-  "main.aux" 1781293536.74764 3093 65349af9312ec38c01335d8be0fd975a "xelatex"
-  "main.bbl" 1781288486.18466 466 76d65a242ec496c9b4361af646ff12cb "biber main"
-  "main.ind" 1781288474.317 0 d41d8cd98f00b204e9800998ecf8427e "makeindex main.idx"
-  "main.run.xml" 1781293536.75465 2385 0b7d280d70fcf871baa59d1ad6178a6c "xelatex"
+  "main.aux" 1781535282.48053 3538 af66a85dde541d31608290015f4cfd0a "xelatex"
+  "main.bbl" 1781528009.21157 466 76d65a242ec496c9b4361af646ff12cb "biber main"
+  "main.ind" 1781528005.38854 0 d41d8cd98f00b204e9800998ecf8427e "makeindex main.idx"
+  "main.run.xml" 1781535282.48831 2385 0b7d280d70fcf871baa59d1ad6178a6c "xelatex"
   "main.tex" 1781291813.38975 2105 102b0f7db41a0ecfd8e5c7dca5b471b4 ""
-  "misc/options.sty" 1781186195.25949 10278 406f7d742e59c8caf26586a906848411 ""
+  "misc/options.sty" 1781528067.26597 10277 5b99fe2aacf7c34ddf7df623da2ab1f6 ""
   (generated)
   "main.aux"
   "main.bcf"

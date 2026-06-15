@@ -508,6 +508,9 @@ INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/heuristica/Heuristica-
 INPUT ./content/05-the-procurator-of-judea.tex
 INPUT ./content/05-the-procurator-of-judea.tex
 INPUT content/05-the-procurator-of-judea.tex
+INPUT ./assets/procurator.png
+INPUT ./assets/procurator.png
+INPUT ./assets/procurator.png
 INPUT ./content/06-golgatha.tex
 INPUT ./content/06-golgatha.tex
 INPUT content/06-golgatha.tex
@@ -539,6 +542,7 @@ INPUT content/14-third-warning.tex
 INPUT ./content/15-the-gospel-of-afranius.tex
 INPUT ./content/15-the-gospel-of-afranius.tex
 INPUT content/15-the-gospel-of-afranius.tex
+INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/heuristica/Heuristica-Italic-tlf-t1.tfm
 INPUT main.aux
 INPUT main.run.xml
 OUTPUT main.run.xml
