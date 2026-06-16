@@ -428,6 +428,8 @@ INPUT ./frontmatter/titlepage.tex
 INPUT ./frontmatter/titlepage.tex
 INPUT frontmatter/titlepage.tex
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/heuristica/Heuristica-Regular-tlf-t1.tfm
+INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/heuristica/Heuristica-Regular-tlf-t1.tfm
+INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/heuristica/Heuristica-Italic-tlf-t1.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/fourier/futr8t.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/fourier/futr8t.tfm
 INPUT /usr/local/texlive/2026/texmf-dist/tex/latex/fourier/fmlfutmi.fd
@@ -455,6 +457,16 @@ INPUT ./frontmatter/copyrightpage.tex
 INPUT ./frontmatter/copyrightpage.tex
 INPUT frontmatter/copyrightpage.tex
 INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/heuristica/Heuristica-Italic-tlf-t1.tfm
+INPUT ./frontmatter/tocpage.tex
+INPUT ./frontmatter/tocpage.tex
+INPUT ./frontmatter/tocpage.tex
+INPUT ./frontmatter/tocpage.tex
+INPUT frontmatter/tocpage.tex
+INPUT ./main.toc
+INPUT ./main.toc
+INPUT main.toc
+INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/heuristica/Heuristica-Bold-tlf-t1.tfm
+OUTPUT main.toc
 INPUT ./content/01-preface.tex
 INPUT ./content/01-preface.tex
 INPUT content/01-preface.tex
@@ -514,7 +526,6 @@ INPUT ./assets/procurator.png
 INPUT ./content/06-golgatha.tex
 INPUT ./content/06-golgatha.tex
 INPUT content/06-golgatha.tex
-INPUT /usr/local/texlive/2026/texmf-dist/fonts/tfm/public/heuristica/Heuristica-Regular-tlf-t1.tfm
 INPUT ./content/07-john-the-baptist.tex
 INPUT ./content/07-john-the-baptist.tex
 INPUT content/07-john-the-baptist.tex

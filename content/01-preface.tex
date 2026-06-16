@@ -1,3 +1,9 @@
+% No \chapter here (the preface opens straight into the epigraph), so set the running
+% head and TOC entry by hand. Without this, \leftmark keeps the stale "Table of Contents"
+% mark and it leaks onto the preface pages.
+\addcontentsline{toc}{chapter}{Preface}
+\markboth{Preface}{}
+
 % TODO: float me right
 \vspace*{\fill}
     \noindent

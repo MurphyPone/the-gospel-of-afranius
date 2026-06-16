@@ -87,6 +87,10 @@
 \clubpenalty=10000
 \hyphenpenalty=10000
 
+% Don't stretch inter-paragraph glue to force text to the bottom margin; let pages
+% end naturally so paragraph spacing stays uniform (at the cost of ragged bottoms).
+\raggedbottom
+
 
 % Page size
 \usepackage[
@@ -95,7 +99,7 @@
     paperwidth=156mm,
     paperheight=234mm,
     top=0.95in,
-    bottom=1.15in,
+    bottom=0.9in,
     outer=0.75in,
     inner=0.85in,
     bindingoffset=0.35in,
@@ -128,6 +132,8 @@
 \renewcommand{\cftchappagefont}{\normalsize\normalfont}
 % Widen the number column so Roman numerals (e.g. VIII, XII) don't crowd the title
 \setlength{\cftchapnumwidth}{2.5em}
+% Tighten vertical gap between chapter entries (default 1.0em) so the TOC fits one page
+\setlength{\cftbeforechapskip}{0.5em}
 
 % Call \tocbackmatterdivider once after \backmatter (before Glossary): inserts space and a
 % small flourish line in the .toc only, so the last Part is visually separated from back matter.
@@ -186,21 +192,30 @@
 % change 0.75em 1.25em or higher to move chapter title lower on the page
 \titlespacing*{\chapter}{0pt}{0.75em}{2em}
 
-% Optional chapter on a specific book
+% Optional chapter on a specific book.
+% Unstarred: \chapter[toc]{Title} or \chapter[toc][Subtitle]{Title} -> numbered.
+% Starred:   \chapter*{Title}      or \chapter*[Subtitle]{Title}    -> unnumbered,
+%            no Roman numeral, but the same centered title + optional subtitle line.
 \let\oldchapter\chapter
-\RenewDocumentCommand{\chapter}{ O{} O{} m }{%
-  \gdef\chapterbook{#2}%
-  \IfNoValueTF{#1}
-    {\oldchapter{#3}}
-    {%
-      % If user left the first optional arg empty, treat it as "not provided"
-      \if\relax\detokenize{#1}\relax
-        \oldchapter{#3}%
+\RenewDocumentCommand{\chapter}{ s O{} O{} m }{%
+  \IfBooleanTF{#1}
+    {% starred: unnumbered chapter; first optional arg is the subtitle.
+      % \chapter* does not run \chaptermark or write to the .toc, so do both by hand.
+      \gdef\chapterbook{#2}%
+      \oldchapter*{#4}%
+      \chaptermark{#4}%
+      \addcontentsline{toc}{chapter}{#4}%
+      \gdef\chapterbook{}%
+    }
+    {% unstarred: original behaviour (#2 = toc short title, #3 = "Book ..." subtitle)
+      \gdef\chapterbook{#3}%
+      \if\relax\detokenize{#2}\relax
+        \oldchapter{#4}%
       \else
-        \oldchapter[#1]{#3}%
+        \oldchapter[#2]{#4}%
       \fi
+      \gdef\chapterbook{}% reset so it doesn't leak to the next chapter
     }%
-  \gdef\chapterbook{}% reset so it doesn't leak to the next chapter
 }
 
 % --- Chapter opener: optional verso plate + recto \chapter (twoside spreads) ---
@@ -308,7 +323,7 @@
 % \fancyhead[CE]{\subtitle} % Book title in middle of right-side page header
 \fancyhead[RCO]{\leftmark} % Chapter 
 \fancyhead[RO]{\thepage} % Chapter 
-\fancyhead[LCE]{{\itshape \currentparttitle}} % Part name (or subtitle before first part)
+\fancyhead[LCE]{{\currentparttitle}} % Part name (or subtitle before first part)
 \fancyhead[LE]{\thepage} % title
  
 
