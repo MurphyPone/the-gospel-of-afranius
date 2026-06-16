@@ -1,17 +1,38 @@
 % Start a fresh page with the running head + TOC entry of a chapter, but suppress the
 % visible chapter title (the letterhead below serves as this section's heading).
-\cleardoublepage
+% \clearpage (not \cleardoublepage) to match the document's openany chapters, which
+% open on any next page rather than forcing a recto + possible blank verso.
+\clearpage
 \markboth{The Gospel of Afranius}{}
 \addcontentsline{toc}{chapter}{The Gospel of Afranius}
 
-\noindent logo on the top right
-\begin{center}
-    STRICTLY CONFIDENTIAL\\ % TODO: better font
-    \Huge IMPERIAL SECRET SERVICE \\
-    \Large (JERUSALEM STATION)
-\end{center}
+% SPQR emblem as faint letterhead watermark in the top-left corner. Placed in a
+% zero-size box (\smash + overlay) so it does not push the centered title block down.
+\noindent\smash{%
+  \begin{tikzpicture}[remember picture, overlay]
+    \node[anchor=north west, inner sep=0pt]
+      at (0,0) {\includegraphics[width=2.2cm]{assets/spqr.png}};
+  \end{tikzpicture}%
+}%
+% Letterhead text pinned to the top-right corner of the text block (right-aligned),
+% in a zero-size overlay so it does not push the letter body down.
+\noindent\smash{%
+  \begin{tikzpicture}[remember picture, overlay]
+    \node[anchor=north east, inner sep=0pt, align=right] at (\linewidth,0) {%
+      \letterheadfont
+      \begin{tabular}{@{}r@{}}
+        \textbf{STRICTLY CONFIDENTIAL} \\
+        IMPERIAL SECRET SERVICE \\
+        JERUSALEM STATION
+      \end{tabular}%
+    };
+  \end{tikzpicture}%
+}%
+\vspace*{1em}
 
-\vspace{1em}
+% Reserve vertical room for the top-left emblem and top-right letterhead overlays
+% (both are zero-height) so the letter body starts below them.
+\vspace*{2.4cm}
 
 \noindent The Honorable Vitellius \\
 \noindent Proconsul of Syria \\
@@ -89,7 +110,12 @@ A week or so later, however, the bazaars of Jerusalem were abuzz with rumors tha
 
 Later on, of course, I conducted a thorough investigation and discovered that Judas, as I should have expected, let greed get the better of him. Everything would have gone just fine had he hired an appropriate number of crooks to witness his ``miracle'' and honestly paid them for their work (which was how I personally thought he went about it). Judas, however, found it vitally necessary to cover for the money he had embezzled; as a result, he decided to economize and bring in honest people as witnesses, reckoning quite rightly that they would do the work for free. All of Lazarus' immediate family were ardent supporters of Yeshua; I don't think Judas had a hard time trying to convince them to take part in the deception---for the noblest of causes, of course---especially since he had a simply marvelous way of \emph{working} with women. Unfortunately, things played out almost like an Aesop's fable, and Judas' greed came back to bite him: he somehow failed to realize that honest people are the ones most likely to stab you in the back.
 
-% TODO: img 
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=1\textwidth]{assets/afranius-1.png}
+    \label{fig:afranius-1}
+\end{figure}
+
 Which is exactly what happened. The disciples realized almost immediately that they had been conned, and shunned Lazarus' family entirely. His sisters took it quite hard, and eventually asked Judas to stand up for them before their fellow believers and take his share of the blame. Judas realized he was at imminent risk for expulsion from the community, which would be utterly catastrophic for him. To the \emph{victor} go the spoils, but a failed agent could hardly count on any leniency during the inevitable financial audit. For a while, he managed to wriggle his way out of it and put off the decisive conversation, but on the ``Night of the Spilled Myrrh,'' the sisters gave Judas an ultimatum: either he would inform the community of his role in Lazarus' resurrection, or they would do it for him. Judas knew it was all over, and it was time to call it quits; he left the meal and headed
 straight for the high priest Caiaphas.
 
@@ -507,12 +533,17 @@ It was a total knockout. I took a seat on the stool Ha-Notsri had graciously fre
 
 Overall, Fabricius' already insane idea was now exponentially more insane, but we had no other option; if we had any chance of escaping the snare we were trapped in, it was by forging ahead, without so much as a backward glance. As for ``doing everything the way we planned it,'' that, of course, was all talk: it went without saying that the plan needed significant alterations, and on extremely short notice. At this particular moment, for example, all of Yeshua's disciples and female companions were completely under our watch. We had taken special measures to prevent them from being present at the execution site and taking part in the burial of the bodies (which would be \emph{treated} to render them unidentifiable, then thrown into a common grave). Now, none of that made any sense; in fact, it was highly desirable that they saw their teacher's body with their own eyes.
 
-% TODO: image 
-
 On the other hand, now we urgently needed to find an actual tomb, preferably one in a relatively isolated location. Fabricius immediately sought out Nicodemus. Didn't he think that one of Yeshua's followers should ensure he received a proper burial? As far as the advisor knew, the Romans were planning to throw all the convicts' bodies into a ditch. However, the Procurator had received a message saying that Yeshua's body might be targeted by various groups---including the disciples and the high priests---for use in some scheme or another, all of which could lead to public unrest in the city. The advisor was convinced: with things as they were, not only would the Procurator refrain from objecting if a well-respected citizen wanted to bury the convict with full rites, he would see it as a friendly gesture of the highest degree. In fact, the Hegemon himself wanted to post a guard at the burial site---``as a deterrent...''
 
 To make a long story short, our problem was solved within a few hours. The owner of the tomb, it turned out, was a person we already knew, a friend and associate of Nicodemus: Joseph, from the town of Arimathea. It was him who came to Pilate (who I notified in advance) to request the body. As luck would have it, Joseph's tomb was located a considerable distance away from the city---exactly what we needed.
 
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=1\textwidth]{assets/afranius-2.png}
+    \label{fig:afranius-2}
+\end{figure}
+
+\newpage
 A short time later, some messengers came looking for me: ``Report to the Hegemon at once!'' I entered Pilate's chambers expecting the very worst. As it turned out, the Procurator was absolutely fuming at the release of Barabbas, a ``hundredman'' in Eleazar's gang. Was my head so baked by the Asian sun that I decided to let this terrorist go in peace? Did I not think this was too high a price to pay for covering up my scheme with Ha-Notsri? I did not, and explained to the Procurator that this gave One-Eyed Simon the opportunity to blame the pardoned hundredman for any and all information leaks, both past and future; there was no need to get our hands dirty, as the Zealots would take care of Barabbas themselves. Right as I said this, it occurred to me that the Hegemon hadn't doubted the success of my scheme for one second. I walked out with my stomach in knots, but also with a renewed sense of confidence: my streak of bad luck (knock on wood!) was finally over, and the deck was once again stacked in our favor.
 
 That being said, there was one more obstacle standing in our way, which threatened to bring our cunning plan down in one fell swoop. Our whole scheme revolved around the fact that people \emph{wanted} to see their teacher resurrected; all we needed to do was \emph{help} them fulfill their conscious and unconscious desires. There was one man, however, who would happily give up half his life for the chance to expose our hoax. This man, as I'm sure you've already guessed, Proconsul, was none other than Demiurge.
@@ -609,7 +640,12 @@ What could all of this mean? The more I thought about it, the more the Procurato
 
 As for the others... Petronius and his men? All they did was liquidate a turncoat, nothing more. The operatives who escorted the disciples? They had to guard them from lynching, which could have caused mass disturbances. Rufus, who had finally succumbed to peritonitis three days after the ambush on Judas? He was killed on the spot in a nighttime terrorist attack on a Roman patrol near Emmaus (good luck digging into that one!). The ``angels in white robes'' and the makeup artist? Hm... Maybe so... About three weeks ago, our station chief in the Principality of Samosata had noted a sharp increase in the activity of Parthian intelligence and, as usual, complained about a shortage in personnel; perhaps it was worth fulfilling his request. What else was there? The financial statements? Those, I always kept in order---they were as clean as a whistle. So just what was the Procurator asking of me?
 
-% TODO: image 
+\begin{figure}[htbp]
+    \centering
+    \includegraphics[width=1\textwidth]{assets/afranius-3.png}
+    \label{fig:afranius-3}
+\end{figure}
+\newpage
 
 The fear struck me that the problem wasn't the Sanhedrin's investigation (they would never come up with anything, nor could they), but something far more serious. Perhaps something massive had shifted somewhere \emph{up in the spheres}, which I still couldn't detect from my pygmy stature. Or perhaps the Procurator himself had concluded that the seeds we had sown were sprouting too vigorously and wildly, and there was no putting the genie back into the bottle of ``countering Jewish extremism.'' And if so, then my attempt to \emph{tie up loose ends} was leading up to a predictable, depressing finale: the moment I completed that task would be my very last. As soon as I came to that disappointing conclusion, I set about composing a document describing the course of Operation FISH---the very one, Proconsul, you are holding in your hands.
 
@@ -732,7 +768,7 @@ The suicide, for what it's worth, was as real as they come, though you probably 
 And really, what did he think of it? That is a question I have never been able to find the answer to, even though I've been putting more than enough thought into it these days. But what can you do? I am only capable of thinking logically, and it seems this is the sort of problem that logic cannot even begin to solve. And so, Proconsul, there is one advantage I have over you now, dubious though it may be: by the time you read this sentence, I will definitely have gotten the answer I've been looking for. An absolutely perfect answer.
 
 \hfill
-\begin{tabular}{l@{}}
+\begin{tabular}{r@{}}
     Jerusalem \\
     28 May 788 \emph{ab urbe condita} \\
     Chief of the Secret Service for the Procurator of Judea \\

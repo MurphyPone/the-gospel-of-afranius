@@ -5,12 +5,12 @@
 \contentsline {chapter}{Historical Background}{16}{}%
 \contentsline {chapter}{The Procurator of Judea}{24}{}%
 \contentsline {chapter}{Golgatha}{35}{}%
-\contentsline {chapter}{John the Baptist}{43}{}%
-\contentsline {chapter}{The Raising of Lazarus}{62}{}%
-\contentsline {chapter}{Judas}{70}{}%
-\contentsline {chapter}{The Last Supper and Gethsemane}{81}{}%
-\contentsline {chapter}{The Empty Tomb}{92}{}%
-\contentsline {chapter}{Second Warning to McDowell}{104}{}%
-\contentsline {chapter}{The Appearances of the Risen Christ}{111}{}%
-\contentsline {chapter}{Third Warning to McDowell}{130}{}%
-\contentsline {chapter}{The Gospel of Afranius}{133}{}%
+\contentsline {chapter}{John the Baptist}{44}{}%
+\contentsline {chapter}{The Raising of Lazarus}{64}{}%
+\contentsline {chapter}{Judas}{72}{}%
+\contentsline {chapter}{The Last Supper and Gethsemane}{83}{}%
+\contentsline {chapter}{The Empty Tomb}{94}{}%
+\contentsline {chapter}{Second Warning to McDowell}{106}{}%
+\contentsline {chapter}{The Appearances of the Risen Christ}{113}{}%
+\contentsline {chapter}{Third Warning to McDowell}{132}{}%
+\contentsline {chapter}{The Gospel of Afranius}{134}{}%

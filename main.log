@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.3.1)  16 JUN 2026 11:39
+This is XeTeX, Version 3.141592653-2.6-0.999998 (TeX Live 2026) (preloaded format=xelatex 2026.3.1)  16 JUN 2026 12:24
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -190,6 +190,23 @@ Package fontspec Info:
 (fontspec)             - 'small caps'  (m/sc) with NFSS spec.:
 (fontspec)             <->"[LinLibertine_R.otf]/OT:script=latn;language=dflt;+s
 mcp;"
+
+
+Package fontspec Info: 
+(fontspec)             Font family 'CourierNew(0)' created for font 'Courier
+(fontspec)             New' with options [].
+(fontspec)              
+(fontspec)              This font family consists of the following NFSS
+(fontspec)             series/shapes:
+(fontspec)              
+(fontspec)             - 'normal' (m/n) with NFSS spec.: <->"Courier
+(fontspec)             New/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold' (b/n) with NFSS spec.: <->"Courier
+(fontspec)             New/B/OT:script=latn;language=dflt;"
+(fontspec)             - 'italic' (m/it) with NFSS spec.: <->"Courier
+(fontspec)             New/I/OT:script=latn;language=dflt;"
+(fontspec)             - 'bold italic' (b/it) with NFSS spec.: <->"Courier
+(fontspec)             New/BI/OT:script=latn;language=dflt;"
 
 
 (/usr/local/texlive/2026/texmf-dist/tex/generic/babel/babel.sty
@@ -2772,87 +2789,87 @@ LaTeX Font Info:    Font shape `T1/Heuristica-TLF/b/n' will be
 ])
 (./content/01-preface.tex
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/it' will be
-(Font)              scaled to size 10.0pt on input line 10.
+(Font)              scaled to size 10.0pt on input line 9.
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/n' will be
-(Font)              scaled to size 14.4pt on input line 18.
+(Font)              scaled to size 14.4pt on input line 17.
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/n' will be
-(Font)              scaled to size 9.0pt on input line 21.
+(Font)              scaled to size 9.0pt on input line 20.
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line 21.
+(Font)              scaled to size 10.0pt on input line 20.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 21.
+(Font)              scaled to size 9.19998pt on input line 20.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 6.99199pt on input line 21.
+(Font)              scaled to size 6.99199pt on input line 20.
 LaTeX Font Info:    Font shape `FMX/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 21.
+(Font)              scaled to size 5.51999pt on input line 20.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 9.19998pt on input line 21.
+(Font)              scaled to size 9.19998pt on input line 20.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 6.99199pt on input line 21.
+(Font)              scaled to size 6.99199pt on input line 20.
 LaTeX Font Info:    Font shape `U/futm/m/n' will be
-(Font)              scaled to size 5.51999pt on input line 21.
+(Font)              scaled to size 5.51999pt on input line 20.
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/n' will be
-(Font)              scaled to size 7.6pt on input line 21.
+(Font)              scaled to size 7.6pt on input line 20.
 
-Underfull \hbox (badness 4168) in paragraph at lines 24--28
+Underfull \hbox (badness 4168) in paragraph at lines 23--27
 \T1/Heuristica-TLF/m/n/12 two stories---that of a lost ship which searches the
  []
 
 
-Underfull \hbox (badness 1803) in paragraph at lines 24--28
+Underfull \hbox (badness 1803) in paragraph at lines 23--27
 \T1/Heuristica-TLF/m/n/12 of a god who is cru-ci-fied on Gol-go-tha.''[][]With 
 re-gard
  []
 
 
-Underfull \hbox (badness 5388) in paragraph at lines 24--28
+Underfull \hbox (badness 5388) in paragraph at lines 23--27
 \T1/Heuristica-TLF/m/n/12 more rarely, it may take the form of a stan-dalone
  []
 
 
-Underfull \hbox (badness 2903) in paragraph at lines 24--28
+Underfull \hbox (badness 2903) in paragraph at lines 23--27
 \T1/Heuristica-TLF/m/n/12 work (such as those of France and An-dreyev).[][] The
 
  []
 
 
-Underfull \hbox (badness 3000) in paragraph at lines 24--28
+Underfull \hbox (badness 3000) in paragraph at lines 23--27
 \T1/Heuristica-TLF/m/n/12 ``Hys-tere-sis Loop'') and in the de-gree to which th
 ey
  []
 
 
-Underfull \hbox (badness 6910) in paragraph at lines 24--28
+Underfull \hbox (badness 6910) in paragraph at lines 23--27
 \T1/Heuristica-TLF/m/n/12 the pin-point pre-ci-sion of Yury Dom-brovsky to the
  []
 
 
-Underfull \hbox (badness 1502) in paragraph at lines 24--28
+Underfull \hbox (badness 1502) in paragraph at lines 23--27
 \T1/Heuristica-TLF/m/it/12 to St. Matthew \T1/Heuristica-TLF/m/n/12 and \T1/Heu
 ristica-TLF/m/it/12 The Last Temp-ta-tion of Christ\T1/Heuristica-TLF/m/n/12 . 
 It
  []
 
 
-Underfull \hbox (badness 3838) in paragraph at lines 24--28
+Underfull \hbox (badness 3838) in paragraph at lines 23--27
 \T1/Heuristica-TLF/m/n/12 goes with-out say-ing that all these au-thors' ver-si
 ons
  []
 
 
-Underfull \hbox (badness 2626) in paragraph at lines 24--28
+Underfull \hbox (badness 2626) in paragraph at lines 23--27
 \T1/Heuristica-TLF/m/n/12 dif-fer quite rad-i-cally, to the point where the Gos
 pel
  []
 
 
-Underfull \hbox (badness 1983) in paragraph at lines 24--28
+Underfull \hbox (badness 1983) in paragraph at lines 23--27
 \T1/Heuristica-TLF/m/n/12 fig-ures de-picted in them are merely ``homonyms'' of
 
  []
 
 
-Underfull \hbox (badness 1931) in paragraph at lines 24--28
+Underfull \hbox (badness 1931) in paragraph at lines 23--27
 \T1/Heuristica-TLF/m/n/12 each other---compare France's Pi-late with Bul-gakov'
 s,
  []
@@ -2860,52 +2877,52 @@ s,
 [1
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 29--29
+Underfull \hbox (badness 10000) in paragraph at lines 28--28
 \T1/Heuristica-TLF/m/n/10 translit-er-a-tion of the He-brew word ``Yerusha-layi
 m,'' mean-ing
  []
 
 
-Underfull \hbox (badness 1874) in paragraph at lines 29--29
+Underfull \hbox (badness 1874) in paragraph at lines 28--28
 [][] \T1/Heuristica-TLF/m/n/10 Sim-i-larly to his use of the word ``Yer-sha-lai
 m'' (see note 6),
  []
 
 ) (./content/02-mcdowells-argument.tex
-Underfull \hbox (badness 10000) in paragraph at lines 29--1
+Underfull \hbox (badness 10000) in paragraph at lines 28--1
 []\T1/Heuristica-TLF/m/n/12 Nevertheless, there is still one fun-da-men-tal
  []
 
 
-Underfull \hbox (badness 3713) in paragraph at lines 29--1
+Underfull \hbox (badness 3713) in paragraph at lines 28--1
 \T1/Heuristica-TLF/m/n/12 are sub-ject to: su-per-nat-u-ral forces may not di-r
 ectly
  []
 
 
-Underfull \hbox (badness 1137) in paragraph at lines 29--1
+Underfull \hbox (badness 1137) in paragraph at lines 28--1
 \T1/Heuristica-TLF/m/n/12 the Bod-ily Res-ur-rec-tion is al-ways omit-ted from 
 these
  []
 
 
-Underfull \hbox (badness 7308) in paragraph at lines 29--1
+Underfull \hbox (badness 7308) in paragraph at lines 28--1
 \T1/Heuristica-TLF/m/n/12 who have turned to this theme were un-doubt-edly
  []
 
 
-Underfull \hbox (badness 3118) in paragraph at lines 29--1
+Underfull \hbox (badness 3118) in paragraph at lines 28--1
 \T1/Heuristica-TLF/m/n/12 peo-ple of faith. And since I be-long to a gen-er-a-t
 ion
  []
 
 
-Underfull \hbox (badness 2698) in paragraph at lines 29--1
+Underfull \hbox (badness 2698) in paragraph at lines 28--1
 \T1/Heuristica-TLF/m/n/12 whose per-cep-tions were shaped im-mea-sur-ably more
  []
 
 
-Underfull \hbox (badness 1975) in paragraph at lines 29--1
+Underfull \hbox (badness 1975) in paragraph at lines 28--1
 \T1/Heuristica-TLF/m/n/12 by Bul-gakov's Yeshua[][] than by his of-fi-cial pro-
 to-type,
  []
@@ -4051,233 +4068,236 @@ is
 [35
 
 ]
-Underfull \hbox (badness 3098) in paragraph at lines 12--12
+Underfull \hbox (badness 3098) in paragraph at lines 11--11
 \T1/Heuristica-TLF/m/n/10 the three Syn-op-tic Gospels are gen-uine mem-oirs, w
 hereas the
  []
 
 
-Underfull \hbox (badness 1067) in paragraph at lines 12--12
+Underfull \hbox (badness 1067) in paragraph at lines 11--11
 \T1/Heuristica-TLF/m/n/10 writ-ten many years later, in which truth and artis-t
 ic li-cense are
  []
 
 
-Underfull \hbox (badness 1014) in paragraph at lines 12--12
+Underfull \hbox (badness 1014) in paragraph at lines 11--11
 \T1/Heuristica-TLF/m/n/10 ow-ing to the ge-nius (or Di-vine In-spi-ra-tion, you
 r choice) be-hind
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 12--13
+Underfull \hbox (badness 10000) in paragraph at lines 11--12
 \T1/Heuristica-TLF/m/n/12 where John de-scribes cer-tain col-or-ful in-ci-dents
  in
  []
 
 
-Underfull \hbox (badness 2617) in paragraph at lines 12--13
+Underfull \hbox (badness 2617) in paragraph at lines 11--12
 \T1/Heuristica-TLF/m/n/12 how-ever, the scene at Gol-go-tha is unique: here, th
 e
  []
 
 
-Underfull \hbox (badness 1189) in paragraph at lines 12--13
+Underfull \hbox (badness 1189) in paragraph at lines 11--12
 \T1/Heuristica-TLF/m/n/12 con-tra-dict-ing each other in lit-er-ally ev-ery de-
 tail. And
  []
 
 
-Underfull \hbox (badness 2126) in paragraph at lines 12--13
+Underfull \hbox (badness 2126) in paragraph at lines 11--12
 \T1/Heuristica-TLF/m/n/12 since my ar-gu-ments are based on com-plete trust in
  []
 
-[36] [37]
-Underfull \hbox (badness 7888) in paragraph at lines 16--17
+[36]
+File: assets/golgatha.png Graphic file (type bmp)
+<assets/golgatha.png>
+ [37] [38]
+Underfull \hbox (badness 7888) in paragraph at lines 22--23
 []\T1/Heuristica-TLF/m/n/12 I once heard the fol-low-ing, purely philo-log-i-ca
 l
  []
 
 
-Underfull \hbox (badness 2698) in paragraph at lines 16--17
+Underfull \hbox (badness 2698) in paragraph at lines 22--23
 \T1/Heuristica-TLF/m/n/12 ar-gu-ment in sup-port of the Gospels' au-then-tic-it
 y as
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 16--17
+Underfull \hbox (badness 10000) in paragraph at lines 22--23
 \T1/Heuristica-TLF/m/n/12 his-tor-i-cal doc-u-ments. It con-cerns a widely know
 n
  []
 
 
-Underfull \hbox (badness 6493) in paragraph at lines 22--23
+Underfull \hbox (badness 6493) in paragraph at lines 28--29
 \T1/Heuristica-TLF/m/n/12 only emerged as a lit-er-ary de-vice with the ad-vent
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--23
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
 \T1/Heuristica-TLF/m/n/12 of the Eu-ro-pean psy-cho-log-i-cal novel, in the 19$
 []$
  []
 
 
-Underfull \hbox (badness 4242) in paragraph at lines 22--23
+Underfull \hbox (badness 4242) in paragraph at lines 28--29
 \T1/Heuristica-TLF/m/n/12 cen-tury; there-fore, what we are deal-ing with is th
 e
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--23
+Underfull \hbox (badness 10000) in paragraph at lines 28--29
 \T1/Heuristica-TLF/m/n/12 steno-graph-i-cally ac-cu-rate record of an eye-wit-n
 ess.
  []
 
 
-Underfull \hbox (badness 1158) in paragraph at lines 22--23
+Underfull \hbox (badness 1158) in paragraph at lines 28--29
 \T1/Heuristica-TLF/m/n/12 point out that the ar-gu-ment refers specif-i-cally t
 o the
  []
 
 
-Underfull \hbox (badness 3386) in paragraph at lines 22--23
+Underfull \hbox (badness 3386) in paragraph at lines 28--29
 \T1/Heuristica-TLF/m/n/12 Syn-op-tists' narrative---dry as a re-port, and there
 -fore
  []
 
 
-Underfull \hbox (badness 1389) in paragraph at lines 22--23
+Underfull \hbox (badness 1389) in paragraph at lines 28--29
 \T1/Heuristica-TLF/m/n/12 cry from the fig-ures of chromium-molybdenum steel
  []
 
-[38]
-Underfull \hbox (badness 6526) in paragraph at lines 25--25
+[39]
+Underfull \hbox (badness 6526) in paragraph at lines 31--31
 [][] \T1/Heuristica-TLF/m/n/10 Mc-Dow-ell pro-vides a de-tailed de-scrip-tion o
 f the med-i-cal
  []
 
 
-Underfull \hbox (badness 3199) in paragraph at lines 25--25
+Underfull \hbox (badness 3199) in paragraph at lines 31--31
 \T1/Heuristica-TLF/m/n/10 shock, com-bined with de-hy-dra-tion and heat-stroke,
  but that is
  []
 
 
-Underfull \hbox (badness 1789) in paragraph at lines 25--25
+Underfull \hbox (badness 1789) in paragraph at lines 31--31
 \T1/Heuristica-TLF/m/n/10 ac-tu-ally some-what in-ac-cu-rate. Sev-eral hours af
 -ter cru-ci-fix-ion, a
  []
 
 
-Underfull \hbox (badness 2368) in paragraph at lines 24--26
+Underfull \hbox (badness 2368) in paragraph at lines 30--32
 \T1/Heuristica-TLF/m/n/12 nowhere to be found. On the other hand, you find,
  []
 
 
-Underfull \hbox (badness 3333) in paragraph at lines 24--26
+Underfull \hbox (badness 3333) in paragraph at lines 30--32
 \T1/Heuristica-TLF/m/n/12 for ex-am-ple, a quo-ta-tion from Jew-ish scrip-ture 
 that
  []
 
 
-Underfull \hbox (badness 1400) in paragraph at lines 24--26
+Underfull \hbox (badness 1400) in paragraph at lines 30--32
 \T1/Heuristica-TLF/m/n/12 are not merely cast-ing lots for a dead man's clothes
 ,
  []
 
 
-Underfull \hbox (badness 2119) in paragraph at lines 24--26
+Underfull \hbox (badness 2119) in paragraph at lines 30--32
 \T1/Heuristica-TLF/m/n/12 but ful-fill-ing an an-cient prophecy? There is also 
 the
  []
 
 
-Underfull \hbox (badness 2600) in paragraph at lines 24--26
+Underfull \hbox (badness 2600) in paragraph at lines 30--32
 \T1/Heuristica-TLF/m/n/12 most ter-ri-ble of ag-o-nies, car-ries on with the pe
 o-ple
  []
 
-[39]
-Underfull \hbox (badness 1509) in paragraph at lines 29--30
+[40]
+Underfull \hbox (badness 1509) in paragraph at lines 35--36
 []\T1/Heuristica-TLF/m/n/12 Where am I go-ing with this? Well, tak-ing on the
  []
 
 
-Underfull \hbox (badness 1946) in paragraph at lines 29--30
+Underfull \hbox (badness 1946) in paragraph at lines 35--36
 \T1/Heuristica-TLF/m/n/12 ``doesn't be-lieve any-thing he hears, and very lit-t
 le of
  []
 
 
-Underfull \hbox (badness 1057) in paragraph at lines 29--30
+Underfull \hbox (badness 1057) in paragraph at lines 35--36
 \T1/Heuristica-TLF/m/n/12 place on Gol-go-tha other than what the Syn-op-tists 
 so
  []
 
 
-Underfull \hbox (badness 3838) in paragraph at lines 31--32
+Underfull \hbox (badness 3838) in paragraph at lines 37--38
 \T1/Heuristica-TLF/m/n/12 of Je-sus' sect, and that he made a deal with them
  []
 
 
-Underfull \hbox (badness 2012) in paragraph at lines 31--32
+Underfull \hbox (badness 2012) in paragraph at lines 37--38
 \T1/Heuristica-TLF/m/n/12 (``the end jus-ti-fies the means'')---and there would
  be
  []
 
-[40]
-Underfull \hbox (badness 2073) in paragraph at lines 35--36
+[41]
+Underfull \hbox (badness 2073) in paragraph at lines 41--42
 \T1/Heuristica-TLF/m/n/12 to say that Mc-Dow-ell's po-si-tion on that is-sue wo
 uld
  []
 
 
-Underfull \hbox (badness 4303) in paragraph at lines 35--36
+Underfull \hbox (badness 4303) in paragraph at lines 41--42
 \T1/Heuristica-TLF/m/n/12 be in-de-fen-si-ble. He could most likely cite the hi
 gh
  []
 
 
-Underfull \hbox (badness 2799) in paragraph at lines 35--36
+Underfull \hbox (badness 2799) in paragraph at lines 41--42
 \T1/Heuristica-TLF/m/n/12 high priests cer-tainly did not come up close to the
  []
 
 
-Underfull \hbox (badness 1831) in paragraph at lines 35--36
+Underfull \hbox (badness 1831) in paragraph at lines 41--42
 \T1/Heuristica-TLF/m/n/12 it takes place not in a clas-si-cal paint-ing, but in
  real
  []
 
-[41]
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
+[42]
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
 []\T1/Heuristica-TLF/m/n/12 However, the prob-lem lies not in these
  []
 
 
-Underfull \hbox (badness 1533) in paragraph at lines 37--38
+Underfull \hbox (badness 1533) in paragraph at lines 43--44
 \T1/Heuristica-TLF/m/n/12 par-tic-u-lar-i-ties. Even if Mc-Dow-ell man-ages to 
 pro-vide
  []
 
 
-Underfull \hbox (badness 1769) in paragraph at lines 37--38
+Underfull \hbox (badness 1769) in paragraph at lines 43--44
 \T1/Heuristica-TLF/m/n/12 a suf-fi-ciently con-vinc-ing re-but-tal of the ``Un-
 cru-ci-fied
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
 \T1/Heuristica-TLF/m/it/12 ev-ery \T1/Heuristica-TLF/m/n/12 pos-si-ble ma-te-ri
 -al-ist theory---and sud-denly, a
  []
 
 
-Underfull \hbox (badness 1189) in paragraph at lines 37--38
+Underfull \hbox (badness 1189) in paragraph at lines 43--44
 \T1/Heuristica-TLF/m/n/12 of log-i-cal pos-si-bil-i-ties is fun-da-men-tally in
 -ex-haustible,
  []
 
-) (./content/07-john-the-baptist.tex [42]
+) (./content/07-john-the-baptist.tex [43]
 Underfull \hbox (badness 3557) in paragraph at lines 3--4
 \T1/Heuristica-TLF/m/n/12 and de-bauch-ery that Herod, the tetrarch of Galilee,
 
@@ -4312,7 +4332,7 @@ Underfull \hbox (badness 1688) in paragraph at lines 5--6
 \T1/Heuristica-TLF/m/n/12 need to be bap-tized by You, and are You com-ing to
  []
 
-[43
+[44
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 7--8
@@ -4325,7 +4345,7 @@ Underfull \hbox (badness 3895) in paragraph at lines 14--16
 ,
  []
 
-[44]
+[45]
 Underfull \hbox (badness 1005) in paragraph at lines 17--18
 \T1/Heuristica-TLF/m/n/12 the chrono-log-i-cally last of the four Gospels, it c
 omes
@@ -4342,7 +4362,7 @@ Underfull \hbox (badness 2837) in paragraph at lines 22--23
 []\T1/Heuristica-TLF/m/n/10.95 ``Are You the Com-ing One, or do we look for
  []
 
-[45]
+[46]
 Underfull \hbox (badness 1769) in paragraph at lines 27--28
 []\T1/Heuristica-TLF/m/n/10.95 ``Assuredly, I say to you, among those born of
  []
@@ -4387,7 +4407,7 @@ Underfull \hbox (badness 1354) in paragraph at lines 39--40
 s the
  []
 
-[46]
+[47]
 Underfull \hbox (badness 6510) in paragraph at lines 41--42
 []\T1/Heuristica-TLF/m/n/12 If you ob-jec-tively an-a-lyze ev-ery-thing John sa
 id
@@ -4410,7 +4430,7 @@ Underfull \hbox (badness 1509) in paragraph at lines 41--42
 st's
  []
 
-[47]
+[48]
 Underfull \hbox (badness 3168) in paragraph at lines 45--46
 []\T1/Heuristica-TLF/m/n/10.95 Recognizing that John had been sent by God
  []
@@ -4477,7 +4497,7 @@ Underfull \hbox (badness 6944) in paragraph at lines 50--51
 her
  []
 
-[48]
+[49]
 Underfull \hbox (badness 6559) in paragraph at lines 52--53
 []\T1/Heuristica-TLF/m/n/12 The de-sire of John's dis-ci-ples to stick by their
 
@@ -4494,7 +4514,7 @@ Underfull \hbox (badness 4505) in paragraph at lines 54--55
 \T1/Heuristica-TLF/m/n/12 are no grounds to be-lieve that each of these sects
  []
 
-[49]
+[50]
 Underfull \hbox (badness 7963) in paragraph at lines 56--57
 \T1/Heuristica-TLF/m/n/12 to him rec-og-niz-ing the di-vin-ity of the Evan-ge-l
 ists'
@@ -4552,7 +4572,7 @@ Underfull \hbox (badness 1424) in paragraph at lines 56--57
 p-pear
  []
 
-[50]
+[51]
 Underfull \hbox (badness 1681) in paragraph at lines 58--59
 \T1/Heuristica-TLF/m/n/12 their teacher's rep-u-ta-tion by in-vok-ing the opin-
 ion of
@@ -4598,7 +4618,7 @@ Underfull \hbox (badness 1320) in paragraph at lines 60--61
 For
  []
 
-[51]
+[52]
 Underfull \hbox (badness 5217) in paragraph at lines 62--63
 []\T1/Heuristica-TLF/m/n/12 Mark the Evan-ge-list (Mk 6:17-29) de-scribes the
  []
@@ -4631,7 +4651,7 @@ Underfull \hbox (badness 1132) in paragraph at lines 69--70
 \T1/Heuristica-TLF/m/n/10.95 for you to have your brother's wife.'' There-fore
  []
 
-[52]
+[53]
 Underfull \hbox (badness 1810) in paragraph at lines 82--83
 \T1/Heuristica-TLF/m/n/12 One of his hench-men was dis-patched to the prison,
  []
@@ -4657,274 +4677,277 @@ Underfull \hbox (badness 2245) in paragraph at lines 87--88
 \T1/Heuristica-TLF/m/n/10.95 it would be too late. Ac-cord-ingly he was sent
  []
 
-[53]
-Underfull \hbox (badness 4505) in paragraph at lines 93--94
+[54]
+File: assets/john-the-baptist.png Graphic file (type bmp)
+<assets/john-the-baptist.png>
+ [55] [56]
+Underfull \hbox (badness 4505) in paragraph at lines 99--100
 []\T1/Heuristica-TLF/m/n/12 First, what was the na-ture of Herod's pre-vi-ous,
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 96--97
+Underfull \hbox (badness 1997) in paragraph at lines 102--103
 []\T1/Heuristica-TLF/m/n/10.95 With his tetrar-chy shar-ing a bor-der with such
 
  []
 
 
-Underfull \hbox (badness 5475) in paragraph at lines 96--97
+Underfull \hbox (badness 5475) in paragraph at lines 102--103
 \T1/Heuristica-TLF/m/n/10.95 new mil-i-tary for-ti-fi-ca-tions in the out-skirt
 s of
  []
 
 
-Underfull \hbox (badness 4779) in paragraph at lines 96--97
+Underfull \hbox (badness 4779) in paragraph at lines 102--103
 \T1/Heuristica-TLF/m/n/10.95 the coun-try. And not for noth-ing is his very
  []
 
 
-Underfull \hbox (badness 2856) in paragraph at lines 96--97
+Underfull \hbox (badness 2856) in paragraph at lines 102--103
 \T1/Heuristica-TLF/m/n/10.95 mar-riage to the daugh-ter of the Ara-bian king
  []
 
 
-Underfull \hbox (badness 2065) in paragraph at lines 96--97
+Underfull \hbox (badness 2065) in paragraph at lines 102--103
 \T1/Heuristica-TLF/m/n/10.95 Are-tas sus-pected to have been an act of pure
  []
 
-[54]
-Underfull \hbox (badness 3000) in paragraph at lines 100--101
+
+Underfull \hbox (badness 3000) in paragraph at lines 106--107
 \T1/Heuristica-TLF/m/n/12 step-brother, not his bi-o-log-i-cal one (as is com-m
 only
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 100--101
+Underfull \hbox (badness 10000) in paragraph at lines 106--107
 \T1/Heuristica-TLF/m/n/12 thought); the afore-men-tioned Metropoli-tan Joseph
  []
 
 
-Underfull \hbox (badness 2884) in paragraph at lines 100--101
+Underfull \hbox (badness 2884) in paragraph at lines 106--107
 \T1/Heuristica-TLF/m/n/12 pro-vides am-ple ev-i-dence for this fact. It's not a
 t all
  []
 
 
-Underfull \hbox (badness 3229) in paragraph at lines 100--101
+Underfull \hbox (badness 3229) in paragraph at lines 106--107
 \T1/Heuristica-TLF/m/n/12 sur-pris-ing that Jose-phus' ac-count presents this a
 s a
  []
 
 
-Underfull \hbox (badness 4621) in paragraph at lines 100--101
+Underfull \hbox (badness 4621) in paragraph at lines 106--107
 \T1/Heuristica-TLF/m/n/12 com-pletely or-di-nary story of a sec-ond mar-riage; 
 in
  []
 
 
-Underfull \hbox (badness 1939) in paragraph at lines 100--101
+Underfull \hbox (badness 1939) in paragraph at lines 106--107
 \T1/Heuristica-TLF/m/n/12 Bloody---assuming there was any-thing even re-motely
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 102--103
+[57]
+Underfull \hbox (badness 10000) in paragraph at lines 108--109
 []\T1/Heuristica-TLF/m/n/12 Third, Hero-dias has al-ways been seen as a
  []
 
 
-Underfull \hbox (badness 4518) in paragraph at lines 102--103
+Underfull \hbox (badness 4518) in paragraph at lines 108--109
 \T1/Heuristica-TLF/m/n/12 cal-cu-lat-ing se-duc-tress, who not only broke all l
 aws
  []
 
 
-Underfull \hbox (badness 1509) in paragraph at lines 102--103
+Underfull \hbox (badness 1509) in paragraph at lines 108--109
 \T1/Heuristica-TLF/m/n/12 in-abil-ity to ful-fill his duty,'' and ex-iled him t
 o Spain,
  []
 
 
-Underfull \hbox (badness 2293) in paragraph at lines 102--103
+Underfull \hbox (badness 2293) in paragraph at lines 108--109
 \T1/Heuristica-TLF/m/n/12 where he ul-ti-mately died---in poverty, ob-scu-rity,
  and
  []
 
 
-Underfull \hbox (badness 1331) in paragraph at lines 102--103
+Underfull \hbox (badness 1331) in paragraph at lines 108--109
 \T1/Heuristica-TLF/m/n/12 to-tal iso-la-tion. The only per-son who shared his e
 x-ile
  []
 
-[55] [56]
-Underfull \hbox (badness 7116) in paragraph at lines 106--107
+[58]
+Underfull \hbox (badness 7116) in paragraph at lines 112--113
 []\T1/Heuristica-TLF/m/n/12 In try-ing to re-solve this ob-vi-ous con-tra-dic-t
 ion,
  []
 
 
-Underfull \hbox (badness 6808) in paragraph at lines 106--107
+Underfull \hbox (badness 6808) in paragraph at lines 112--113
 \T1/Heuristica-TLF/m/n/12 (if the moun-tain won't come to Muham-mad, then
  []
 
 
-Underfull \hbox (badness 2237) in paragraph at lines 106--107
+Underfull \hbox (badness 2237) in paragraph at lines 112--113
 \T1/Heuristica-TLF/m/n/12 Muham-mad must go to the moun-tain). Glad-kov, for
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 109--110
+Underfull \hbox (badness 10000) in paragraph at lines 115--116
 []\T1/Heuristica-TLF/m/n/10.95 Insulted [due to his daugh-ter's divorce---
  []
 
 
-Underfull \hbox (badness 1502) in paragraph at lines 109--110
+Underfull \hbox (badness 1502) in paragraph at lines 115--116
 \T1/Heuristica-TLF/m/n/10.95 K.E.], Are-tas started a war against Herod; as a
  []
 
 
-Underfull \hbox (badness 1142) in paragraph at lines 109--110
+Underfull \hbox (badness 1142) in paragraph at lines 115--116
 \T1/Heuristica-TLF/m/n/10.95 John the Bap-tist, and took up res-i-dency in his
  []
 
-
-Underfull \hbox (badness 4441) in paragraph at lines 113--114
+[59]
+Underfull \hbox (badness 4441) in paragraph at lines 119--120
 []\T1/Heuristica-TLF/m/n/12 Or con-sider this de-tail: af-ter Herod's ill-advis
 ed
  []
 
 
-Underfull \hbox (badness 1178) in paragraph at lines 113--114
+Underfull \hbox (badness 1178) in paragraph at lines 119--120
 \T1/Heuristica-TLF/m/n/12 Im-me-di-ately she came in with haste to the king and
 
  []
 
-[57]
-Underfull \hbox (badness 10000) in paragraph at lines 115--116
+
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
 \T1/Heuristica-TLF/m/n/12 skep-ti-cal of the Evan-ge-lists' ver-sion of the eve
 nts.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 115--116
+Underfull \hbox (badness 10000) in paragraph at lines 121--122
 \T1/Heuristica-TLF/m/n/12 From an artis-tic per-spec-tive, though, the story is
 
  []
 
 
-Underfull \hbox (badness 1221) in paragraph at lines 115--116
+Underfull \hbox (badness 1221) in paragraph at lines 121--122
 \T1/Heuristica-TLF/m/n/12 truly mag-nif-i-cent. It man-ages to or-gan-i-cally c
 om-bine
  []
 
 
-Underfull \hbox (badness 1400) in paragraph at lines 115--116
+Underfull \hbox (badness 1400) in paragraph at lines 121--122
 \T1/Heuristica-TLF/m/n/12 pro-vides am-ple fod-der for pre-ten-tious art crit-i
 cs and
  []
 
 
-Underfull \hbox (badness 1163) in paragraph at lines 115--116
+Underfull \hbox (badness 1163) in paragraph at lines 121--122
 \T1/Heuristica-TLF/m/n/12 psy-cho-an-a-lysts! Of course, to pre-serve the dy-na
 mism
  []
 
 
-Underfull \hbox (badness 1237) in paragraph at lines 115--116
+Underfull \hbox (badness 1237) in paragraph at lines 121--122
 \T1/Heuristica-TLF/m/n/12 ac-cu-racy and move John to Tiberias (or al-ter-na-ti
 vely,
  []
 
 
-Underfull \hbox (badness 6396) in paragraph at lines 115--116
+Underfull \hbox (badness 6396) in paragraph at lines 121--122
 \T1/Heuristica-TLF/m/n/12 ru-mors cir-cu-lat-ing about the death of the pop-u-l
 ar
  []
 
-
-Underfull \hbox (badness 1005) in paragraph at lines 117--117
+[60]
+Underfull \hbox (badness 1005) in paragraph at lines 123--123
 \T1/Heuristica-TLF/m/it/10 Tale of Hodja Nasred-din\T1/Heuristica-TLF/m/n/10 , 
 where un-der-cover guards in tea-houses
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--118
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
 []\T1/Heuristica-TLF/m/n/12 All of this al-lows me to make the fol-low-ing
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--118
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
 \T1/Heuristica-TLF/m/n/12 con-jec-ture: this ru-mor about the cir-cum-stances o
 f
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 117--118
+Underfull \hbox (badness 10000) in paragraph at lines 123--124
 \T1/Heuristica-TLF/m/n/12 Gospels, was the re-sult of an ``ac-tive mea-sures''
  []
 
 
-Underfull \hbox (badness 2644) in paragraph at lines 117--118
+Underfull \hbox (badness 2644) in paragraph at lines 123--124
 \T1/Heuristica-TLF/m/n/12 cam-paign.[][] Its goal seems quite ob-vi-ous: to shi
 ft a
  []
 
 
-Underfull \hbox (badness 1688) in paragraph at lines 117--118
+Underfull \hbox (badness 1688) in paragraph at lines 123--124
 \T1/Heuristica-TLF/m/n/12 com-pe-tent cam-paign to shape the pub-lic opin-ion o
 f
  []
 
-[58]
-Underfull \hbox (badness 3579) in paragraph at lines 119--120
+
+Underfull \hbox (badness 3579) in paragraph at lines 125--126
 \T1/Heuristica-TLF/m/n/12 when we can suc-cess-fully an-swer an-other ques-tion
 ,
  []
 
 
-Underfull \hbox (badness 1072) in paragraph at lines 119--120
+Underfull \hbox (badness 1072) in paragraph at lines 125--126
 \T1/Heuristica-TLF/m/n/12 re-fine the ques-tion a lit-tle: let's sup-pose it re
 -ally was
  []
 
-[59]
-Underfull \hbox (badness 1558) in paragraph at lines 121--122
+[61]
+Underfull \hbox (badness 1558) in paragraph at lines 127--128
 \T1/Heuristica-TLF/m/n/12 preach-ing in the Judean desert and the Jor-dan River
 
  []
 
 
-Underfull \hbox (badness 5592) in paragraph at lines 121--122
+Underfull \hbox (badness 5592) in paragraph at lines 127--128
 \T1/Heuristica-TLF/m/n/12 More-over, the Judean lead-er-ship was ac-tu-ally qui
 te
  []
 
 
-Underfull \hbox (badness 5203) in paragraph at lines 123--123
+Underfull \hbox (badness 5203) in paragraph at lines 129--129
 \T1/Heuristica-TLF/m/n/10 and count-less other Rus-sian emi-gres, were an un-pr
 ece-dented
  []
 
 
-Underfull \hbox (badness 1478) in paragraph at lines 123--123
+Underfull \hbox (badness 1478) in paragraph at lines 129--129
 \T1/Heuristica-TLF/m/n/10 pay-ing no heed to the protests of their neighbors---
 carrying on
  []
 
-[60]
-Underfull \hbox (badness 10000) in paragraph at lines 125--126
+[62]
+Underfull \hbox (badness 10000) in paragraph at lines 131--132
 []\T1/Heuristica-TLF/m/n/12 While we can't rule out this pos-si-bil-ity, it
  []
 
 
-Underfull \hbox (badness 5374) in paragraph at lines 125--126
+Underfull \hbox (badness 5374) in paragraph at lines 131--132
 \T1/Heuristica-TLF/m/n/12 would ren-der Christ's re-ac-tion to this event ut-te
 rly
  []
 
 ) (./content/08-the-raising-of-lazarus.tex
-Underfull \hbox (badness 1152) in paragraph at lines 127--1
+Underfull \hbox (badness 1152) in paragraph at lines 133--1
 \T1/Heuristica-TLF/m/n/12 the death of said leader took place in highly un-clea
 r
  []
 
-[61]
+[63]
 Underfull \hbox (badness 6675) in paragraph at lines 5--6
 \T1/Heuristica-TLF/m/n/12 of Lazarus re-ally does stand alone. Non-traditional
  []
@@ -4959,7 +4982,7 @@ Underfull \hbox (badness 1783) in paragraph at lines 5--6
  the
  []
 
-[62
+[64
 
 ]
 Underfull \hbox (badness 1142) in paragraph at lines 7--7
@@ -4991,7 +5014,7 @@ Underfull \hbox (badness 1603) in paragraph at lines 7--8
 n's
  []
 
-[63]
+[65]
 Underfull \hbox (badness 1248) in paragraph at lines 9--10
 []\T1/Heuristica-TLF/m/n/12 However, all of this is be-sides the point; the las
 t
@@ -5051,7 +5074,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 14--15
 \T1/Heuristica-TLF/m/n/12 (far less sig-nif-i-cant) episodes in the Syn-op-tic
  []
 
-[64]
+[66]
 Underfull \hbox (badness 10000) in paragraph at lines 15--16
 []\T1/Heuristica-TLF/m/n/12 The Syn-op-tists might have con-sid-ered this
  []
@@ -5130,7 +5153,7 @@ Underfull \hbox (badness 2096) in paragraph at lines 16--17
 ome-where down the line,
  []
 
-[65]
+[67]
 Underfull \hbox (badness 10000) in paragraph at lines 22--23
 []\T1/Heuristica-TLF/m/n/12 The episode of Lazarus' res-ur-rec-tion, which
  []
@@ -5140,7 +5163,7 @@ Underfull \hbox (badness 3635) in paragraph at lines 22--23
 \T1/Heuristica-TLF/m/n/12 ap-pears in the chrono-log-i-cally last of the four
  []
 
-[66]
+[68]
 Underfull \hbox (badness 1158) in paragraph at lines 23--24
 []\T1/Heuristica-TLF/m/n/12 The Syn-op-tists kept silent be-cause, un-like John
 ,
@@ -5181,7 +5204,7 @@ Underfull \hbox (badness 2119) in paragraph at lines 26--27
 \T1/Heuristica-TLF/m/n/10.95 their ab-sent friend. But be-fore he ar-rives,
  []
 
-[67]
+[69]
 Underfull \hbox (badness 3792) in paragraph at lines 31--32
 \T1/Heuristica-TLF/m/n/12 un-able to con-trol the ``thirst for mir-a-cles'' tha
 t had
@@ -5233,7 +5256,7 @@ Underfull \hbox (badness 1661) in paragraph at lines 35--1
 us
  []
 
-[68] [69]
+[70] [71]
 Underfull \hbox (badness 3884) in paragraph at lines 3--3
 [][] \T1/Heuristica-TLF/m/n/10 A 16$[]$-century Rus-sian tsar whose life was dr
 a-ma-tized in
@@ -5269,7 +5292,7 @@ Underfull \hbox (badness 2103) in paragraph at lines 3--4
 at-ter,
  []
 
-[70
+[72
 
 ]
 Underfull \hbox (badness 8189) in paragraph at lines 5--6
@@ -5335,7 +5358,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 12--14
 \T1/Heuristica-TLF/m/n/12 The real mo-ti-va-tion for Ju-das' ac-tions was ``an
  []
 
-[71]
+[73]
 Underfull \hbox (badness 2103) in paragraph at lines 16--17
 \T1/Heuristica-TLF/m/n/10.95 King-dom of Heaven, as oth-ers, less hero-ically,
  []
@@ -5381,13 +5404,13 @@ Underfull \hbox (badness 1490) in paragraph at lines 20--21
 
  []
 
-[72]
+[74]
 Underfull \hbox (badness 2409) in paragraph at lines 24--25
 \T1/Heuristica-TLF/m/n/12 be-trayal long be-fore his last trip to Jerusalem. I 
 am
  []
 
-[73]
+[75]
 Underfull \hbox (badness 2229) in paragraph at lines 31--32
 []\T1/Heuristica-TLF/m/n/12 Let's start with the fact that, gen-er-ally speak-i
 ng,
@@ -5455,7 +5478,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--34
 \T1/Heuristica-TLF/m/n/12 of Matthew---he ``went and hanged him-self'' (Mt
  []
 
-[74]
+[76]
 Underfull \hbox (badness 10000) in paragraph at lines 38--39
 \T1/Heuristica-TLF/m/n/12 Farrar opines, how-ever, that this ver-sion is ``not
  []
@@ -5511,7 +5534,7 @@ Underfull \hbox (badness 1303) in paragraph at lines 42--43
 en-tire
  []
 
-[75]
+[77]
 Underfull \hbox (badness 1226) in paragraph at lines 45--46
 \T1/Heuristica-TLF/m/n/10.95 away, he spoke in pub-lic. He could have been
  []
@@ -5547,7 +5570,7 @@ Underfull \hbox (badness 1087) in paragraph at lines 50--51
 i-ties
  []
 
-[76]
+[78]
 Underfull \hbox (badness 10000) in paragraph at lines 52--53
 []\T1/Heuristica-TLF/m/n/12 2. Ju-das' be-hav-ior dur-ing the ar-rest seems
  []
@@ -5635,7 +5658,7 @@ Underfull \hbox (badness 1102) in paragraph at lines 54--55
 s'
  []
 
-[77] [78]
+[79] [80]
 Underfull \hbox (badness 5802) in paragraph at lines 56--57
 [][] \T1/Heuristica-TLF/m/n/12 Nev-er-the-less, there were no con-se-quences wh
 en
@@ -5686,7 +5709,7 @@ Underfull \hbox (badness 1237) in paragraph at lines 58--1
 he
  []
 
-[79] [80]
+[81] [82]
 Underfull \hbox (badness 1558) in paragraph at lines 6--7
 \T1/Heuristica-TLF/m/n/10.95 we need for the feast,'' or that he should give
  []
@@ -5702,7 +5725,7 @@ Underfull \hbox (badness 6236) in paragraph at lines 8--9
 s
  []
 
-[81
+[83
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 10--11
@@ -5751,7 +5774,7 @@ Underfull \hbox (badness 1194) in paragraph at lines 12--13
 b-ject.
  []
 
-[82]
+[84]
 Underfull \hbox (badness 3029) in paragraph at lines 14--15
 []\T1/Heuristica-TLF/m/n/12 The de-scrip-tion of how Christ and the Apos-tles
  []
@@ -5796,7 +5819,7 @@ Underfull \hbox (badness 3302) in paragraph at lines 19--20
 ecy
  []
 
-[83]
+[85]
 Underfull \hbox (badness 10000) in paragraph at lines 23--24
 []\T1/Heuristica-TLF/m/n/12 My in-ter-est now stoked by Je-sus' clan-des-tine
  []
@@ -5819,7 +5842,7 @@ Underfull \hbox (badness 1990) in paragraph at lines 23--24
 cy
  []
 
-[84]
+[86]
 Underfull \hbox (badness 1024) in paragraph at lines 25--26
 \T1/Heuristica-TLF/m/n/12 sub-se-quently oc-curred, from which, as usual, we wi
 ll
@@ -5835,7 +5858,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--36
 
  []
 
-[85]
+[87]
 Underfull \hbox (badness 1014) in paragraph at lines 39--40
 \T1/Heuristica-TLF/m/n/12 be-ing an-other ques-tion en-tirely)? There are count
 -less
@@ -5864,7 +5887,7 @@ Underfull \hbox (badness 1342) in paragraph at lines 41--42
 eav-ing
  []
 
-[86]
+[88]
 Underfull \hbox (badness 3735) in paragraph at lines 43--44
 \T1/Heuristica-TLF/m/n/12 as a con-stant refuge for the Apos-tles over the past
 
@@ -5893,7 +5916,7 @@ Underfull \hbox (badness 1028) in paragraph at lines 43--44
 es'' of
  []
 
-[87]
+[89]
 Underfull \hbox (badness 1038) in paragraph at lines 45--46
 []\T1/Heuristica-TLF/m/n/12 We've some-how got-ten used to as-sum-ing that all
  []
@@ -6006,7 +6029,7 @@ Underfull \hbox (badness 1354) in paragraph at lines 47--48
 to
  []
 
-[88]
+[90]
 Underfull \hbox (badness 3302) in paragraph at lines 49--50
 []\T1/Heuristica-TLF/m/n/12 When was this meet-ing sup-posed to take place
  []
@@ -6052,7 +6075,7 @@ Underfull \hbox (badness 3333) in paragraph at lines 49--50
  di-rect
  []
 
-[89]
+[91]
 Underfull \hbox (badness 5175) in paragraph at lines 51--52
 []\T1/Heuristica-TLF/m/n/12 Let's ask our-selves a slightly dif-fer-ent ques-ti
 on:
@@ -6069,7 +6092,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 58--1
 \T1/Heuristica-TLF/m/n/12 no-ticed any-thing while they were sleep-ing on the
  []
 
-[90] [91]
+[92] [93]
 Underfull \hbox (badness 1735) in paragraph at lines 3--4
 \T1/Heuristica-TLF/m/n/12 nowhere in the text of the New Tes-ta-ment are there
  []
@@ -6108,7 +6131,7 @@ Underfull \hbox (badness 2293) in paragraph at lines 5--6
  more
  []
 
-[92
+[94
 
 ]
 Underfull \hbox (badness 4441) in paragraph at lines 7--8
@@ -6142,7 +6165,7 @@ Underfull \hbox (badness 1694) in paragraph at lines 9--10
 \T1/Heuristica-TLF/m/n/12 to the tomb, which was cov-ered by a heavy boul-der
  []
 
-[93]
+[95]
 Underfull \hbox (badness 4328) in paragraph at lines 14--15
 \T1/Heuristica-TLF/m/n/10.95 con-sulted to-gether, they gave a large sum of
  []
@@ -6163,7 +6186,7 @@ Underfull \hbox (badness 1360) in paragraph at lines 14--15
 \T1/Heuristica-TLF/m/n/10.95 So they took the money and did as they were
  []
 
-[94]
+[96]
 Underfull \hbox (badness 4328) in paragraph at lines 16--17
 \T1/Heuristica-TLF/m/n/12 proved the sol-diers' in-no-cence, and de-cided not t
 o
@@ -6191,7 +6214,7 @@ Underfull \hbox (badness 1748) in paragraph at lines 20--21
 -is
  []
 
-[95]
+[97]
 Underfull \hbox (badness 3568) in paragraph at lines 22--23
 \T1/Heuristica-TLF/m/n/12 had re-ally kept watch all night, they could be sure
  []
@@ -6218,7 +6241,7 @@ Underfull \hbox (badness 1478) in paragraph at lines 24--25
 \T1/Heuristica-TLF/m/n/12 they have sup-pos-edly committed---on the off chance
  []
 
-[96]
+[98]
 Underfull \hbox (badness 1769) in paragraph at lines 26--27
 \T1/Heuristica-TLF/m/n/12 in-ci-dent sim-ply couldn't have any other ex-pla-na-
 tion,
@@ -6277,7 +6300,7 @@ Underfull \hbox (badness 1048) in paragraph at lines 28--29
 arded
  []
 
-[97]
+[99]
 Underfull \hbox (badness 5119) in paragraph at lines 33--34
 \T1/Heuristica-TLF/m/n/10.95 chains be-tween two sol-diers; and the guards
  []
@@ -6294,7 +6317,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 35--36
  can they be con-sid-ered
  []
 
-[98]
+[100]
 Underfull \hbox (badness 1728) in paragraph at lines 37--38
 \T1/Heuristica-TLF/m/n/12 brings up the fol-low-ing point. He ar-gues that it w
 as
@@ -6306,7 +6329,7 @@ Underfull \hbox (badness 3271) in paragraph at lines 37--38
 he
  []
 
-[99]
+[101]
 Underfull \hbox (badness 2142) in paragraph at lines 39--40
 \T1/Heuristica-TLF/m/n/12 of events. The tes-ti-mony of the neg-li-gent guards,
  as
@@ -6345,7 +6368,7 @@ Underfull \hbox (badness 1132) in paragraph at lines 44--45
 \T1/Heuristica-TLF/m/n/10.95 the two sup-port-ing the other one, and a cross
  []
 
-[100]
+[102]
 Underfull \hbox (badness 2662) in paragraph at lines 48--48
 \T1/Heuristica-TLF/m/n/10 text of this Gospel, forces us to as-sume that its au
 -thor was a
@@ -6363,7 +6386,7 @@ Underfull \hbox (badness 1132) in paragraph at lines 48--49
 is
  []
 
-[101]
+[103]
 Underfull \hbox (badness 1264) in paragraph at lines 50--51
 \T1/Heuristica-TLF/m/n/12 by Jew-ish cus-tom. Mc-Dow-ell him-self gives a de-ta
 iled
@@ -6374,13 +6397,13 @@ Underfull \hbox (badness 2495) in paragraph at lines 57--58
 \T1/Heuristica-TLF/m/n/12 any-where near as heavy as peo-ple some-times claim
  []
 
-[102]
+[104]
 Underfull \hbox (badness 3281) in paragraph at lines 62--65
 \T1/Heuristica-TLF/m/n/12 For this oc-ca-sion, the Jew-ish high priests de-cide
  to
  []
 
-) (./content/12-second-warning.tex [103]
+) (./content/12-second-warning.tex [105]
 Underfull \hbox (badness 10000) in paragraph at lines 4--5
 \T1/Heuristica-TLF/m/n/12 Needless to say, this de-tail has gone com-pletely
  []
@@ -6429,7 +6452,7 @@ Underfull \hbox (badness 2922) in paragraph at lines 11--12
 ready
  []
 
-[104
+[106
 
 ]
 Underfull \hbox (badness 1400) in paragraph at lines 13--14
@@ -6437,7 +6460,7 @@ Underfull \hbox (badness 1400) in paragraph at lines 13--14
  its
  []
 
-[105]
+[107]
 Underfull \hbox (badness 10000) in paragraph at lines 15--16
 \T1/Heuristica-TLF/m/n/12 and Joseph---again by way of proxy---inform the
  []
@@ -6465,7 +6488,7 @@ Underfull \hbox (badness 1484) in paragraph at lines 15--16
 e
  []
 
-[106]
+[108]
 Underfull \hbox (badness 1983) in paragraph at lines 19--20
 []\T1/Heuristica-TLF/m/n/12 For al-most two mil-len-nia, peo-ple have read this
 
@@ -6496,7 +6519,7 @@ Underfull \hbox (badness 1552) in paragraph at lines 19--20
 \T1/Heuristica-TLF/m/n/12 than well aware of? And just where did they get the
  []
 
-[107]
+[109]
 Underfull \hbox (badness 2027) in paragraph at lines 21--22
 \T1/Heuristica-TLF/m/n/12 went off with-out a hitch. But when you re-ally think
 
@@ -6526,7 +6549,7 @@ Underfull \hbox (badness 1466) in paragraph at lines 23--24
 the Son
  []
 
-[108]
+[110]
 Underfull \hbox (badness 10000) in paragraph at lines 25--26
 []\T1/Heuristica-TLF/m/n/12 A sim-pler and more straight-for-ward op-tion is
  []
@@ -6554,7 +6577,7 @@ Underfull \hbox (badness 1043) in paragraph at lines 27--28
 ly for
  []
 
-[109]) (./content/13-appearances-of-the-risen-christ.tex
+[111]) (./content/13-appearances-of-the-risen-christ.tex
 Underfull \hbox (badness 2538) in paragraph at lines 29--1
 []\T1/Heuristica-TLF/m/n/12 As for Mc-Dow-ell, his po-si-tion seems un-en-vi-ab
 le
@@ -6571,7 +6594,7 @@ Underfull \hbox (badness 1490) in paragraph at lines 29--1
 he
  []
 
-[110]
+[112]
 Underfull \hbox (badness 1259) in paragraph at lines 6--7
 []\T1/Heuristica-TLF/m/n/12 1. One could hardly sup-pose that any hos-tile, or
  []
@@ -6594,7 +6617,7 @@ Underfull \hbox (badness 6396) in paragraph at lines 8--9
 
  []
 
-[111
+[113
 
 ]
 Underfull \hbox (badness 10000) in paragraph at lines 12--13
@@ -6659,7 +6682,7 @@ Underfull \hbox (badness 2653) in paragraph at lines 18--19
 an
  []
 
-[112]
+[114]
 Underfull \hbox (badness 10000) in paragraph at lines 20--20
 [][] \T1/Heuristica-TLF/m/n/10 A pop-u-lar Rus-sian psy-chic known for his larg
 e-scale
@@ -6716,7 +6739,7 @@ Underfull \hbox (badness 7238) in paragraph at lines 22--23
 
  []
 
-[113]
+[115]
 Underfull \hbox (badness 1596) in paragraph at lines 24--25
 []\T1/Heuristica-TLF/m/n/12 Arguments 3 and 4, on the con-trary, seem quite
  []
@@ -6756,7 +6779,7 @@ Underfull \hbox (badness 2393) in paragraph at lines 24--25
 l, I
  []
 
-[114]
+[116]
 Underfull \hbox (badness 10000) in paragraph at lines 29--32
 
  []
@@ -6784,7 +6807,7 @@ Underfull \hbox (badness 1173) in paragraph at lines 35--36
 os-tile to
  []
 
-[115]
+[117]
 Underfull \hbox (badness 1831) in paragraph at lines 37--38
 \T1/Heuristica-TLF/m/n/12 en-tire scene at the tomb (with the ex-cep-tion of th
 is
@@ -6813,12 +6836,12 @@ Underfull \hbox (badness 2707) in paragraph at lines 39--40
 \T1/Heuristica-TLF/m/n/12 can as-sume that the fright-ened women sim-ply took
  []
 
-[116]
+[118]
 Underfull \hbox (badness 1137) in paragraph at lines 44--45
 \T1/Heuristica-TLF/m/n/10.95 where You have laid Him, and I will take Him
  []
 
-[117]
+[119]
 Underfull \hbox (badness 1377) in paragraph at lines 48--49
 \T1/Heuristica-TLF/m/n/12 shock, the un-steady light of the early morn-ing sun.
 ..
@@ -6858,7 +6881,7 @@ Underfull \hbox (badness 1147) in paragraph at lines 55--56
 der
  []
 
-[118]
+[120]
 Underfull \hbox (badness 3128) in paragraph at lines 57--58
 []\T1/Heuristica-TLF/m/n/12 4. That same evening, ten of the Apos-tles were
  []
@@ -6869,7 +6892,7 @@ Underfull \hbox (badness 2020) in paragraph at lines 57--58
 a
  []
 
-[119]
+[121]
 Underfull \hbox (badness 1215) in paragraph at lines 59--60
 \T1/Heuristica-TLF/m/n/12 first meet-ing with the Apos-tles with a demon-stra-t
 ion
@@ -6909,7 +6932,7 @@ Underfull \hbox (badness 1389) in paragraph at lines 63--64
 54),
  []
 
-[120]
+[122]
 Underfull \hbox (badness 1173) in paragraph at lines 65--66
 \T1/Heuristica-TLF/m/n/12 and honey---which means what we have be-fore us is
  []
@@ -6944,7 +6967,7 @@ Underfull \hbox (badness 2828) in paragraph at lines 69--70
 e
  []
 
-[121]
+[123]
 Underfull \hbox (badness 2181) in paragraph at lines 72--73
 []\T1/Heuristica-TLF/m/n/12 5. Thomas' wish was granted shortly af-ter-wards,
  []
@@ -6998,7 +7021,7 @@ Underfull \hbox (badness 5726) in paragraph at lines 75--76
 \T1/Heuristica-TLF/m/n/10.95 Thomas: ``Take your fin-ger here and see My
  []
 
-[122]
+[124]
 Underfull \hbox (badness 2237) in paragraph at lines 83--84
 \T1/Heuristica-TLF/m/n/12 That is to say, no ``feel-ing'' ever ac-tu-ally took 
 place;
@@ -7015,7 +7038,7 @@ Underfull \hbox (badness 1365) in paragraph at lines 88--89
 []\T1/Heuristica-TLF/m/n/10.95 That night they caught noth-ing. But when the
  []
 
-[123]
+[125]
 Underfull \hbox (badness 1354) in paragraph at lines 93--94
 \T1/Heuristica-TLF/m/n/10.95 Pe-ter, ``It is the Lord!'' Now when Si-mon Pe-ter
 
@@ -7038,7 +7061,7 @@ Underfull \hbox (badness 4608) in paragraph at lines 102--103
 els
  []
 
-[124]
+[126]
 Underfull \hbox (badness 1546) in paragraph at lines 111--112
 []\T1/Heuristica-TLF/m/n/12 So let's sum things up. If we ap-peal to the le-gal
 
@@ -7061,7 +7084,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 113--114
 t
  []
 
-[125]
+[127]
 Underfull \hbox (badness 10000) in paragraph at lines 122--123
 \T1/Heuristica-TLF/m/n/12 the wide va-ri-ety of cir-cum-stances in which these
  []
@@ -7083,7 +7106,7 @@ Underfull \hbox (badness 2035) in paragraph at lines 122--123
 e
  []
 
-[126]
+[128]
 Underfull \hbox (badness 1286) in paragraph at lines 124--125
 \T1/Heuristica-TLF/m/n/12 two ap-pear-ances to the Apos-tles in Jerusalem clear
 ly
@@ -7119,7 +7142,7 @@ Underfull \hbox (badness 2073) in paragraph at lines 126--127
 e
  []
 
-[127]
+[129]
 Underfull \hbox (badness 5832) in paragraph at lines 128--129
 \T1/Heuristica-TLF/m/n/12 grief-stricken, fright-ened, but nonethe-less sin-gu-
 larly
@@ -7143,7 +7166,7 @@ Underfull \hbox (badness 1097) in paragraph at lines 128--129
 e
  []
 
-[128]
+[130]
 Underfull \hbox (badness 5490) in paragraph at lines 130--131
 \T1/Heuristica-TLF/m/n/12 there's a com-pletely in-ex-pli-ca-ble gap-ing hole. 
 Je-sus
@@ -7160,7 +7183,7 @@ Underfull \hbox (badness 1087) in paragraph at lines 135--136
 ,
  []
 
-) (./content/14-third-warning.tex [129]
+) (./content/14-third-warning.tex [131]
 Underfull \hbox (badness 2680) in paragraph at lines 4--5
 \T1/Heuristica-TLF/m/n/12 an es-pe-cially emo-tional reader to cry, ``How come 
 \T1/Heuristica-TLF/m/it/12 I
@@ -7191,3769 +7214,3778 @@ ar ten-dency to
  []
 
 ) (./content/15-the-gospel-of-afranius.tex
-Underfull \hbox (badness 2717) in paragraph at lines 6--3
+Underfull \hbox (badness 2717) in paragraph at lines 6--5
 []\T1/Heuristica-TLF/m/n/12 As for the rest, their only op-tion is to ac-quaint
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6--3
+Underfull \hbox (badness 10000) in paragraph at lines 6--5
 \T1/Heuristica-TLF/m/n/12 them-selves with a cer-tain manuscript, whose
  []
 
 
-Underfull \hbox (badness 4316) in paragraph at lines 6--3
+Underfull \hbox (badness 4316) in paragraph at lines 6--5
 \T1/Heuristica-TLF/m/n/12 au-then-tic-ity ad-mit-tedly has yet to be con-firmed
  by
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 6--3
+Underfull \hbox (badness 10000) in paragraph at lines 6--5
 \T1/Heuristica-TLF/m/n/12 a sealed jug, which spele-ol-o-gists from Ben-Gurion
  []
 
 
-Underfull \hbox (badness 2671) in paragraph at lines 6--3
+Underfull \hbox (badness 2671) in paragraph at lines 6--5
 \T1/Heuristica-TLF/m/n/12 Uni-ver-sity re-cently found by chance while ex-plor-
 ing
  []
 
-[130
+[132
 
-] [131] [132
+] [133]
+File: assets/spqr.png Graphic file (type bmp)
+<assets/spqr.png>
 
-]
-Underfull \hbox (badness 10000) in paragraph at lines 16--19
+Underfull \hbox (badness 10000) in paragraph at lines 37--40
 
  []
 
 
-Underfull \hbox (badness 4726) in paragraph at lines 22--23
+Underfull \hbox (badness 4726) in paragraph at lines 43--44
 []\T1/Heuristica-TLF/m/n/12 Some time ago, I de-vised and, with the ver-bal
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--23
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
 \T1/Heuristica-TLF/m/n/12 per-mis-sion of the Procu-ra-tor of Judea, Pon-tius
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 22--23
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
 \T1/Heuristica-TLF/m/n/12 Pi-late, car-ried out a se-cret op-er-a-tion given th
 e
  []
 
 
-Underfull \hbox (badness 8056) in paragraph at lines 22--23
+Underfull \hbox (badness 8056) in paragraph at lines 43--44
 \T1/Heuristica-TLF/m/n/12 co-de-name of FISH. At present, this op-er-a-tion can
 
  []
 
 
-Underfull \hbox (badness 2310) in paragraph at lines 22--23
+Underfull \hbox (badness 2310) in paragraph at lines 43--44
 \T1/Heuristica-TLF/m/n/12 the next two or three years---would have ob-jec-tivel
 y
  []
 
 
-Underfull \hbox (badness 3590) in paragraph at lines 22--23
+Underfull \hbox (badness 3590) in paragraph at lines 43--44
 \T1/Heuristica-TLF/m/n/12 catas-trophic con-se-quences for the East-ern pol-icy
  of
  []
 
-[133]
-Underfull \hbox (badness 7832) in paragraph at lines 24--25
+
+Underfull \hbox (badness 7832) in paragraph at lines 45--46
 \T1/Heuristica-TLF/m/n/12 in the event of my un-timely death or ar-rest, will
  []
 
 
-Underfull \hbox (badness 1412) in paragraph at lines 24--25
+Underfull \hbox (badness 1412) in paragraph at lines 45--46
 \T1/Heuristica-TLF/m/n/12 im-me-di-ately fall into the hands of in-ter-ested pa
 r-ties.
  []
 
 
-Underfull \hbox (badness 1264) in paragraph at lines 24--25
+Underfull \hbox (badness 1264) in paragraph at lines 45--46
 \T1/Heuristica-TLF/m/n/12 place in the out-skirts of Jerusalem. The way I see i
 t,
  []
 
+[134
 
-Underfull \hbox (badness 6842) in paragraph at lines 26--27
+]
+Underfull \hbox (badness 6842) in paragraph at lines 47--48
 []\T1/Heuristica-TLF/m/n/12 About three years ago, our agency car-ried out
  []
 
 
-Underfull \hbox (badness 2617) in paragraph at lines 26--27
+Underfull \hbox (badness 2617) in paragraph at lines 47--48
 \T1/Heuristica-TLF/m/n/12 Op-er-a-tion CENTAUR---the mass in-fil-tra-tion of Ze
 alot
  []
 
 
-Underfull \hbox (badness 1019) in paragraph at lines 28--29
+Underfull \hbox (badness 1019) in paragraph at lines 49--50
 \T1/Heuristica-TLF/m/n/12 join-ing the so-cial cir-cle of one of Galilee's wan-
 der-ing
  []
 
 
-Underfull \hbox (badness 1152) in paragraph at lines 28--29
+Underfull \hbox (badness 1152) in paragraph at lines 49--50
 \T1/Heuristica-TLF/m/n/12 built a solid re-la-tion-ship with some rad-i-cals (w
 ho all
  []
 
-[134]
-Underfull \hbox (badness 5217) in paragraph at lines 30--31
+[135]
+Underfull \hbox (badness 5217) in paragraph at lines 51--52
 \T1/Heuristica-TLF/m/n/12 to gain au-thor-ity for him-self among the ex-trem-is
 ts
  []
 
 
-Underfull \hbox (badness 2142) in paragraph at lines 30--31
+Underfull \hbox (badness 2142) in paragraph at lines 51--52
 \T1/Heuristica-TLF/m/n/12 in Galilee---for a year, two years, or how-ever long 
 it
  []
 
 
-Underfull \hbox (badness 4556) in paragraph at lines 30--31
+Underfull \hbox (badness 4556) in paragraph at lines 51--52
 \T1/Heuristica-TLF/m/n/12 fool-ing around: Ju-das, in par-tic-u-lar, was au-tho
 -rized
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 30--31
+Underfull \hbox (badness 10000) in paragraph at lines 51--52
 \T1/Heuristica-TLF/m/n/12 and, if ab-so-lutely nec-es-sary, the im-pe-rial mil-
 i-tary
  []
 
 
-Underfull \hbox (badness 2310) in paragraph at lines 32--33
+Underfull \hbox (badness 2310) in paragraph at lines 53--54
 \T1/Heuristica-TLF/m/n/12 of com-mu-ni-ca-tion be-tween the Galilean and Judean
 
  []
 
 
-Underfull \hbox (badness 3872) in paragraph at lines 32--33
+Underfull \hbox (badness 3872) in paragraph at lines 53--54
 \T1/Heuristica-TLF/m/n/12 tempt-ing ones (for ex-am-ple, in-fil-trat-ing the Ze
 alots'
  []
 
-[135]
-Underfull \hbox (badness 4954) in paragraph at lines 34--35
+
+Underfull \hbox (badness 4954) in paragraph at lines 55--56
 \T1/Heuristica-TLF/m/n/12 one, but I placed the chances of suc-cess at about
  []
 
 
-Underfull \hbox (badness 7740) in paragraph at lines 34--35
+Underfull \hbox (badness 7740) in paragraph at lines 55--56
 \T1/Heuristica-TLF/m/n/12 two-to-one. Demi-urge was the best na-tive agent I
  []
 
 
-Underfull \hbox (badness 5245) in paragraph at lines 34--35
+Underfull \hbox (badness 5245) in paragraph at lines 55--56
 \T1/Heuristica-TLF/m/n/12 on a tech-ni-cal level (with skills in con-duct-ing a
 nd
  []
 
 
-Underfull \hbox (badness 1521) in paragraph at lines 34--35
+Underfull \hbox (badness 1521) in paragraph at lines 55--56
 \T1/Heuristica-TLF/m/n/12 evad-ing surveil-lance, dis-guise, the use of caches 
 and
  []
 
 
-Underfull \hbox (badness 1448) in paragraph at lines 34--35
+Underfull \hbox (badness 1448) in paragraph at lines 55--56
 \T1/Heuristica-TLF/m/n/12 com-mu-ni-ca-tion sys-tems, and both armed and hand-
  []
 
 
-Underfull \hbox (badness 2617) in paragraph at lines 34--35
+Underfull \hbox (badness 2617) in paragraph at lines 55--56
 \T1/Heuristica-TLF/m/n/12 to-hand com-bat), but more im-por-tantly, he had the
  []
 
 
-Underfull \hbox (badness 1502) in paragraph at lines 34--35
+Underfull \hbox (badness 1502) in paragraph at lines 55--56
 \T1/Heuristica-TLF/m/n/12 nat-u-ral abil-ity to win prac-ti-cally any-one over 
 to him
  []
 
 
-Underfull \hbox (badness 2452) in paragraph at lines 34--35
+Underfull \hbox (badness 2452) in paragraph at lines 55--56
 \T1/Heuristica-TLF/m/n/12 to in-fil-trate rad-i-cal groups in Judea; af-ter fiv
 e years,
  []
 
-
-Underfull \hbox (badness 1052) in paragraph at lines 36--37
+[136]
+Underfull \hbox (badness 1052) in paragraph at lines 57--58
 \T1/Heuristica-TLF/m/n/12 though on the other hand, you could hardly call it a
  []
 
 
-Underfull \hbox (badness 1264) in paragraph at lines 36--37
+Underfull \hbox (badness 1264) in paragraph at lines 57--58
 \T1/Heuristica-TLF/m/n/12 name) some-where in Cyprus or Alexan-dria would be
  []
 
-[136]
-Underfull \hbox (badness 10000) in paragraph at lines 38--39
+[137]
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
 []\T1/Heuristica-TLF/m/n/12 As I looked over the sta-tus up-dates from the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 38--39
+Underfull \hbox (badness 10000) in paragraph at lines 59--60
 \T1/Heuristica-TLF/m/n/12 first phase of Op-er-a-tion CEN-TAUR, I came across
  []
 
 
-Underfull \hbox (badness 5388) in paragraph at lines 38--39
+Underfull \hbox (badness 5388) in paragraph at lines 59--60
 \T1/Heuristica-TLF/m/n/12 these cir-cum-stances, Ju-das re-quested per-mis-sion
  to
  []
 
 
-Underfull \hbox (badness 1895) in paragraph at lines 38--39
+Underfull \hbox (badness 1895) in paragraph at lines 59--60
 \T1/Heuristica-TLF/m/n/12 leave Ha-Notsri be-hind and look for an-other sect to
 
  []
 
-[137]
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
+
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
 \T1/Heuristica-TLF/m/n/12 sculp-tor and in-vet-er-ate drunk---once gave me a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 40--41
+Underfull \hbox (badness 10000) in paragraph at lines 61--62
 \T1/Heuristica-TLF/m/n/12 won-der-ful de-scrip-tion of the state an artist find
 s
  []
 
 
-Underfull \hbox (badness 2111) in paragraph at lines 40--41
+Underfull \hbox (badness 2111) in paragraph at lines 61--62
 \T1/Heuristica-TLF/m/n/12 the mes-sage I'd been wait-ing sev-eral years for---e
 ver
  []
 
 
-Underfull \hbox (badness 1616) in paragraph at lines 40--41
+Underfull \hbox (badness 1616) in paragraph at lines 61--62
 \T1/Heuristica-TLF/m/n/12 con-tour of a grandiose se-cret op-er-a-tion that, fo
 r the
  []
 
-
-Underfull \hbox (badness 1577) in paragraph at lines 42--43
+[138]
+Underfull \hbox (badness 1577) in paragraph at lines 63--64
 []\T1/Heuristica-TLF/m/n/12 I dug up all the files our agency had on Yeshua
  []
 
 
-Underfull \hbox (badness 1571) in paragraph at lines 42--43
+Underfull \hbox (badness 1571) in paragraph at lines 63--64
 \T1/Heuristica-TLF/m/n/12 and his sect, but when it came to the in-for-ma-tion 
 I
  []
 
-[138]
-Underfull \hbox (badness 3148) in paragraph at lines 44--45
+[139]
+Underfull \hbox (badness 3148) in paragraph at lines 65--66
 \T1/Heuristica-TLF/m/n/12 at-tempts over the years to sta-bi-lize the sit-u-a-t
 ion in
  []
 
 
-Underfull \hbox (badness 1748) in paragraph at lines 44--45
+Underfull \hbox (badness 1748) in paragraph at lines 65--66
 \T1/Heuristica-TLF/m/n/12 Pales-tine, and in-cor-po-rate that haughty, quar-rel
 -some
  []
 
 
-Underfull \hbox (badness 1194) in paragraph at lines 44--45
+Underfull \hbox (badness 1194) in paragraph at lines 65--66
 \T1/Heuristica-TLF/m/n/12 peo-ple into the Em-pire through nor-mal means, have
  []
 
 
-Underfull \hbox (badness 1270) in paragraph at lines 44--45
+Underfull \hbox (badness 1270) in paragraph at lines 65--66
 \T1/Heuristica-TLF/m/n/12 been purely pal-lia-tive in na-ture. Of course, we co
 uld
  []
 
 
-Underfull \hbox (badness 3039) in paragraph at lines 44--45
+Underfull \hbox (badness 3039) in paragraph at lines 65--66
 \T1/Heuristica-TLF/m/n/12 keep me-thod-i-cally catch-ing and hang-ing terrorist
 s---
  []
 
 
-Underfull \hbox (badness 2150) in paragraph at lines 44--45
+Underfull \hbox (badness 2150) in paragraph at lines 65--66
 \T1/Heuristica-TLF/m/n/12 psy-chosis and re-li-gious fa-nati-cism that the coun
 -try's
  []
 
 
-Underfull \hbox (badness 1831) in paragraph at lines 44--45
+Underfull \hbox (badness 1831) in paragraph at lines 65--66
 \T1/Heuristica-TLF/m/n/12 ``spir-i-tual fa-thers'' have cre-ated will only con-
 tinue to
  []
 
 
-Underfull \hbox (badness 5519) in paragraph at lines 44--45
+Underfull \hbox (badness 5519) in paragraph at lines 65--66
 \T1/Heuristica-TLF/m/n/12 spawn ex-trem-ists as steadily as a swamp's mi-asma
  []
 
 
-Underfull \hbox (badness 1642) in paragraph at lines 44--45
+Underfull \hbox (badness 1642) in paragraph at lines 65--66
 \T1/Heuristica-TLF/m/n/12 Phar-isees, and po-lit-i-cal rad-i-cals of all stripe
 s to rally
  []
 
 
-Underfull \hbox (badness 4859) in paragraph at lines 44--45
+Underfull \hbox (badness 4859) in paragraph at lines 65--66
 \T1/Heuristica-TLF/m/n/12 be-hind. The lo-cal elite con-sists of a small num-be
 r
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 44--45
+Underfull \hbox (badness 10000) in paragraph at lines 65--66
 \T1/Heuristica-TLF/m/n/12 of in-tel-lec-tu-als who are ori-ented to-wards lib-e
 ral
  []
 
 
-Underfull \hbox (badness 2142) in paragraph at lines 44--45
+Underfull \hbox (badness 2142) in paragraph at lines 65--66
 \T1/Heuristica-TLF/m/n/12 cos-mopoli-tan val-ues, though their po-lit-i-cal in-
 flu-ence
  []
 
 
-Underfull \hbox (badness 7649) in paragraph at lines 44--45
+Underfull \hbox (badness 7649) in paragraph at lines 65--66
 \T1/Heuristica-TLF/m/n/12 their ac-tive col-lab-o-ra-tion with the Hel-l-enized
  (and
  []
 
-[139]
-Underfull \hbox (badness 1400) in paragraph at lines 46--47
+[140]
+Underfull \hbox (badness 1400) in paragraph at lines 67--68
 \T1/Heuristica-TLF/m/n/12 against vi-o-lence and trans-form the Jews' (sad to s
 ay,
  []
 
 
-Underfull \hbox (badness 1077) in paragraph at lines 48--49
+Underfull \hbox (badness 1077) in paragraph at lines 69--70
 \T1/Heuristica-TLF/m/n/12 of the na-tion, or even---who knows?---the head of an
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
 \T1/Heuristica-TLF/m/n/12 very real pos-si-bil-ity: af-ter his preach-ing even-
 tu-ally
  []
 
 
-Underfull \hbox (badness 1460) in paragraph at lines 48--49
+Underfull \hbox (badness 1460) in paragraph at lines 69--70
 \T1/Heuristica-TLF/m/n/12 brought him into con-flict with the Jew-ish or-tho-do
 xy,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
 \T1/Heuristica-TLF/m/n/12 the new prophet---assuming he was of suf-fi-ciently
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 48--49
+Underfull \hbox (badness 10000) in paragraph at lines 69--70
 \T1/Heuristica-TLF/m/n/12 high popularity---would split the Jews' re-li-giously
 
  []
 
 
-Underfull \hbox (badness 4660) in paragraph at lines 48--49
+Underfull \hbox (badness 4660) in paragraph at lines 69--70
 \T1/Heuristica-TLF/m/n/12 mono-lithic so-ci-ety in two. In the fu-ture, we woul
 d
  []
 
-[140]
-Underfull \hbox (badness 2245) in paragraph at lines 50--51
+
+Underfull \hbox (badness 2245) in paragraph at lines 71--72
 []\T1/Heuristica-TLF/m/n/12 It was clear that we would have to pro-vide this
  []
 
 
-Underfull \hbox (badness 1803) in paragraph at lines 50--51
+Underfull \hbox (badness 1803) in paragraph at lines 71--72
 \T1/Heuristica-TLF/m/n/12 leader with ded-i-cated sup-port; it was also clear t
 hat
  []
 
 
-Underfull \hbox (badness 1776) in paragraph at lines 50--51
+Underfull \hbox (badness 1776) in paragraph at lines 71--72
 \T1/Heuristica-TLF/m/n/12 for dan-ger sur-rounded us on quite lit-er-ally all s
 ides.
  []
 
 
-Underfull \hbox (badness 1803) in paragraph at lines 50--51
+Underfull \hbox (badness 1803) in paragraph at lines 71--72
 \T1/Heuristica-TLF/m/n/12 on the part of Rome, and re-act ac-cord-ingly. Sec-on
 d,
  []
 
 
-Underfull \hbox (badness 1237) in paragraph at lines 50--51
+Underfull \hbox (badness 1237) in paragraph at lines 71--72
 \T1/Heuristica-TLF/m/n/12 take to us of-fer-ing prac-ti-cal as-sis-tance to ``s
 ub-ver-sive
  []
 
-
-Underfull \hbox (badness 1406) in paragraph at lines 52--53
+[141]
+Underfull \hbox (badness 1406) in paragraph at lines 73--74
 \T1/Heuristica-TLF/m/n/12 a man who was noth-ing but hon-est, yet also (a rare
  []
 
-[141]
-Underfull \hbox (badness 1173) in paragraph at lines 54--55
+[142]
+Underfull \hbox (badness 1173) in paragraph at lines 75--76
 \T1/Heuristica-TLF/m/n/12 un-usual role of a guardian an-gel. From this mo-ment
 
  []
 
 
-Underfull \hbox (badness 3189) in paragraph at lines 54--55
+Underfull \hbox (badness 3189) in paragraph at lines 75--76
 \T1/Heuristica-TLF/m/n/12 on, he was charged with re-solv-ing the com-mu-nity's
 
  []
 
 
-Underfull \hbox (badness 2165) in paragraph at lines 56--57
+Underfull \hbox (badness 2165) in paragraph at lines 77--78
 []\T1/Heuristica-TLF/m/n/12 In any case, Ju-das grad-u-ally rose to the rank of
 
  []
 
 
-Underfull \hbox (badness 2005) in paragraph at lines 56--57
+Underfull \hbox (badness 2005) in paragraph at lines 77--78
 \T1/Heuristica-TLF/m/n/12 second-in-command in the com-mu-nity, to the point
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 58--59
+Underfull \hbox (badness 10000) in paragraph at lines 79--80
 []\T1/Heuristica-TLF/m/n/12 Meanwhile, the op-er-a-tion was com-ing along
  []
 
 
-Underfull \hbox (badness 1953) in paragraph at lines 58--59
+Underfull \hbox (badness 1953) in paragraph at lines 79--80
 \T1/Heuristica-TLF/m/n/12 their ri-val in his crib. Now there was lit-tle else 
 they
  []
 
 
-Underfull \hbox (badness 2469) in paragraph at lines 58--59
+Underfull \hbox (badness 2469) in paragraph at lines 79--80
 \T1/Heuristica-TLF/m/n/12 thank Jupiter he never re-al-ized how he es-caped the
 
  []
 
-[142]
-Underfull \hbox (badness 10000) in paragraph at lines 60--61
+[143]
+Underfull \hbox (badness 10000) in paragraph at lines 81--82
 []\T1/Heuristica-TLF/m/n/12 Yeshua's grow-ing pop-u-lar-ity had an-other
  []
 
 
-Underfull \hbox (badness 1365) in paragraph at lines 60--61
+Underfull \hbox (badness 1365) in paragraph at lines 81--82
 \T1/Heuristica-TLF/m/n/12 a sep-a-rate con-cern of mine al-to-gether (weak as t
 hey
  []
 
 
-Underfull \hbox (badness 4872) in paragraph at lines 60--61
+Underfull \hbox (badness 4872) in paragraph at lines 81--82
 \T1/Heuristica-TLF/m/n/12 and Nicode-mus were po-lit-i-cal fig-ures, af-ter all
 , not
  []
 
 
-Underfull \hbox (badness 2512) in paragraph at lines 60--61
+Underfull \hbox (badness 2512) in paragraph at lines 81--82
 \T1/Heuristica-TLF/m/n/12 rather in-ter-est-ing ef-fects some-where down the ro
 ad.
  []
 
 
-Underfull \hbox (badness 1571) in paragraph at lines 60--61
+Underfull \hbox (badness 1571) in paragraph at lines 81--82
 \T1/Heuristica-TLF/m/n/12 how we pre-sented the afore-men-tioned evac-u-a-tion 
 to
  []
 
-[143]
-Underfull \hbox (badness 10000) in paragraph at lines 62--63
+[144]
+Underfull \hbox (badness 10000) in paragraph at lines 83--84
 []\T1/Heuristica-TLF/m/n/12 Unfortunately, we ran into an-other se-ri-ous
  []
 
 
-Underfull \hbox (badness 1953) in paragraph at lines 62--63
+Underfull \hbox (badness 1953) in paragraph at lines 83--84
 \T1/Heuristica-TLF/m/n/12 preach-ing in Judea---a man named John, nick-named
  []
 
 
-Underfull \hbox (badness 2173) in paragraph at lines 62--63
+Underfull \hbox (badness 2173) in paragraph at lines 83--84
 \T1/Heuristica-TLF/m/n/12 ``the Bap-tist.'' A fun-da-men-tal-ist whose piety ec
 lipsed
  []
 
 
-Underfull \hbox (badness 4739) in paragraph at lines 62--63
+Underfull \hbox (badness 4739) in paragraph at lines 83--84
 \T1/Heuristica-TLF/m/n/12 com-pletely out-matched; the Judeans were far more
  []
 
-[144]
-Underfull \hbox (badness 1365) in paragraph at lines 64--65
+
+Underfull \hbox (badness 1365) in paragraph at lines 85--86
 []\T1/Heuristica-TLF/m/n/12 As you can imag-ine, a ri-valry im-me-di-ately brok
 e
  []
 
 
-Underfull \hbox (badness 3354) in paragraph at lines 64--65
+Underfull \hbox (badness 3354) in paragraph at lines 85--86
 \T1/Heuristica-TLF/m/n/12 these events would only in-ten-sify in the im-me-di-a
 te
  []
 
 
-Underfull \hbox (badness 1609) in paragraph at lines 64--65
+Underfull \hbox (badness 1609) in paragraph at lines 85--86
 \T1/Heuristica-TLF/m/n/12 fu-ture, and their com-pe-ti-tion would es-ca-late in
 to an
  []
 
-
-Underfull \hbox (badness 1102) in paragraph at lines 66--67
+[145]
+Underfull \hbox (badness 1102) in paragraph at lines 87--88
 \T1/Heuristica-TLF/m/n/12 sym-pa-thetic to him, while the Sad-ducees were afrai
 d
  []
 
 
-Underfull \hbox (badness 2564) in paragraph at lines 66--67
+Underfull \hbox (badness 2564) in paragraph at lines 87--88
 \T1/Heuristica-TLF/m/n/12 the prophet on his ter-ri-tory, fear-ing quite jus-ti
 -fi-ably
  []
 
 
-Underfull \hbox (badness 2245) in paragraph at lines 66--67
+Underfull \hbox (badness 2245) in paragraph at lines 87--88
 \T1/Heuristica-TLF/m/n/12 that it would cause mass un-rest. We could or-ga-nize
 
  []
 
 
-Underfull \hbox (badness 1354) in paragraph at lines 66--67
+Underfull \hbox (badness 1354) in paragraph at lines 87--88
 \T1/Heuristica-TLF/m/n/12 knew all too well, the Bap-tist had quite a few se-cr
 et
  []
 
-[145]
-Underfull \hbox (badness 1888) in paragraph at lines 68--69
+[146]
+Underfull \hbox (badness 1888) in paragraph at lines 89--90
 \T1/Heuristica-TLF/m/n/12 an or-der from the Procu-ra-tor to travel to Galilee 
 on
  []
 
 
-Underfull \hbox (badness 2582) in paragraph at lines 68--69
+Underfull \hbox (badness 2582) in paragraph at lines 89--90
 \T1/Heuristica-TLF/m/n/12 on me; as the say-ing goes, ev-ery cloud has a sil-ve
 r
  []
 
 
-Underfull \hbox (badness 3229) in paragraph at lines 68--69
+Underfull \hbox (badness 3229) in paragraph at lines 89--90
 \T1/Heuristica-TLF/m/n/12 as-sis-tant, I set out that very same day for Tiberia
 s.
  []
 
 
-Underfull \hbox (badness 2418) in paragraph at lines 68--69
+Underfull \hbox (badness 2418) in paragraph at lines 89--90
 \T1/Heuristica-TLF/m/n/12 Dur-ing the course of the ne-go-ti-a-tions, I de-clar
 ed to
  []
 
 
-Underfull \hbox (badness 2828) in paragraph at lines 68--69
+Underfull \hbox (badness 2828) in paragraph at lines 89--90
 \T1/Heuristica-TLF/m/n/12 Herod that we were well and truly fed up with the
  []
 
 
-Underfull \hbox (badness 1521) in paragraph at lines 68--69
+Underfull \hbox (badness 1521) in paragraph at lines 89--90
 \T1/Heuristica-TLF/m/n/12 to sup-press the ter-ror-ist ac-tiv-i-ties of the lo-
 cal Zealot
  []
 
 
-Underfull \hbox (badness 3780) in paragraph at lines 68--69
+Underfull \hbox (badness 3780) in paragraph at lines 89--90
 \T1/Heuristica-TLF/m/n/12 King Are-tas of Ara-bia. As such, I am au-tho-rized t
 o
  []
 
 
-Underfull \hbox (badness 2213) in paragraph at lines 68--69
+Underfull \hbox (badness 2213) in paragraph at lines 89--90
 \T1/Heuristica-TLF/m/n/12 `in-ter-na-tional aid' to help rid the ter-ri-tory of
  armed
  []
 
 
-Underfull \hbox (badness 1127) in paragraph at lines 70--71
+Underfull \hbox (badness 1127) in paragraph at lines 91--92
 []\T1/Heuristica-TLF/m/n/12 Herod quite rea-son-ably ob-jected that the Ro-man
  []
 
 
-Underfull \hbox (badness 1552) in paragraph at lines 70--71
+Underfull \hbox (badness 1552) in paragraph at lines 91--92
 \T1/Heuristica-TLF/m/n/12 au-thor-i-ties would do well to put their own house i
 n
  []
 
 
-Underfull \hbox (badness 3138) in paragraph at lines 70--71
+Underfull \hbox (badness 3138) in paragraph at lines 91--92
 \T1/Heuristica-TLF/m/n/12 or-der first---in Judea. Never in his life, for ex-am
 -ple,
  []
 
 
-Underfull \hbox (badness 3861) in paragraph at lines 70--71
+Underfull \hbox (badness 3861) in paragraph at lines 91--92
 \T1/Heuristica-TLF/m/n/12 the no-to-ri-ous John the Bap-tist to spread with to-
 tal
  []
 
 
-Underfull \hbox (badness 6001) in paragraph at lines 70--71
+Underfull \hbox (badness 6001) in paragraph at lines 91--92
 \T1/Heuristica-TLF/m/n/12 im-punity. Fol-low-ing this, the Tetrarch, as ex-pect
 ed,
  []
 
 
-Underfull \hbox (badness 2671) in paragraph at lines 70--71
+Underfull \hbox (badness 2671) in paragraph at lines 91--92
 \T1/Heuristica-TLF/m/n/12 fate, both in this life and the next (as that bril-li
 ant
  []
 
 
-Underfull \hbox (badness 2443) in paragraph at lines 70--71
+Underfull \hbox (badness 2443) in paragraph at lines 91--92
 \T1/Heuristica-TLF/m/n/12 or-a-tor had long made Herod the main tar-get of his
  []
 
-[146]
-Underfull \hbox (badness 1019) in paragraph at lines 72--73
+[147]
+Underfull \hbox (badness 1019) in paragraph at lines 93--94
 \T1/Heuristica-TLF/m/n/12 was too tart for my ple-beian palate; the girls, on t
 he
  []
 
 
-Underfull \hbox (badness 1635) in paragraph at lines 74--75
+Underfull \hbox (badness 1635) in paragraph at lines 95--96
 \T1/Heuristica-TLF/m/n/12 by the Tetrarch of Galilee and Perea in our pre-vi-ou
 s
  []
 
 
-Underfull \hbox (badness 1642) in paragraph at lines 74--75
+Underfull \hbox (badness 1642) in paragraph at lines 95--96
 \T1/Heuristica-TLF/m/n/12 talk, and had un-der-taken a ges-ture of good-will. L
 ast
  []
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 74--75
+Underfull \hbox (badness 1661) in paragraph at lines 95--96
 \T1/Heuristica-TLF/m/n/12 to him, wrapped up in a bow, and the Tetrarch was
  []
 
 
-Underfull \hbox (badness 1622) in paragraph at lines 74--75
+Underfull \hbox (badness 1622) in paragraph at lines 95--96
 \T1/Heuristica-TLF/m/n/12 Spe-cial Forces might im-me-di-ately be-gin car-ry-in
 g out
  []
 
-[147]
-Underfull \hbox (badness 2556) in paragraph at lines 76--77
+[148]
+Underfull \hbox (badness 2556) in paragraph at lines 97--98
 \T1/Heuristica-TLF/m/n/12 team had been dressed in Galilean po-lice uni-forms,
  []
 
 
-Underfull \hbox (badness 1552) in paragraph at lines 76--77
+Underfull \hbox (badness 1552) in paragraph at lines 97--98
 \T1/Heuristica-TLF/m/n/12 a tac-tic that had quite frankly served to mis-lead t
 he
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 76--77
+Underfull \hbox (badness 10000) in paragraph at lines 97--98
 \T1/Heuristica-TLF/m/n/12 gar-ri-son at Machaerus, which con-sisted mainly of
  []
 
 
-Underfull \hbox (badness 3281) in paragraph at lines 78--79
+Underfull \hbox (badness 3281) in paragraph at lines 99--100
 \T1/Heuristica-TLF/m/n/12 Even-tu-ally, the Tetrarch pulled him-self to-gether 
 and
  []
 
-[148]
-Underfull \hbox (badness 1184) in paragraph at lines 80--81
+[149]
+Underfull \hbox (badness 1184) in paragraph at lines 101--102
 \T1/Heuristica-TLF/m/n/12 at the Bap-tist's ar-rest had died down, he was qui-e
 tly
  []
 
 
-Underfull \hbox (badness 1107) in paragraph at lines 82--83
+Underfull \hbox (badness 1107) in paragraph at lines 103--104
 \T1/Heuristica-TLF/m/n/12 six years, our ef-forts would bear fruit, and we woul
 d
  []
 
 
-Underfull \hbox (badness 1867) in paragraph at lines 82--83
+Underfull \hbox (badness 1867) in paragraph at lines 103--104
 \T1/Heuristica-TLF/m/n/12 fi-nally have the ``third force'' in Pales-tine that 
 we so
  []
 
 
-Underfull \hbox (badness 1983) in paragraph at lines 82--83
+Underfull \hbox (badness 1983) in paragraph at lines 103--104
 \T1/Heuristica-TLF/m/n/12 des-per-ately needed to rely on. Ev-ery-thing was go-
 ing
  []
 
 
-Underfull \hbox (badness 1715) in paragraph at lines 82--83
+Underfull \hbox (badness 1715) in paragraph at lines 103--104
 \T1/Heuristica-TLF/m/n/12 one of the dis-ci-ples absent-mindedly stuck his hand
 
  []
 
 
-Underfull \hbox (badness 2158) in paragraph at lines 82--83
+Underfull \hbox (badness 2158) in paragraph at lines 103--104
 \T1/Heuristica-TLF/m/n/12 in-side the money box and---as luck would have it---
  []
 
 
-Underfull \hbox (badness 1033) in paragraph at lines 82--83
+Underfull \hbox (badness 1033) in paragraph at lines 103--104
 \T1/Heuristica-TLF/m/n/12 there just the day be-fore. The com-mu-nity de-manded
 
  []
 
-[149]
-Underfull \hbox (badness 1087) in paragraph at lines 84--85
+[150]
+Underfull \hbox (badness 1087) in paragraph at lines 105--106
 \T1/Heuristica-TLF/m/n/12 Passover pil-grim-age to Jerusalem. I still have no c
 lue
  []
 
 
-Underfull \hbox (badness 2828) in paragraph at lines 84--85
+Underfull \hbox (badness 2828) in paragraph at lines 105--106
 \T1/Heuristica-TLF/m/n/12 what led me to come up with such a strange idea:
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 84--85
+Underfull \hbox (badness 1112) in paragraph at lines 105--106
 \T1/Heuristica-TLF/m/n/12 slip-ping in two gen-uine, honest-to-God par-a-lyt-ic
 s for
  []
 
 
-Underfull \hbox (badness 2318) in paragraph at lines 84--85
+Underfull \hbox (badness 2318) in paragraph at lines 105--106
 \T1/Heuristica-TLF/m/n/12 him to heal. Say what you will, Pro-con-sul, but they
 
  []
 
-[150]
-Underfull \hbox (badness 1490) in paragraph at lines 86--87
+[151]
+Underfull \hbox (badness 1490) in paragraph at lines 107--108
 []\T1/Heuristica-TLF/m/n/12 I called Ju-das over to the safe-house and po-litel
 y
  []
 
 
-Underfull \hbox (badness 1248) in paragraph at lines 86--87
+Underfull \hbox (badness 1248) in paragraph at lines 107--108
 \T1/Heuristica-TLF/m/n/12 asked for his thoughts on the story of my par-a-lyt-i
 cs.
  []
 
 
-Underfull \hbox (badness 1189) in paragraph at lines 86--87
+Underfull \hbox (badness 1189) in paragraph at lines 107--108
 \T1/Heuristica-TLF/m/n/12 he had put all the miss-ing money into a spec-tac-u-l
 ar
  []
 
 
-Underfull \hbox (badness 1092) in paragraph at lines 86--87
+Underfull \hbox (badness 1092) in paragraph at lines 107--108
 \T1/Heuristica-TLF/m/n/12 ``mir-a-cle'' that would take place just a few days f
 rom
  []
 
 
-Underfull \hbox (badness 1436) in paragraph at lines 86--87
+Underfull \hbox (badness 1436) in paragraph at lines 107--108
 \T1/Heuristica-TLF/m/n/12 hands. I needed to take him out of the op-er-a-tion a
 t
  []
 
 
-Underfull \hbox (badness 1077) in paragraph at lines 86--87
+Underfull \hbox (badness 1077) in paragraph at lines 107--108
 \T1/Heuristica-TLF/m/n/12 record, I decided---on my own responsibility---to giv
 e
  []
 
 
-Underfull \hbox (badness 1077) in paragraph at lines 86--87
+Underfull \hbox (badness 1077) in paragraph at lines 107--108
 \T1/Heuristica-TLF/m/n/12 he saw noth-ing bet-ter to do than to be-tray ev-ery-
 one
  []
 
-[151]
-Underfull \hbox (badness 10000) in paragraph at lines 90--91
+[152]
+Underfull \hbox (badness 10000) in paragraph at lines 111--112
 []\T1/Heuristica-TLF/m/n/12 Later on, of course, I con-ducted a thor-ough
  []
 
 
-Underfull \hbox (badness 3158) in paragraph at lines 90--91
+Underfull \hbox (badness 3158) in paragraph at lines 111--112
 \T1/Heuristica-TLF/m/n/12 in-ves-ti-ga-tion and dis-cov-ered that Ju-das, as I 
 should
  []
 
 
-Underfull \hbox (badness 2828) in paragraph at lines 90--91
+Underfull \hbox (badness 2828) in paragraph at lines 111--112
 \T1/Heuristica-TLF/m/n/12 part in the deception---for the no-blest of causes, o
 f
  []
 
 
-Underfull \hbox (badness 2368) in paragraph at lines 90--91
+Underfull \hbox (badness 2368) in paragraph at lines 111--112
 \T1/Heuristica-TLF/m/n/12 back to bite him: he some-how failed to re-al-ize tha
 t
  []
 
-[152]
-Underfull \hbox (badness 5533) in paragraph at lines 93--95
+File: assets/afranius-1.png Graphic file (type bmp)
+<assets/afranius-1.png>
+[153]
+Underfull \hbox (badness 5533) in paragraph at lines 119--121
 []\T1/Heuristica-TLF/m/n/12 Which is ex-actly what hap-pened. The dis-ci-ples
  []
 
 
-Underfull \hbox (badness 1571) in paragraph at lines 93--95
+Underfull \hbox (badness 1571) in paragraph at lines 119--121
 \T1/Heuristica-TLF/m/n/12 to wrig-gle his way out of it and put off the de-ci-s
 ive
  []
 
-
-Underfull \hbox (badness 1584) in paragraph at lines 96--97
+[154]
+Underfull \hbox (badness 1584) in paragraph at lines 122--123
 \T1/Heuristica-TLF/m/n/12 wonderfully said, Your Ho-li-ness, was that one of th
 e
  []
 
-[153]
-Underfull \hbox (badness 6876) in paragraph at lines 98--99
+[155]
+Underfull \hbox (badness 6876) in paragraph at lines 124--125
 []\T1/Heuristica-TLF/m/n/12 Of course, that wasn't nec-es-sar-ily how it went
  []
 
 
-Underfull \hbox (badness 7030) in paragraph at lines 98--99
+Underfull \hbox (badness 7030) in paragraph at lines 124--125
 \T1/Heuristica-TLF/m/n/12 hon-estly, I have to hand it to him: the scoundrel
  []
 
 
-Underfull \hbox (badness 3635) in paragraph at lines 100--101
+Underfull \hbox (badness 3635) in paragraph at lines 126--127
 []\T1/Heuristica-TLF/m/n/12 So just what op-tions did Ju-das have? He could
  []
 
 
-Underfull \hbox (badness 6316) in paragraph at lines 100--101
+Underfull \hbox (badness 6316) in paragraph at lines 126--127
 \T1/Heuristica-TLF/m/n/12 give up com-pletely (``What-ever hap-pens, hap-pens''
 )
  []
 
 
-Underfull \hbox (badness 2253) in paragraph at lines 100--101
+Underfull \hbox (badness 2253) in paragraph at lines 126--127
 \T1/Heuristica-TLF/m/n/12 and hope-lessly await his trial and im-pris-on-ment f
 or
  []
 
 
-Underfull \hbox (badness 3769) in paragraph at lines 100--101
+Underfull \hbox (badness 3769) in paragraph at lines 126--127
 \T1/Heuristica-TLF/m/n/12 em-bez-zle-ment, but of course, we can rule that out
  []
 
-[154]
-Underfull \hbox (badness 7238) in paragraph at lines 102--103
+[156]
+Underfull \hbox (badness 7238) in paragraph at lines 128--129
 []\T1/Heuristica-TLF/m/n/12 Of course, Ju-das could flee to ter-ri-tory in the
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 102--103
+Underfull \hbox (badness 1590) in paragraph at lines 128--129
 \T1/Heuristica-TLF/m/n/12 would be sub-jected to a lengthy, gru-el-ing pro-cess
  of
  []
 
 
-Underfull \hbox (badness 1024) in paragraph at lines 102--103
+Underfull \hbox (badness 1024) in paragraph at lines 128--129
 \T1/Heuristica-TLF/m/n/12 ver-i-fi-ca-tion. I would be quite pes-simistic as to
  Ju-das'
  []
 
-[155]
-Underfull \hbox (badness 10000) in paragraph at lines 104--105
+
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
 \T1/Heuristica-TLF/m/n/12 the in-ves-ti-ga-tors of his sin-cer-ity and was spar
 ed
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 104--105
+Underfull \hbox (badness 10000) in paragraph at lines 130--131
 \T1/Heuristica-TLF/m/n/12 ex-e-cu-tion. Do you re-ally think that would be the
  []
 
 
-Underfull \hbox (badness 2310) in paragraph at lines 104--105
+Underfull \hbox (badness 2310) in paragraph at lines 130--131
 \T1/Heuristica-TLF/m/n/12 in-cred-i-bly dan-ger-ous or bloody mis-sion to boot 
 (for
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 106--107
+[157]
+Underfull \hbox (badness 10000) in paragraph at lines 132--133
 \T1/Heuristica-TLF/m/n/12 conditions---could pos-si-bly guar-an-tee Ju-das' saf
 ety,
  []
 
-[156]
-Underfull \hbox (badness 3386) in paragraph at lines 108--109
+[158]
+Underfull \hbox (badness 3386) in paragraph at lines 134--135
 []\T1/Heuristica-TLF/m/n/12 His terms were as fol-lows: Ju-das would present
  []
 
 
-Underfull \hbox (badness 4132) in paragraph at lines 108--109
+Underfull \hbox (badness 4132) in paragraph at lines 134--135
 \T1/Heuristica-TLF/m/n/12 tak-ing great pains to hide his sec-ond iden-tity as 
 a
  []
 
 
-Underfull \hbox (badness 2237) in paragraph at lines 108--109
+Underfull \hbox (badness 2237) in paragraph at lines 134--135
 \T1/Heuristica-TLF/m/n/12 ab-so-lutely vi-tal that Ju-das ap-pear be-fore the R
 o-man
  []
 
 
-Underfull \hbox (badness 1571) in paragraph at lines 108--109
+Underfull \hbox (badness 1571) in paragraph at lines 134--135
 \T1/Heuristica-TLF/m/n/12 would have any use for him then? With-out a doubt,
  []
 
-[157]
-Underfull \hbox (badness 2401) in paragraph at lines 112--113
+[159]
+Underfull \hbox (badness 2401) in paragraph at lines 138--139
 \T1/Heuristica-TLF/m/n/12 San-hedrin, his life wouldn't be worth a rot-ten oliv
 e.
  []
 
 
-Underfull \hbox (badness 2221) in paragraph at lines 114--115
+Underfull \hbox (badness 2221) in paragraph at lines 140--141
 \T1/Heuristica-TLF/m/n/12 gave him a cover story for his pres-ence in the city)
 
  []
 
 
-Underfull \hbox (badness 1215) in paragraph at lines 114--115
+Underfull \hbox (badness 1215) in paragraph at lines 140--141
 \T1/Heuristica-TLF/m/n/12 namely John, had been act-ing quite strange over the
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 114--115
+Underfull \hbox (badness 1997) in paragraph at lines 140--141
 \T1/Heuristica-TLF/m/n/12 to get in con-tact with the San-hedrin, and re-queste
 d
  []
 
 
-Underfull \hbox (badness 4328) in paragraph at lines 114--115
+Underfull \hbox (badness 4328) in paragraph at lines 140--141
 \T1/Heuristica-TLF/m/n/12 that our agency im-me-di-ately start mak-ing in-quiri
 es
  []
 
 
-Underfull \hbox (badness 2310) in paragraph at lines 114--115
+Underfull \hbox (badness 2310) in paragraph at lines 140--141
 \T1/Heuristica-TLF/m/n/12 into the mat-ter. Ju-das based his cal-cu-la-tions on
  the
  []
 
 
-Underfull \hbox (badness 2961) in paragraph at lines 114--115
+Underfull \hbox (badness 2961) in paragraph at lines 140--141
 \T1/Heuristica-TLF/m/n/12 fact that he bore a sig-nif-i-cant phys-i-cal re-sem-
 blance
  []
 
 
-Underfull \hbox (badness 3148) in paragraph at lines 114--115
+Underfull \hbox (badness 3148) in paragraph at lines 140--141
 \T1/Heuristica-TLF/m/n/12 to John; more-over, while leav-ing Lazarus' house, he
 
  []
 
-[158]
-Underfull \hbox (badness 2426) in paragraph at lines 116--117
+[160]
+Underfull \hbox (badness 2426) in paragraph at lines 142--143
 \T1/Heuristica-TLF/m/n/12 an-other hefty sum of money---in case he needed to
  []
 
 
-Underfull \hbox (badness 2261) in paragraph at lines 116--117
+Underfull \hbox (badness 2261) in paragraph at lines 142--143
 \T1/Heuristica-TLF/m/n/12 evac-u-ate the dis-ci-ples, pay off some guards, or t
 ake
  []
 
-[159]
-Underfull \hbox (badness 10000) in paragraph at lines 120--121
+[161]
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
 []\T1/Heuristica-TLF/m/n/12 However, we had to pro-ceed with the ut-most
  []
 
 
-Underfull \hbox (badness 2753) in paragraph at lines 120--121
+Underfull \hbox (badness 2753) in paragraph at lines 146--147
 \T1/Heuristica-TLF/m/n/12 cau-tion. As a rule, the mem-bers of the sect walked
  []
 
 
-Underfull \hbox (badness 7925) in paragraph at lines 120--121
+Underfull \hbox (badness 7925) in paragraph at lines 146--147
 \T1/Heuristica-TLF/m/n/12 the streets of Jerusalem in a sin-gle group, closely
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 120--121
+Underfull \hbox (badness 10000) in paragraph at lines 146--147
 \T1/Heuristica-TLF/m/n/12 monitored---for their own protection---by Judean
  []
 
 
-Underfull \hbox (badness 1158) in paragraph at lines 120--121
+Underfull \hbox (badness 1158) in paragraph at lines 146--147
 \T1/Heuristica-TLF/m/n/12 de-tec-tives would quite eas-ily be able to sniff out
  the
  []
 
 
-Underfull \hbox (badness 2573) in paragraph at lines 120--121
+Underfull \hbox (badness 2573) in paragraph at lines 146--147
 \T1/Heuristica-TLF/m/n/12 Yeshua's preach-ing, and his ac-tiv-ity in gen-eral, 
 were
  []
 
 
-Underfull \hbox (badness 1558) in paragraph at lines 120--121
+Underfull \hbox (badness 1558) in paragraph at lines 146--147
 \T1/Heuristica-TLF/m/n/12 any-thing but pri-vate, and this wannabe stool pi-geo
 n
  []
 
 
-Underfull \hbox (badness 2762) in paragraph at lines 120--121
+Underfull \hbox (badness 2762) in paragraph at lines 146--147
 \T1/Heuristica-TLF/m/n/12 head-quar-ters. We would have no trou-ble trail-ing a
 n
  []
 
 
-Underfull \hbox (badness 1210) in paragraph at lines 120--121
+Underfull \hbox (badness 1210) in paragraph at lines 146--147
 \T1/Heuristica-TLF/m/n/12 am-a-teur like John; sooner or later, he would have t
 o
  []
 
-[160]
-Underfull \hbox (badness 2922) in paragraph at lines 122--123
+[162]
+Underfull \hbox (badness 2922) in paragraph at lines 148--149
 \T1/Heuristica-TLF/m/n/12 in the city; once again, how-ever, he was not alone,
  []
 
 
-Underfull \hbox (badness 1635) in paragraph at lines 122--123
+Underfull \hbox (badness 1635) in paragraph at lines 148--149
 \T1/Heuristica-TLF/m/n/12 Road was com-pletely empty, so it was im-pos-si-ble t
 o
  []
 
 
-Underfull \hbox (badness 2469) in paragraph at lines 122--123
+Underfull \hbox (badness 2469) in paragraph at lines 148--149
 \T1/Heuristica-TLF/m/n/12 con-duct any fur-ther surveil-lance. Back in Jerusale
 m,
  []
 
-[161]
-Underfull \hbox (badness 4036) in paragraph at lines 124--125
+
+Underfull \hbox (badness 4036) in paragraph at lines 150--151
 \T1/Heuristica-TLF/m/n/12 in a sect that was op-er-at-ing com-pletely out in th
 e
  []
 
 
-Underfull \hbox (badness 1817) in paragraph at lines 124--125
+Underfull \hbox (badness 1817) in paragraph at lines 150--151
 \T1/Heuristica-TLF/m/n/12 mys-tery on my hands. It was now six days since I'd
  []
 
-
-Underfull \hbox (badness 3058) in paragraph at lines 126--127
+[163]
+Underfull \hbox (badness 3058) in paragraph at lines 152--153
 []\T1/Heuristica-TLF/m/n/12 ater that morn-ing, Nicode-mus spent some time
  []
 
 
-Underfull \hbox (badness 1389) in paragraph at lines 126--127
+Underfull \hbox (badness 1389) in paragraph at lines 152--153
 \T1/Heuristica-TLF/m/n/12 talk-ing with his old friend Gaius Fabri-cius, who no
 w
  []
 
 
-Underfull \hbox (badness 1189) in paragraph at lines 126--127
+Underfull \hbox (badness 1189) in paragraph at lines 152--153
 \T1/Heuristica-TLF/m/n/12 he de-vel-oped a se-ri-ous in-ter-est in the teach-in
 gs of a
  []
 
-[162]
-Underfull \hbox (badness 6526) in paragraph at lines 128--129
+[164]
+Underfull \hbox (badness 6526) in paragraph at lines 154--155
 []\T1/Heuristica-TLF/m/n/12 In my in-ter-ac-tions with him over the years, a
  []
 
 
-Underfull \hbox (badness 2894) in paragraph at lines 128--129
+Underfull \hbox (badness 2894) in paragraph at lines 154--155
 \T1/Heuristica-TLF/m/n/12 ter-ri-fy-ing thought would some-times cross my mind:
 
  []
 
 
-Underfull \hbox (badness 1226) in paragraph at lines 128--129
+Underfull \hbox (badness 1226) in paragraph at lines 154--155
 \T1/Heuristica-TLF/m/n/12 just who (or what) was the Un-de-clared Sta-tion Chie
 f
  []
 
 
-Underfull \hbox (badness 1675) in paragraph at lines 128--129
+Underfull \hbox (badness 1675) in paragraph at lines 154--155
 \T1/Heuristica-TLF/m/n/12 for the Cen-tral In-tel-li-gence Di-rec-torate, Gen-e
 ral Staff
  []
 
 
-Underfull \hbox (badness 2573) in paragraph at lines 128--129
+Underfull \hbox (badness 2573) in paragraph at lines 154--155
 \T1/Heuristica-TLF/m/n/12 have rolled ages ago for \T1/Heuristica-TLF/m/it/12 l
 èse ma-jesté \T1/Heuristica-TLF/m/n/12 were he liv-ing
  []
 
 
-Underfull \hbox (badness 5105) in paragraph at lines 128--129
+Underfull \hbox (badness 5105) in paragraph at lines 154--155
 \T1/Heuristica-TLF/m/n/12 in Rome, was serving---at his own peril and risk---
  []
 
 
-Underfull \hbox (badness 4543) in paragraph at lines 128--129
+Underfull \hbox (badness 4543) in paragraph at lines 154--155
 \T1/Heuristica-TLF/m/n/12 would merge the crys-talline logic of the West with
  []
 
 
-Underfull \hbox (badness 3514) in paragraph at lines 128--129
+Underfull \hbox (badness 3514) in paragraph at lines 154--155
 \T1/Heuristica-TLF/m/n/12 vic-to-ri-ous le-gions with the wis-dom of millennia-
 old
  []
 
-[163]
-Underfull \hbox (badness 2980) in paragraph at lines 132--133
+[165]
+Underfull \hbox (badness 2980) in paragraph at lines 158--159
 []\T1/Heuristica-TLF/m/n/12 Some peo-ple might get the im-pres-sion that the
  []
 
 
-Underfull \hbox (badness 5161) in paragraph at lines 132--133
+Underfull \hbox (badness 5161) in paragraph at lines 158--159
 \T1/Heuristica-TLF/m/n/12 al-to-gether for-giv-able mis-con-cep-tion would turn
  out
  []
 
 
-Underfull \hbox (badness 2941) in paragraph at lines 132--133
+Underfull \hbox (badness 2941) in paragraph at lines 158--159
 \T1/Heuristica-TLF/m/n/12 to be their last. Hell, for the longest time Fabri-ci
 us
  []
 
 
-Underfull \hbox (badness 1199) in paragraph at lines 132--133
+Underfull \hbox (badness 1199) in paragraph at lines 158--159
 \T1/Heuristica-TLF/m/n/12 of the in-tel-li-gence ser-vice. The tra-di-tion in F
 abri-cius'
  []
 
 
-Underfull \hbox (badness 1107) in paragraph at lines 132--133
+Underfull \hbox (badness 1107) in paragraph at lines 158--159
 \T1/Heuristica-TLF/m/n/12 fam-ily was to take up a cushy job in the Min-istry o
 f
  []
 
-[164]
-Underfull \hbox (badness 2088) in paragraph at lines 134--135
+
+Underfull \hbox (badness 2088) in paragraph at lines 160--161
 []\T1/Heuristica-TLF/m/n/12 I might have re-mained for-ever ig-no-rant had the
  []
 
 
-Underfull \hbox (badness 3503) in paragraph at lines 134--135
+Underfull \hbox (badness 3503) in paragraph at lines 160--161
 \T1/Heuristica-TLF/m/n/12 Spe-cial Ser-vices in the Near East, gave the af-fect
 ed
  []
 
 
-Underfull \hbox (badness 5548) in paragraph at lines 134--135
+Underfull \hbox (badness 5548) in paragraph at lines 160--161
 \T1/Heuristica-TLF/m/n/12 spy-mas-ters a dual re-port-ing line, and as-signed t
 he
  []
 
-
-Underfull \hbox (badness 1259) in paragraph at lines 136--137
+[166]
+Underfull \hbox (badness 1259) in paragraph at lines 162--163
 \T1/Heuristica-TLF/m/n/12 who had spent their lives ob-sessed with main-tain-in
 g
  []
 
 
-Underfull \hbox (badness 1838) in paragraph at lines 136--137
+Underfull \hbox (badness 1838) in paragraph at lines 162--163
 \T1/Heuristica-TLF/m/n/12 se-crecy be-tween de-part-ments) sud-denly put all th
 eir
  []
 
 
-Underfull \hbox (badness 1178) in paragraph at lines 136--137
+Underfull \hbox (badness 1178) in paragraph at lines 162--163
 \T1/Heuristica-TLF/m/n/12 en-thu-si-asm into merg-ing ev-ery-thing they could--
 -and
  []
 
 
-Underfull \hbox (badness 1253) in paragraph at lines 136--137
+Underfull \hbox (badness 1253) in paragraph at lines 162--163
 \T1/Heuristica-TLF/m/n/12 around the Eu-phrates, that ac-tu-ally made some kind
 
  []
 
 
-Underfull \hbox (badness 1584) in paragraph at lines 136--137
+Underfull \hbox (badness 1584) in paragraph at lines 162--163
 \T1/Heuristica-TLF/m/n/12 Parthian State Se-cu-rity have proven false up to now
 ,
  []
 
 
-Underfull \hbox (badness 1527) in paragraph at lines 136--137
+Underfull \hbox (badness 1527) in paragraph at lines 162--163
 \T1/Heuristica-TLF/m/n/12 rea-son forced to over-see the joint in-tel-li-gence 
 of the
  []
 
 
-Underfull \hbox (badness 1527) in paragraph at lines 136--137
+Underfull \hbox (badness 1527) in paragraph at lines 162--163
 \T1/Heuristica-TLF/m/n/12 forces co-horts) and the ter-ri-to-rial coun-ter-in-t
 el-li-gence
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 136--137
+Underfull \hbox (badness 10000) in paragraph at lines 162--163
 \T1/Heuristica-TLF/m/n/12 de-cent work-ing re-la-tion-ship with, un-der-stand-a
 bly
  []
 
 
-Underfull \hbox (badness 1558) in paragraph at lines 136--137
+Underfull \hbox (badness 1558) in paragraph at lines 162--163
 \T1/Heuristica-TLF/m/n/12 to a com-pletely in-ten-tional leak of in-for-ma-tion
  from
  []
 
-[165]
-Underfull \hbox (badness 1038) in paragraph at lines 138--139
+[167]
+Underfull \hbox (badness 1038) in paragraph at lines 164--165
 \T1/Heuristica-TLF/m/n/12 I re-al-ized just what his seem-ingly small spy ring 
 was
  []
 
 
-Underfull \hbox (badness 1107) in paragraph at lines 138--139
+Underfull \hbox (badness 1107) in paragraph at lines 164--165
 \T1/Heuristica-TLF/m/n/12 ranks of Judean lead-er-ship sim-ply bog-gled the min
 d.
  []
 
 
-Underfull \hbox (badness 1242) in paragraph at lines 138--139
+Underfull \hbox (badness 1242) in paragraph at lines 164--165
 \T1/Heuristica-TLF/m/n/12 Only then did I come to ap-pre-ci-ate the ti-tanic ef
 -fort
  []
 
-[166]
-Underfull \hbox (badness 1838) in paragraph at lines 140--141
+
+Underfull \hbox (badness 1838) in paragraph at lines 166--167
 []\T1/Heuristica-TLF/m/n/12 Admittedly, there were times when Fabri-cius left
  []
 
 
-Underfull \hbox (badness 6188) in paragraph at lines 140--141
+Underfull \hbox (badness 6188) in paragraph at lines 166--167
 \T1/Heuristica-TLF/m/it/12 al-ways \T1/Heuristica-TLF/m/n/12 turn out suc-cess-
 ful. And since I am firmly
  []
 
-
-Underfull \hbox (badness 1389) in paragraph at lines 142--143
+[168]
+Underfull \hbox (badness 1389) in paragraph at lines 168--169
 []\T1/Heuristica-TLF/m/n/12 And so, some-time around noon on Thurs-day, 13
  []
 
 
-Underfull \hbox (badness 1924) in paragraph at lines 142--143
+Underfull \hbox (badness 1924) in paragraph at lines 168--169
 \T1/Heuristica-TLF/m/n/12 the fin-gers of the Ro-man forces chas-ing af-ter him
 ---
  []
 
-[167]
-Underfull \hbox (badness 6708) in paragraph at lines 144--145
+[169]
+Underfull \hbox (badness 6708) in paragraph at lines 170--171
 \T1/Heuristica-TLF/m/n/12 con-ver-sa-tion, the ad-vi-sor got down to brass tack
 s.
  []
 
 
-Underfull \hbox (badness 5331) in paragraph at lines 144--145
+Underfull \hbox (badness 5331) in paragraph at lines 170--171
 \T1/Heuristica-TLF/m/n/12 On the one hand, he and Nicode-mus were bound
  []
 
 
-Underfull \hbox (badness 2932) in paragraph at lines 144--145
+Underfull \hbox (badness 2932) in paragraph at lines 170--171
 \T1/Heuristica-TLF/m/n/12 by their many years of friend-ship; on the other, he
  []
 
 
-Underfull \hbox (badness 1348) in paragraph at lines 144--145
+Underfull \hbox (badness 1348) in paragraph at lines 170--171
 \T1/Heuristica-TLF/m/n/12 had enor-mous re-spect and sym-pa-thy for Yeshua Ha-
  []
 
 
-Underfull \hbox (badness 3209) in paragraph at lines 144--145
+Underfull \hbox (badness 3209) in paragraph at lines 170--171
 \T1/Heuristica-TLF/m/n/12 Notsri and his preach-ing. Both these con-sid-er-a-ti
 ons
  []
 
 
-Underfull \hbox (badness 2435) in paragraph at lines 144--145
+Underfull \hbox (badness 2435) in paragraph at lines 170--171
 \T1/Heuristica-TLF/m/n/12 now com-pelled him, Fabri-cius, to com-mit an act of
  []
 
 
-Underfull \hbox (badness 7631) in paragraph at lines 144--145
+Underfull \hbox (badness 7631) in paragraph at lines 170--171
 \T1/Heuristica-TLF/m/n/12 day, the Se-cret Ser-vice sent the Procu-ra-tor's of-
 fice
  []
 
 
-Underfull \hbox (badness 6641) in paragraph at lines 144--145
+Underfull \hbox (badness 6641) in paragraph at lines 170--171
 \T1/Heuristica-TLF/m/n/12 a mem-o-ran-dum, the con-tents of which---purely by
  []
 
 
-Underfull \hbox (badness 1383) in paragraph at lines 144--145
+Underfull \hbox (badness 1383) in paragraph at lines 170--171
 \T1/Heuristica-TLF/m/n/12 of heinous acts. For this rea-son, the ad-vi-sor stro
 ngly
  []
 
 
-Underfull \hbox (badness 1194) in paragraph at lines 144--145
+Underfull \hbox (badness 1194) in paragraph at lines 170--171
 \T1/Heuristica-TLF/m/n/12 in his warn-ing that the in-for-ma-tion had leaked fr
 om
  []
 
-[168]
-Underfull \hbox (badness 1755) in paragraph at lines 146--147
+[170]
+Underfull \hbox (badness 1755) in paragraph at lines 172--173
 []\T1/Heuristica-TLF/m/n/12 Nicodemus was sur-prised, up-set, enraged---every
  []
 
 
-Underfull \hbox (badness 1082) in paragraph at lines 146--147
+Underfull \hbox (badness 1082) in paragraph at lines 172--173
 \T1/Heuristica-TLF/m/n/12 emo-tion un-der the sun, but not afraid. Yes, he re-a
 lly
  []
 
 
-Underfull \hbox (badness 1072) in paragraph at lines 146--147
+Underfull \hbox (badness 1072) in paragraph at lines 172--173
 \T1/Heuristica-TLF/m/n/12 had been in con-tact with Yeshua Ha-Notsri, and had
  []
 
 
-Underfull \hbox (badness 1460) in paragraph at lines 146--147
+Underfull \hbox (badness 1460) in paragraph at lines 172--173
 \T1/Heuristica-TLF/m/n/12 it openly, ei-ther). More-over, he was al-ready plan-
 ning
  []
 
 
-Underfull \hbox (badness 3439) in paragraph at lines 146--147
+Underfull \hbox (badness 3439) in paragraph at lines 172--173
 \T1/Heuristica-TLF/m/n/12 to meet with Yeshua that very night in the Gar-den
  []
 
 
-Underfull \hbox (badness 1242) in paragraph at lines 146--147
+Underfull \hbox (badness 1242) in paragraph at lines 172--173
 \T1/Heuristica-TLF/m/n/12 of Geth-se-mane. The prophet him-self had ar-ranged i
 t
  []
 
 
-Underfull \hbox (badness 1715) in paragraph at lines 146--147
+Underfull \hbox (badness 1715) in paragraph at lines 172--173
 \T1/Heuristica-TLF/m/n/12 at the ap-pointed place, no mat-ter who tried to stop
 
  []
 
 
-Underfull \hbox (badness 3895) in paragraph at lines 146--147
+Underfull \hbox (badness 3895) in paragraph at lines 172--173
 \T1/Heuristica-TLF/m/n/12 him---whether it be Ca-iaphas or Beelze-bub him-self.
 
  []
 
 
-Underfull \hbox (badness 2293) in paragraph at lines 146--147
+Underfull \hbox (badness 2293) in paragraph at lines 172--173
 \T1/Heuristica-TLF/m/n/12 Sanhedrin---for the past cou-ple of nights, a band of
 
  []
 
 
-Underfull \hbox (badness 2512) in paragraph at lines 146--147
+Underfull \hbox (badness 2512) in paragraph at lines 172--173
 \T1/Heuristica-TLF/m/n/12 In the ad-vi-sor's opin-ion, could Ca-iaphas have mad
 e
  []
 
 
-Underfull \hbox (badness 1515) in paragraph at lines 146--147
+Underfull \hbox (badness 1515) in paragraph at lines 172--173
 \T1/Heuristica-TLF/m/n/12 him-self so para-noid, he was gen-uinely ex-pect-ing 
 the
  []
 
-[169]
-Underfull \hbox (badness 1571) in paragraph at lines 148--149
+
+Underfull \hbox (badness 1571) in paragraph at lines 174--175
 \T1/Heuristica-TLF/m/n/12 that very day. Dur-ing their meet-ing sev-eral days a
 go
  []
 
 
-Underfull \hbox (badness 1117) in paragraph at lines 148--149
+Underfull \hbox (badness 1117) in paragraph at lines 174--175
 \T1/Heuristica-TLF/m/n/12 (god-damn it, why doesn't Ju-das tell me about any of
 
  []
 
 
-Underfull \hbox (badness 3989) in paragraph at lines 148--149
+Underfull \hbox (badness 3989) in paragraph at lines 174--175
 \T1/Heuristica-TLF/m/n/12 Why Jerusalem, and not Bethany, Nicode-mus didn't
  []
 
 
-Underfull \hbox (badness 5417) in paragraph at lines 148--149
+Underfull \hbox (badness 5417) in paragraph at lines 174--175
 \T1/Heuristica-TLF/m/n/12 know. Nat-u-rally, he of-fered up his own house, but
  []
 
-
-Underfull \hbox (badness 2608) in paragraph at lines 150--151
+[171]
+Underfull \hbox (badness 2608) in paragraph at lines 176--177
 \T1/Heuristica-TLF/m/n/12 al-though he wasn't in Jerusalem at the mo-ment. By
  []
 
 
-Underfull \hbox (badness 2626) in paragraph at lines 150--151
+Underfull \hbox (badness 2626) in paragraph at lines 176--177
 \T1/Heuristica-TLF/m/n/12 this point, the dis-ci-ples were most cer-tainly out-
 side
  []
 
-[170]
-Underfull \hbox (badness 1762) in paragraph at lines 154--155
+[172]
+Underfull \hbox (badness 1762) in paragraph at lines 180--181
 \T1/Heuristica-TLF/m/n/12 where, as we now knew full well, the sect would be
  []
 
-[171]
-Underfull \hbox (badness 1533) in paragraph at lines 156--157
+[173]
+Underfull \hbox (badness 1533) in paragraph at lines 182--183
 \T1/Heuristica-TLF/m/n/12 sight of an ex-tremely rat-tled Fabri-cius. Af-ter ca
 -su-ally
  []
 
 
-Underfull \hbox (badness 5175) in paragraph at lines 156--157
+Underfull \hbox (badness 5175) in paragraph at lines 182--183
 \T1/Heuristica-TLF/m/n/12 re-port-ing that he had in-def-i-nitely post-poned Jo
 hn's
  []
 
-[172] [173] [174]
-Underfull \hbox (badness 7308) in paragraph at lines 190--191
+[174] [175]
+Underfull \hbox (badness 7308) in paragraph at lines 216--217
 []\T1/Heuristica-TLF/m/n/12 ``Oh, don't you worry, de-cu-rion, it wasn't him.
  []
 
 
-Underfull \hbox (badness 4995) in paragraph at lines 194--195
+Underfull \hbox (badness 4995) in paragraph at lines 220--221
 []\T1/Heuristica-TLF/m/n/12 As I lis-tened to his foot-steps fade off into the
  []
 
-[175]
-Underfull \hbox (badness 3364) in paragraph at lines 205--206
+[176] [177]
+Underfull \hbox (badness 3364) in paragraph at lines 231--232
 []\T1/Heuristica-TLF/m/n/12 ``I don't think, I know: it's not an ar-rest they'r
 e
  []
 
 
-Underfull \hbox (badness 3088) in paragraph at lines 205--206
+Underfull \hbox (badness 3088) in paragraph at lines 231--232
 \T1/Heuristica-TLF/m/n/12 prepar-ing, but a liq-ui-da-tion. And if we know abou
 t
  []
 
 
-Underfull \hbox (badness 3068) in paragraph at lines 205--206
+Underfull \hbox (badness 3068) in paragraph at lines 231--232
 \T1/Heuristica-TLF/m/n/12 Geth-se-mane, then Ca-iaphas knows all the more; he
  []
 
-[176]
-Underfull \hbox (badness 10000) in paragraph at lines 219--220
+
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
 []\T1/Heuristica-TLF/m/n/12 And so, while the Cul-tural Ad-vi-sor to the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 219--220
+Underfull \hbox (badness 10000) in paragraph at lines 245--246
 \T1/Heuristica-TLF/m/n/12 Ad-min-is-tra-tion of the Procu-ra-tor of Judea, Gaiu
 s
  []
 
 
-Underfull \hbox (badness 2884) in paragraph at lines 219--220
+Underfull \hbox (badness 2884) in paragraph at lines 245--246
 \T1/Heuristica-TLF/m/n/12 Fabri-cius, wrapped up in his gray cam-ou-flage cloak
 
  []
 
 
-Underfull \hbox (badness 3049) in paragraph at lines 219--220
+Underfull \hbox (badness 3049) in paragraph at lines 245--246
 \T1/Heuristica-TLF/m/n/12 the molten sil-ver of the Jeri-cho Road... While Ju-d
 as
  []
 
 
-Underfull \hbox (badness 2799) in paragraph at lines 219--220
+Underfull \hbox (badness 2799) in paragraph at lines 245--246
 \T1/Heuristica-TLF/m/n/12 and the com-man-der of the tem-ple guard squadron,
  []
 
 
-Underfull \hbox (badness 1642) in paragraph at lines 219--220
+Underfull \hbox (badness 1642) in paragraph at lines 245--246
 \T1/Heuristica-TLF/m/n/12 hav-ing lost all hope of con-vinc-ing that ass Ca-iap
 has
  []
 
 
-Underfull \hbox (badness 1127) in paragraph at lines 219--220
+Underfull \hbox (badness 1127) in paragraph at lines 245--246
 \T1/Heuristica-TLF/m/n/12 op-er-a-tions, are wast-ing pre-cious time by aug-men
 t-ing
  []
 
 
-Underfull \hbox (badness 5607) in paragraph at lines 219--220
+Underfull \hbox (badness 5607) in paragraph at lines 245--246
 \T1/Heuristica-TLF/m/n/12 their pla-toon of elite cut-throat com-man-dos with a
 
  []
 
 
-Underfull \hbox (badness 4886) in paragraph at lines 219--220
+Underfull \hbox (badness 4886) in paragraph at lines 245--246
 \T1/Heuristica-TLF/m/n/12 loose col-umn of high priests' ser-vants, armed with
  []
 
 
-Underfull \hbox (badness 1337) in paragraph at lines 219--220
+Underfull \hbox (badness 1337) in paragraph at lines 245--246
 \T1/Heuristica-TLF/m/n/12 all!)... While I am ty-ing on my for-mal ar-mor bear-
 ing
  []
 
 
-Underfull \hbox (badness 1337) in paragraph at lines 219--220
+Underfull \hbox (badness 1337) in paragraph at lines 245--246
 \T1/Heuristica-TLF/m/n/12 the in-signia of a mil-i-tary tri-bune (it must have 
 been
  []
 
 
-Underfull \hbox (badness 1418) in paragraph at lines 219--220
+Underfull \hbox (badness 1418) in paragraph at lines 245--246
 \T1/Heuristica-TLF/m/n/12 Pro-con-sul, have the op-por-tu-nity to ac-quaint you
 r-self
  []
 
-[177]
-Underfull \hbox (badness 1264) in paragraph at lines 221--222
+[178]
+Underfull \hbox (badness 1264) in paragraph at lines 247--248
 []\T1/Heuristica-TLF/m/n/12 From what we could gather, Yeshua had ac-tu-ally
  []
 
 
-Underfull \hbox (badness 2134) in paragraph at lines 221--222
+Underfull \hbox (badness 2134) in paragraph at lines 247--248
 \T1/Heuristica-TLF/m/n/12 with com-plete in-dif-fer-ence; all he let on was tha
 t it
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 223--224
+[179]
+Underfull \hbox (badness 10000) in paragraph at lines 249--250
 \T1/Heuristica-TLF/m/n/12 thor-ough re-con-struc-tion of the events, Fabri-cius
 
  []
 
 
-Underfull \hbox (badness 1014) in paragraph at lines 225--226
+Underfull \hbox (badness 1014) in paragraph at lines 251--252
 \T1/Heuristica-TLF/m/n/12 has set-tled, it's clear that we man-aged to get lit-
 er-ally
  []
 
-[178]
-Underfull \hbox (badness 1303) in paragraph at lines 227--228
+
+Underfull \hbox (badness 1303) in paragraph at lines 253--254
 \T1/Heuristica-TLF/m/n/12 com-mu-nity, and that was that. And it ar-rived just 
 in
  []
 
 
-Underfull \hbox (badness 3058) in paragraph at lines 227--228
+Underfull \hbox (badness 3058) in paragraph at lines 253--254
 \T1/Heuristica-TLF/m/n/12 time---in the last sliver of time when we could still
 
  []
 
-
-Underfull \hbox (badness 3657) in paragraph at lines 229--230
+[180]
+Underfull \hbox (badness 3657) in paragraph at lines 255--256
 \T1/Heuristica-TLF/m/n/12 could have helped Yeshua sin-gle out Ju-das. On the
  []
 
 
-Underfull \hbox (badness 7925) in paragraph at lines 231--232
+Underfull \hbox (badness 7925) in paragraph at lines 257--258
 \T1/Heuristica-TLF/m/n/12 what-ever the source, as it is to give them un-due
  []
 
-[179]
-Underfull \hbox (badness 2126) in paragraph at lines 235--236
+[181]
+Underfull \hbox (badness 2126) in paragraph at lines 261--262
 []\T1/Heuristica-TLF/m/n/12 ``Not quite. I think he'd al-ready cho-sen that day
 
  []
 
 
-Underfull \hbox (badness 2961) in paragraph at lines 235--236
+Underfull \hbox (badness 2961) in paragraph at lines 261--262
 \T1/Heuristica-TLF/m/n/12 in ad-vance to carry out his scheme. Of course, not
  []
 
 
-Underfull \hbox (badness 1546) in paragraph at lines 235--236
+Underfull \hbox (badness 1546) in paragraph at lines 261--262
 \T1/Heuristica-TLF/m/n/12 and he could break away from them with-out rais-ing
  []
 
 
-Underfull \hbox (badness 1226) in paragraph at lines 235--236
+Underfull \hbox (badness 1226) in paragraph at lines 261--262
 \T1/Heuristica-TLF/m/n/12 if he left Geth-se-mane dur-ing the night; on the oth
 er
  []
 
 
-Underfull \hbox (badness 5403) in paragraph at lines 237--238
+Underfull \hbox (badness 5403) in paragraph at lines 263--264
 \T1/Heuristica-TLF/m/n/12 not only make no at-tempt to stop the traitor, but
  []
 
 
-Underfull \hbox (badness 1360) in paragraph at lines 239--240
+Underfull \hbox (badness 1360) in paragraph at lines 265--266
 []\T1/Heuristica-TLF/m/n/12 ``Well, take a minute to imag-ine how that would
  []
 
 
-Underfull \hbox (badness 1242) in paragraph at lines 239--240
+Underfull \hbox (badness 1242) in paragraph at lines 265--266
 \T1/Heuristica-TLF/m/n/12 ac-tu-ally play out. His disciples---mere chil-dren, 
 mind
  []
 
 
-Underfull \hbox (badness 1221) in paragraph at lines 239--240
+Underfull \hbox (badness 1221) in paragraph at lines 265--266
 \T1/Heuristica-TLF/m/n/12 well---tucked away un-der Ju-das' chi-ton. The mo-men
 t
  []
 
-[180]
-Underfull \hbox (badness 1609) in paragraph at lines 241--242
+[182]
+Underfull \hbox (badness 1609) in paragraph at lines 267--268
 []\T1/Heuristica-TLF/m/n/12 ``Hmm... All of this paints an in-ter-est-ing pic-t
 ure,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 245--246
+Underfull \hbox (badness 10000) in paragraph at lines 271--272
 []\T1/Heuristica-TLF/m/n/12 But on the night of 13-14 Nisan, where we
  []
 
 
-Underfull \hbox (badness 3679) in paragraph at lines 245--246
+Underfull \hbox (badness 3679) in paragraph at lines 271--272
 \T1/Heuristica-TLF/m/n/12 tem-porar-ily broke off our nar-ra-tive, Fabri-cius a
 nd I
  []
 
 
-Underfull \hbox (badness 4846) in paragraph at lines 245--246
+Underfull \hbox (badness 4846) in paragraph at lines 271--272
 \T1/Heuristica-TLF/m/n/12 dif-fer-ently... Now, how-ever, I know it for cer-tai
 n: it
  []
 
-[181]
-Underfull \hbox (badness 10000) in paragraph at lines 247--248
+
+Underfull \hbox (badness 10000) in paragraph at lines 273--274
 []\T1/Heuristica-TLF/m/n/12 ...We in-ter-cepted them at the very edge of
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 247--248
+Underfull \hbox (badness 10000) in paragraph at lines 273--274
 \T1/Heuristica-TLF/m/n/12 Geth-se-mane, at the point where the Jeri-cho Road
  []
 
 
-Underfull \hbox (badness 2245) in paragraph at lines 247--248
+Underfull \hbox (badness 2245) in paragraph at lines 273--274
 \T1/Heuristica-TLF/m/n/12 ser-vants made a run for it down the moon-lit slope.
  []
 
 
-Underfull \hbox (badness 6910) in paragraph at lines 247--248
+Underfull \hbox (badness 6910) in paragraph at lines 273--274
 \T1/Heuristica-TLF/m/n/12 The tem-ple guards, how-ever, re-grouped them-selves
  []
 
-
-Underfull \hbox (badness 1221) in paragraph at lines 249--250
+[183]
+Underfull \hbox (badness 1221) in paragraph at lines 275--276
 \T1/Heuristica-TLF/m/n/12 or-der, ``Fire `em up!'', and the light of sev-eral t
 orches
  []
 
 
-Underfull \hbox (badness 2744) in paragraph at lines 249--250
+Underfull \hbox (badness 2744) in paragraph at lines 275--276
 \T1/Heuristica-TLF/m/n/12 these aren't rob-bers at all, but His Ho-li-ness' tem
 -ple
  []
 
 
-Underfull \hbox (badness 2735) in paragraph at lines 251--252
+Underfull \hbox (badness 2735) in paragraph at lines 277--278
 \T1/Heuristica-TLF/m/n/12 mean one thing. Stand-ing be-fore me was not some
  []
 
 
-Underfull \hbox (badness 5711) in paragraph at lines 251--252
+Underfull \hbox (badness 5711) in paragraph at lines 277--278
 \T1/Heuristica-TLF/m/n/12 per-haps the in-tel-li-gence de-part-ment of the Tem-
 ple
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 251--252
+Underfull \hbox (badness 10000) in paragraph at lines 277--278
 \T1/Heuristica-TLF/m/n/12 Guard Corps---who had suc-cess-fully com-pleted his
  []
 
-[182]
-Underfull \hbox (badness 6510) in paragraph at lines 253--254
+
+Underfull \hbox (badness 6510) in paragraph at lines 279--280
 []\T1/Heuristica-TLF/m/n/12 Judas, how-ever, wasn't any hap-pier to see me,
  []
 
 
-Underfull \hbox (badness 3826) in paragraph at lines 253--254
+Underfull \hbox (badness 3826) in paragraph at lines 279--280
 \T1/Heuristica-TLF/m/n/12 these guys were plan-ning on, and the gears in the
  []
 
 
-Underfull \hbox (badness 6559) in paragraph at lines 253--254
+Underfull \hbox (badness 6559) in paragraph at lines 279--280
 \T1/Heuristica-TLF/m/n/12 squad com-man-der's mind must have been turn-ing
  []
 
-
-Underfull \hbox (badness 4279) in paragraph at lines 255--256
+[184]
+Underfull \hbox (badness 4279) in paragraph at lines 281--282
 \T1/Heuristica-TLF/m/n/12 But what was he do-ing in Jerusalem? Ac-cord-ing to
  []
 
 
-Underfull \hbox (badness 1072) in paragraph at lines 255--256
+Underfull \hbox (badness 1072) in paragraph at lines 281--282
 \T1/Heuristica-TLF/m/n/12 our data, he and his men should have been \T1/Heurist
 ica-TLF/m/it/12 work-ing
  []
 
 
-Underfull \hbox (badness 1881) in paragraph at lines 255--256
+Underfull \hbox (badness 1881) in paragraph at lines 281--282
 \T1/Heuristica-TLF/m/n/12 an agent of the se-cret po-lice. Well, my po-si-tion 
 was
  []
 
-[183]
-Underfull \hbox (badness 7168) in paragraph at lines 257--258
+[185]
+Underfull \hbox (badness 7168) in paragraph at lines 283--284
 \T1/Heuristica-TLF/m/n/12 Nathaniel,'' I replied, eye-ing the fresh scar on my
  []
 
 
-Underfull \hbox (badness 1221) in paragraph at lines 257--258
+Underfull \hbox (badness 1221) in paragraph at lines 283--284
 \T1/Heuristica-TLF/m/n/12 col-league's cheek-bone with friendly im-pu-dence. ``
 The
  []
 
 
-Underfull \hbox (badness 3417) in paragraph at lines 257--258
+Underfull \hbox (badness 3417) in paragraph at lines 283--284
 \T1/Heuristica-TLF/m/n/12 best dec-o-ra-tion for any man---except an op-er-a-ti
 ve...
  []
 
-[184]
-Underfull \hbox (badness 1803) in paragraph at lines 265--266
+
+Underfull \hbox (badness 1803) in paragraph at lines 291--292
 \T1/Heuristica-TLF/m/n/12 point did I `give you any crap?' Speak-ing of Eleazar
 ,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 265--266
+Underfull \hbox (badness 10000) in paragraph at lines 291--292
 \T1/Heuristica-TLF/m/n/12 though---it's like you read my mind: yes-ter-day we
  []
 
 
-Underfull \hbox (badness 1033) in paragraph at lines 265--266
+Underfull \hbox (badness 1033) in paragraph at lines 291--292
 \T1/Heuristica-TLF/m/n/12 re-ceived some ex-tremely in-ter-est-ing in-for-ma-ti
 on and,
  []
 
-
-Underfull \hbox (badness 1132) in paragraph at lines 271--272
+[186]
+Underfull \hbox (badness 1132) in paragraph at lines 297--298
 \T1/Heuristica-TLF/m/n/12 has al-ready been is-sued by the Sanhedrin---that's t
 he
  []
 
 
-Underfull \hbox (badness 4366) in paragraph at lines 271--272
+Underfull \hbox (badness 4366) in paragraph at lines 297--298
 \T1/Heuristica-TLF/m/n/12 mat-ter of ours---not po-lit-i-cal, but purely religi
 ous---
  []
 
-[185] [186]
-Underfull \hbox (badness 5302) in paragraph at lines 293--294
+[187] [188]
+Underfull \hbox (badness 5302) in paragraph at lines 319--320
 []\T1/Heuristica-TLF/m/n/12 ``Except it wasn't our in-for-mants. Sev-eral hours
 
  []
 
 
-Underfull \hbox (badness 1997) in paragraph at lines 293--294
+Underfull \hbox (badness 1997) in paragraph at lines 319--320
 \T1/Heuristica-TLF/m/n/12 ago, our agency's head-quar-ters re-ceived a let-ter 
 that
  []
 
-[187]
-Underfull \hbox (badness 2050) in paragraph at lines 301--302
+[189]
+Underfull \hbox (badness 2050) in paragraph at lines 327--328
 \T1/Heuristica-TLF/m/n/12 seen them by now, and I'm sure they've made their
  []
 
 
-Underfull \hbox (badness 1708) in paragraph at lines 301--302
+Underfull \hbox (badness 1708) in paragraph at lines 327--328
 \T1/Heuristica-TLF/m/n/12 we wouldn't find any-one in Geth-se-mane be-sides the
 
  []
 
 
-Underfull \hbox (badness 1622) in paragraph at lines 301--302
+Underfull \hbox (badness 1622) in paragraph at lines 327--328
 \T1/Heuristica-TLF/m/n/12 dis-ci-ples, who they'd have to re-lease in the morn-
 ing
  []
 
 
-Underfull \hbox (badness 2073) in paragraph at lines 303--304
+Underfull \hbox (badness 2073) in paragraph at lines 329--330
 \T1/Heuristica-TLF/m/n/12 tense and rigid poses. Stand-ing a short way off was
  []
 
 
-Underfull \hbox (badness 1009) in paragraph at lines 303--304
+Underfull \hbox (badness 1009) in paragraph at lines 329--330
 \T1/Heuristica-TLF/m/n/12 with-out any re-sis-tance, to the point where al-most
  all
  []
 
-[188]
-Underfull \hbox (badness 2469) in paragraph at lines 305--306
+[190]
+Underfull \hbox (badness 2469) in paragraph at lines 331--332
 []\T1/Heuristica-TLF/m/n/12 The mo-ment I saw Yeshua, I felt noth-ing but a
  []
 
 
-Underfull \hbox (badness 2781) in paragraph at lines 307--308
+Underfull \hbox (badness 2781) in paragraph at lines 333--334
 \T1/Heuristica-TLF/m/n/12 was sav-ing my own skin. This was my only chance
  []
 
 
-Underfull \hbox (badness 3525) in paragraph at lines 307--308
+Underfull \hbox (badness 3525) in paragraph at lines 333--334
 \T1/Heuristica-TLF/m/n/12 to com-pro-mise Ju-das as a double-dealer be-fore the
 
  []
 
 
-Underfull \hbox (badness 3568) in paragraph at lines 307--308
+Underfull \hbox (badness 3568) in paragraph at lines 333--334
 \T1/Heuristica-TLF/m/n/12 Notsri---only then would my es-teemed col-league be
  []
 
-[189]
-Underfull \hbox (badness 2582) in paragraph at lines 309--310
+
+Underfull \hbox (badness 2582) in paragraph at lines 335--336
 \T1/Heuristica-TLF/m/n/12 af-ter Phoeni-cian gangsters---and nat-u-rally, they 
 were
  []
 
 
-Underfull \hbox (badness 2418) in paragraph at lines 309--310
+Underfull \hbox (badness 2418) in paragraph at lines 335--336
 \T1/Heuristica-TLF/m/n/12 a toy king-dom on the Parthian bor-der, where I was
  []
 
 
-Underfull \hbox (badness 1590) in paragraph at lines 309--310
+Underfull \hbox (badness 1590) in paragraph at lines 335--336
 \T1/Heuristica-TLF/m/n/12 was go-ing smoothly when For-tuna sud-denly de-cided
  []
 
 
-Underfull \hbox (badness 2913) in paragraph at lines 309--310
+Underfull \hbox (badness 2913) in paragraph at lines 335--336
 \T1/Heuristica-TLF/m/n/12 coun-ter-in-tel-li-gence, who no longer had any time 
 to
  []
 
 
-Underfull \hbox (badness 4647) in paragraph at lines 309--310
+Underfull \hbox (badness 4647) in paragraph at lines 335--336
 \T1/Heuristica-TLF/m/n/12 for-mu-late a proper counter-strategy, were forced to
 
  []
 
-
-Underfull \hbox (badness 1803) in paragraph at lines 311--312
+[191]
+Underfull \hbox (badness 1803) in paragraph at lines 337--338
 []\T1/Heuristica-TLF/m/n/12 Well, it looked like that was it for the warm-up,
  []
 
 
-Underfull \hbox (badness 1019) in paragraph at lines 311--312
+Underfull \hbox (badness 1019) in paragraph at lines 337--338
 \T1/Heuristica-TLF/m/n/12 and now I would have to face off against a cor-nered
  []
 
 
-Underfull \hbox (badness 1286) in paragraph at lines 311--312
+Underfull \hbox (badness 1286) in paragraph at lines 337--338
 \T1/Heuristica-TLF/m/n/12 knew ex-actly what was putting me off: my es-teemed
  []
 
 
-Underfull \hbox (badness 1087) in paragraph at lines 311--312
+Underfull \hbox (badness 1087) in paragraph at lines 337--338
 \T1/Heuristica-TLF/m/n/12 made no de-mand for me to put them out, and even
  []
 
 
-Underfull \hbox (badness 2088) in paragraph at lines 311--312
+Underfull \hbox (badness 2088) in paragraph at lines 337--338
 \T1/Heuristica-TLF/m/n/12 in the cen-ter. Maybe he was scared of the or-der I'd
 
  []
 
-[190]
-Underfull \hbox (badness 1360) in paragraph at lines 313--314
+[192]
+Underfull \hbox (badness 1360) in paragraph at lines 339--340
 \T1/Heuristica-TLF/m/n/12 had some-how slipped my mind. Out-pac-ing ev-ery-one
  []
 
 
-Underfull \hbox (badness 2443) in paragraph at lines 313--314
+Underfull \hbox (badness 2443) in paragraph at lines 339--340
 \T1/Heuristica-TLF/m/n/12 of-fer-ing to help his beloved Rabbi make an ``es-cap
 e
  []
 
-[191]
-Underfull \hbox (badness 2726) in paragraph at lines 315--316
+[193]
+Underfull \hbox (badness 2726) in paragraph at lines 341--342
 \T1/Heuristica-TLF/m/n/12 face by the fire and the line of torches. The sig-nal
 ,
  []
 
-[192]
-Underfull \hbox (badness 1394) in paragraph at lines 319--320
+[194]
+Underfull \hbox (badness 1394) in paragraph at lines 345--346
 \T1/Heuristica-TLF/m/n/12 fu-ture ref-er-ence). Per-haps he'd ac-tu-ally slept 
 through
  []
 
 
-Underfull \hbox (badness 7595) in paragraph at lines 319--320
+Underfull \hbox (badness 7595) in paragraph at lines 345--346
 \T1/Heuristica-TLF/m/n/12 ev-ery-thing, or per-haps he'd clev-erly hid-den in t
 he
  []
 
 
-Underfull \hbox (badness 2875) in paragraph at lines 319--320
+Underfull \hbox (badness 2875) in paragraph at lines 345--346
 \T1/Heuristica-TLF/m/n/12 may be, now he was right where they needed him.
  []
 
 
-Underfull \hbox (badness 7613) in paragraph at lines 319--320
+Underfull \hbox (badness 7613) in paragraph at lines 345--346
 \T1/Heuristica-TLF/m/n/12 a sword in the hands of a fish-er-man. ``Mr. Gray''
  []
 
 
-Underfull \hbox (badness 2460) in paragraph at lines 319--320
+Underfull \hbox (badness 2460) in paragraph at lines 345--346
 \T1/Heuristica-TLF/m/n/12 good a word for it), and hardly a mo-ment later, he
  []
 
 
-Underfull \hbox (badness 1107) in paragraph at lines 319--320
+Underfull \hbox (badness 1107) in paragraph at lines 345--346
 \T1/Heuristica-TLF/m/n/12 a sigh of re-lief, but it was still too early to catc
 h my
  []
 
 
-Underfull \hbox (badness 2189) in paragraph at lines 319--320
+Underfull \hbox (badness 2189) in paragraph at lines 345--346
 \T1/Heuristica-TLF/m/n/12 were still rush-ing in from the edges of the clear-in
 g,
  []
 
 
-Underfull \hbox (badness 1178) in paragraph at lines 319--320
+Underfull \hbox (badness 1178) in paragraph at lines 345--346
 \T1/Heuristica-TLF/m/n/12 of prob-lems at the mo-ment, I still man-aged to get 
 a
  []
 
-[193]
-Underfull \hbox (badness 3803) in paragraph at lines 321--322
+[195]
+Underfull \hbox (badness 3803) in paragraph at lines 347--348
 []\T1/Heuristica-TLF/m/n/12 ``Everyone freeze!!'' I shouted again, turn-ing my
  []
 
 
-Underfull \hbox (badness 3668) in paragraph at lines 321--322
+Underfull \hbox (badness 3668) in paragraph at lines 347--348
 \T1/Heuristica-TLF/m/n/12 was stand-ing at the far-thest cor-ner of the clear-i
 ng,
  []
 
 
-Underfull \hbox (badness 5133) in paragraph at lines 321--322
+Underfull \hbox (badness 5133) in paragraph at lines 347--348
 \T1/Heuristica-TLF/m/n/12 of ar-rest-ing Ha-Notsri, with the sub-se-quent aim o
 f
  []
 
-[194]
-Underfull \hbox (badness 1616) in paragraph at lines 323--324
+[196]
+Underfull \hbox (badness 1616) in paragraph at lines 349--350
 \T1/Heuristica-TLF/m/n/12 to ar-rest the dis-ci-ples for armed re-sis-tance. It
  wasn't
  []
 
-[195]
-Underfull \hbox (badness 2368) in paragraph at lines 325--326
+
+Underfull \hbox (badness 2368) in paragraph at lines 351--352
 \T1/Heuristica-TLF/m/n/12 your at-tempt to liq-ui-date Ha-Notsri will re-ceive 
 due
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 335--336
+[197]
+Underfull \hbox (badness 10000) in paragraph at lines 361--362
 []\T1/Heuristica-TLF/m/n/12 ``I'm afraid you've tired your-self out, my dear
  []
 
 
-Underfull \hbox (badness 6094) in paragraph at lines 337--338
+Underfull \hbox (badness 6094) in paragraph at lines 363--364
 []\T1/Heuristica-TLF/m/n/12 ``There's a good chance you're right, hon-or-able
  []
 
 
-Underfull \hbox (badness 1817) in paragraph at lines 337--338
+Underfull \hbox (badness 1817) in paragraph at lines 363--364
 \T1/Heuristica-TLF/m/n/12 Nathaniel, and the de-cu-rion and I were vis-ited by 
 a
  []
 
 
-Underfull \hbox (badness 1424) in paragraph at lines 337--338
+Underfull \hbox (badness 1424) in paragraph at lines 363--364
 \T1/Heuristica-TLF/m/n/12 col-lec-tive hal-lu-ci-na-tion; these things do hap-p
 en, you
  []
 
-[196]
-Underfull \hbox (badness 10000) in paragraph at lines 349--350
+
+Underfull \hbox (badness 10000) in paragraph at lines 375--376
 []\T1/Heuristica-TLF/m/n/12 ``Goddamn you, tri-bune! But still, there's one
  []
 
 
-Underfull \hbox (badness 4120) in paragraph at lines 351--352
+Underfull \hbox (badness 4120) in paragraph at lines 377--378
 \T1/Heuristica-TLF/m/n/12 also tired your-self out, and now you're also hav-ing
 
  []
 
-
-Underfull \hbox (badness 2529) in paragraph at lines 353--354
+[198]
+Underfull \hbox (badness 2529) in paragraph at lines 379--380
 []\T1/Heuristica-TLF/m/n/12 The eyes of the Chief of the Spe-cial Op-er-a-tions
 
  []
 
 
-Underfull \hbox (badness 1661) in paragraph at lines 359--360
+Underfull \hbox (badness 1661) in paragraph at lines 385--386
 \T1/Heuristica-TLF/m/n/12 the ta-ble. I want to get my hands on the hit-man in
  []
 
 
-Underfull \hbox (badness 1931) in paragraph at lines 359--360
+Underfull \hbox (badness 1931) in paragraph at lines 385--386
 \T1/Heuristica-TLF/m/n/12 the gray cloak, but un-for-tu-nately, these `ban-dits
 ' are
  []
 
 
-Underfull \hbox (badness 2478) in paragraph at lines 359--360
+Underfull \hbox (badness 2478) in paragraph at lines 385--386
 \T1/Heuristica-TLF/m/n/12 search for him right this mo-ment, and you'll get to
  []
 
 
-Underfull \hbox (badness 2932) in paragraph at lines 359--360
+Underfull \hbox (badness 2932) in paragraph at lines 385--386
 \T1/Heuristica-TLF/m/n/12 charge the sec-tar-i-ans with armed resistance---or t
 he
  []
 
 
-Underfull \hbox (badness 1616) in paragraph at lines 359--360
+Underfull \hbox (badness 1616) in paragraph at lines 385--386
 \T1/Heuristica-TLF/m/n/12 two of us just hal-lu-ci-nated this en-tire in-ci-den
 t. Take
  []
 
-[197]
-Underfull \hbox (badness 4048) in paragraph at lines 365--366
+[199]
+Underfull \hbox (badness 4048) in paragraph at lines 391--392
 []\T1/Heuristica-TLF/m/n/12 And when Nathaniel chose ``hal-lu-ci-na-tion'' (and
 
  []
 
-[198]
-Underfull \hbox (badness 3439) in paragraph at lines 381--382
+[200]
+Underfull \hbox (badness 3439) in paragraph at lines 407--408
 \T1/Heuristica-TLF/m/n/12 the Ro-man guard-post at the gate; the com-mand-ing
  []
 
-[199]
-Underfull \hbox (badness 3590) in paragraph at lines 385--386
+
+Underfull \hbox (badness 3590) in paragraph at lines 411--412
 []\T1/Heuristica-TLF/m/n/12 All in all, things had gone even worse than I'd
  []
 
 
-Underfull \hbox (badness 4792) in paragraph at lines 385--386
+Underfull \hbox (badness 4792) in paragraph at lines 411--412
 \T1/Heuristica-TLF/m/n/12 did go wrong. Fabri-cius had man-aged to ap-proach
  []
 
 
-Underfull \hbox (badness 1194) in paragraph at lines 385--386
+Underfull \hbox (badness 1194) in paragraph at lines 411--412
 \T1/Heuristica-TLF/m/n/12 like logs (I broke into a sweat imag-in-ing what migh
 t
  []
 
 
-Underfull \hbox (badness 1142) in paragraph at lines 385--386
+Underfull \hbox (badness 1142) in paragraph at lines 411--412
 \T1/Heuristica-TLF/m/n/12 felt com-pelled by cer-tain re-li-gious rea-sons to d
 ie the
  []
 
 
-Underfull \hbox (badness 2088) in paragraph at lines 385--386
+Underfull \hbox (badness 2088) in paragraph at lines 411--412
 \T1/Heuristica-TLF/m/n/12 called Nicode-mus there for de-cid-edly more prac-ti-
 cal
  []
 
 
-Underfull \hbox (badness 1112) in paragraph at lines 385--386
+Underfull \hbox (badness 1112) in paragraph at lines 411--412
 \T1/Heuristica-TLF/m/n/12 rea-sons: he needed some-one with a good amount of
  []
 
-[200]
-Underfull \hbox (badness 2990) in paragraph at lines 391--392
+[201]
+Underfull \hbox (badness 2990) in paragraph at lines 417--418
 []\T1/Heuristica-TLF/m/n/12 ``Well, that's just great---our main man's lost his
 
  []
 
 
-Underfull \hbox (badness 5245) in paragraph at lines 393--394
+Underfull \hbox (badness 5245) in paragraph at lines 419--420
 \T1/Heuristica-TLF/m/n/12 went up to him with the warn-ing, Yeshua or-dered
  []
 
 
-Underfull \hbox (badness 2512) in paragraph at lines 393--394
+Underfull \hbox (badness 2512) in paragraph at lines 419--420
 \T1/Heuristica-TLF/m/n/12 told Nicode-mus: `take care of my dis-ci-ples.' When 
 I
  []
 
-
-Underfull \hbox (badness 1515) in paragraph at lines 395--396
+[202]
+Underfull \hbox (badness 1515) in paragraph at lines 421--422
 []\T1/Heuristica-TLF/m/n/12 ``So what's the point then? Why the hell are you
  []
 
 
-Underfull \hbox (badness 6188) in paragraph at lines 397--398
+Underfull \hbox (badness 6188) in paragraph at lines 423--424
 []\T1/Heuristica-TLF/m/n/12 ``For the sim-ple rea-son that it is any-thing but
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 397--398
+Underfull \hbox (badness 10000) in paragraph at lines 423--424
 \T1/Heuristica-TLF/m/n/12 schmaltz, but ex-tremely im-por-tant op-er-a-tional
  []
 
-[201]
-Underfull \hbox (badness 4454) in paragraph at lines 408--409
+[203]
+Underfull \hbox (badness 4454) in paragraph at lines 434--435
 []\T1/Heuristica-TLF/m/n/12 ``Victory'' was a strong word, of course. But as
  []
 
 
-Underfull \hbox (badness 3439) in paragraph at lines 408--409
+Underfull \hbox (badness 3439) in paragraph at lines 434--435
 \T1/Heuristica-TLF/m/n/12 com-ing back into me: the solid wall be-fore us had
  []
 
 
-Underfull \hbox (badness 3271) in paragraph at lines 408--409
+Underfull \hbox (badness 3271) in paragraph at lines 434--435
 \T1/Heuristica-TLF/m/n/12 grown a crack that, in prin-ci-ple, would al-low us t
 o
  []
 
 
-Underfull \hbox (badness 2809) in paragraph at lines 408--409
+Underfull \hbox (badness 2809) in paragraph at lines 434--435
 \T1/Heuristica-TLF/m/n/12 gain a foothold, though as for what might come of
  []
 
-[202]
-Underfull \hbox (badness 1303) in paragraph at lines 410--411
+
+Underfull \hbox (badness 1303) in paragraph at lines 436--437
 []\T1/Heuristica-TLF/m/n/12 ``...And now, chief, the riski-est part of this who
 le
  []
 
 
-Underfull \hbox (badness 2368) in paragraph at lines 410--411
+Underfull \hbox (badness 2368) in paragraph at lines 436--437
 \T1/Heuristica-TLF/m/n/12 scheme: we'll have to hand the ar-restee over to the
  []
 
 
-Underfull \hbox (badness 1874) in paragraph at lines 410--411
+Underfull \hbox (badness 1874) in paragraph at lines 436--437
 \T1/Heuristica-TLF/m/n/12 down, and that's the only chance we have at sav-ing
  []
 
 
-Underfull \hbox (badness 2582) in paragraph at lines 410--411
+Underfull \hbox (badness 2582) in paragraph at lines 436--437
 \T1/Heuristica-TLF/m/n/12 both our-selves and Yeshua. Now, it's pos-si-ble they
 'll
  []
 
-
-Underfull \hbox (badness 2460) in paragraph at lines 412--413
+[204]
+Underfull \hbox (badness 2460) in paragraph at lines 438--439
 []\T1/Heuristica-TLF/m/n/12 ``On that last point, Fabri-cius, we've sur-pris-in
 gly
  []
 
 
-Underfull \hbox (badness 5607) in paragraph at lines 412--413
+Underfull \hbox (badness 5607) in paragraph at lines 438--439
 \T1/Heuristica-TLF/m/n/12 lucked out.'' I briefly told the cen-tu-rion about th
 e
  []
 
 
-Underfull \hbox (badness 2027) in paragraph at lines 414--415
+Underfull \hbox (badness 2027) in paragraph at lines 440--441
 []\T1/Heuristica-TLF/m/n/12 Things played out ex-actly as I pre-dicted. In any
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 414--415
+Underfull \hbox (badness 10000) in paragraph at lines 440--441
 \T1/Heuristica-TLF/m/n/12 watch-ing Nathaniel's squadron march off into the
  []
 
-[203]
-Underfull \hbox (badness 2547) in paragraph at lines 416--417
+
+Underfull \hbox (badness 2547) in paragraph at lines 442--443
 []\T1/Heuristica-TLF/m/n/12 ``Now that I think about it, this plan is ac-tu-all
 y
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 418--419
+Underfull \hbox (badness 10000) in paragraph at lines 444--445
 []\T1/Heuristica-TLF/m/n/12 ``Official leader of an of-fi-cially non-existent
  []
 
-
-Underfull \hbox (badness 1168) in paragraph at lines 420--421
+[205]
+Underfull \hbox (badness 1168) in paragraph at lines 446--447
 []\T1/Heuristica-TLF/m/n/12 ``It is my opin-ion that the scheme in ques-tion is
 
  []
 
 
-Underfull \hbox (badness 1389) in paragraph at lines 426--427
+Underfull \hbox (badness 1389) in paragraph at lines 452--453
 \T1/Heuristica-TLF/m/n/12 a dull mo-ment to be found. Not even an hour later,
  []
 
 
-Underfull \hbox (badness 2050) in paragraph at lines 426--427
+Underfull \hbox (badness 2050) in paragraph at lines 452--453
 \T1/Heuristica-TLF/m/n/12 Hurry up, get mov-ing, stop crawl-ing like a louse on
 
  []
 
 
-Underfull \hbox (badness 1789) in paragraph at lines 426--427
+Underfull \hbox (badness 1789) in paragraph at lines 452--453
 \T1/Heuristica-TLF/m/n/12 have lynched the guy on the spot. The mo-ment the
  []
 
-[204]
-Underfull \hbox (badness 5847) in paragraph at lines 428--429
+[206]
+Underfull \hbox (badness 5847) in paragraph at lines 454--455
 []\T1/Heuristica-TLF/m/n/12 Then half an hour later, Fabri-cius' agents sent
  []
 
 
-Underfull \hbox (badness 1769) in paragraph at lines 428--429
+Underfull \hbox (badness 1769) in paragraph at lines 454--455
 \T1/Heuristica-TLF/m/n/12 only hope of sal-va-tion. Ju-das had left the San-hed
 rin
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 428--429
+Underfull \hbox (badness 10000) in paragraph at lines 454--455
 \T1/Heuristica-TLF/m/n/12 (com-pletely un-ac-com-pa-nied, ac-cord-ing to our
  []
 
 
-Underfull \hbox (badness 1931) in paragraph at lines 428--429
+Underfull \hbox (badness 1931) in paragraph at lines 454--455
 \T1/Heuristica-TLF/m/n/12 surveil-lance ser-vice) af-ter a short talk with the 
 High
  []
 
-[205]
-Underfull \hbox (badness 10000) in paragraph at lines 432--433
+
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 []\T1/Heuristica-TLF/m/n/12 I should note that I had full rea-son to call
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 432--433
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 \T1/Heuristica-TLF/m/n/12 the Procu-ra-tor ``one of my own.'' The count-less
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 432--433
+Underfull \hbox (badness 10000) in paragraph at lines 458--459
 \T1/Heuristica-TLF/m/n/12 de-nun-ci-a-tions the Judeans have submitted---both
  []
 
-
-Underfull \hbox (badness 2181) in paragraph at lines 434--435
+[207]
+Underfull \hbox (badness 2181) in paragraph at lines 460--461
 \T1/Heuristica-TLF/m/n/12 on the Ger-man bor-der and earned the last piece of
  []
 
 
-Underfull \hbox (badness 3250) in paragraph at lines 434--435
+Underfull \hbox (badness 3250) in paragraph at lines 460--461
 \T1/Heuristica-TLF/m/n/12 his fruit salad. But then---in the Metropo-lis' in-fi
 -nite
  []
 
 
-Underfull \hbox (badness 1226) in paragraph at lines 434--435
+Underfull \hbox (badness 1226) in paragraph at lines 460--461
 \T1/Heuristica-TLF/m/n/12 ini-tial re-sults of the Procu-ra-tor's poli-cies wer
 e ut-terly
  []
 
-[206]
-Underfull \hbox (badness 1910) in paragraph at lines 436--437
+[208]
+Underfull \hbox (badness 1910) in paragraph at lines 462--463
 []\T1/Heuristica-TLF/m/n/12 First, the Procu-ra-tor re-tained a cus-tom from hi
 s
  []
 
 
-Underfull \hbox (badness 2221) in paragraph at lines 436--437
+Underfull \hbox (badness 2221) in paragraph at lines 462--463
 \T1/Heuristica-TLF/m/n/12 at-tack, he im-me-di-ately changed tac-tics and be-ga
 n a
  []
 
-[207]
-Underfull \hbox (badness 1509) in paragraph at lines 438--438
+
+Underfull \hbox (badness 1509) in paragraph at lines 464--464
 [][] \T1/Heuristica-TLF/m/n/10 A Soviet-era eu-phemism for Jew-ish eth-nic-ity;
  the term is a
  []
 
 
-Underfull \hbox (badness 4967) in paragraph at lines 438--439
+Underfull \hbox (badness 4967) in paragraph at lines 464--465
 \T1/Heuristica-TLF/m/n/12 haunted by his fifth point,[][] which was tainted by
  []
 
-
-Underfull \hbox (badness 7326) in paragraph at lines 440--441
+[209]
+Underfull \hbox (badness 7326) in paragraph at lines 466--467
 []\T1/Heuristica-TLF/m/n/12 ...The Procu-ra-tor looked sullen, and the ashen
  []
 
 
-Underfull \hbox (badness 5064) in paragraph at lines 440--441
+Underfull \hbox (badness 5064) in paragraph at lines 466--467
 \T1/Heuristica-TLF/m/n/12 shad-ows of dawn lent his face a height-ened sense
  []
 
 
-Underfull \hbox (badness 5667) in paragraph at lines 440--441
+Underfull \hbox (badness 5667) in paragraph at lines 466--467
 \T1/Heuristica-TLF/m/n/12 of gloom. ``The hell is this?'' he cried in a hoarse
  []
 
-[208]
-Underfull \hbox (badness 1337) in paragraph at lines 444--445
+
+Underfull \hbox (badness 1337) in paragraph at lines 470--471
 \T1/Heuristica-TLF/m/n/12 It was the Procu-ra-tor's fa-vorite per-sona as well,
  as it
  []
 
-[209]
+[210]
 LaTeX Font Info:    Font shape `T1/Heuristica-TLF/m/it' will be
-(Font)              scaled to size 9.0pt on input line 454.
+(Font)              scaled to size 9.0pt on input line 480.
 
-Underfull \hbox (badness 3977) in paragraph at lines 454--454
+Underfull \hbox (badness 3977) in paragraph at lines 480--480
 [][] \T1/Heuristica-TLF/m/n/10 An ab-bre-vi-a-tion for the Latin phrase ``\T1/H
 euristica-TLF/m/it/10 ab urbe con-dita\T1/Heuristica-TLF/m/n/10 ''---
  []
 
-
-Underfull \hbox (badness 1603) in paragraph at lines 456--457
+[211]
+Underfull \hbox (badness 1603) in paragraph at lines 482--483
 \T1/Heuristica-TLF/m/n/12 ac-tions. All I meant, Hege-mon, was that we couldn't
 
  []
 
-[210]
-Underfull \hbox (badness 1270) in paragraph at lines 460--461
+
+Underfull \hbox (badness 1270) in paragraph at lines 486--487
 \T1/Heuristica-TLF/m/n/12 you're still drunk from last night? A man ris-ing fro
 m
  []
 
 
-Underfull \hbox (badness 1102) in paragraph at lines 460--461
+Underfull \hbox (badness 1102) in paragraph at lines 486--487
 \T1/Heuristica-TLF/m/n/12 still, even for them that's too much. Then there's th
 e
  []
 
-
-Underfull \hbox (badness 1122) in paragraph at lines 462--463
+[212]
+Underfull \hbox (badness 1122) in paragraph at lines 488--489
 \T1/Heuristica-TLF/m/n/12 I tried to ob-ject, re-al-iz-ing in my heart, how-eve
 r, that
  []
 
 
-Underfull \hbox (badness 1642) in paragraph at lines 462--463
+Underfull \hbox (badness 1642) in paragraph at lines 488--489
 \T1/Heuristica-TLF/m/n/12 he was right---especially con-sid-er-ing that I'd bro
 ught
  []
 
 
-Underfull \hbox (badness 4266) in paragraph at lines 462--463
+Underfull \hbox (badness 4266) in paragraph at lines 488--489
 \T1/Heuristica-TLF/m/n/12 up these ex-act same points (and many oth-ers) the
  []
 
 
-Underfull \hbox (badness 1412) in paragraph at lines 462--463
+Underfull \hbox (badness 1412) in paragraph at lines 488--489
 \T1/Heuristica-TLF/m/n/12 quite lit-er-ally no other option---something which t
 he
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 466--467
+Underfull \hbox (badness 10000) in paragraph at lines 492--493
 []\T1/Heuristica-TLF/m/n/12 ``Your clever scheme is ac-tu-ally com-pletely
  []
 
 
-Underfull \hbox (badness 1024) in paragraph at lines 466--467
+Underfull \hbox (badness 1024) in paragraph at lines 492--493
 \T1/Heuristica-TLF/m/n/12 Ha-Notsri while he's alive, it'd take hard, painstak-
 ing,
  []
 
 
-Underfull \hbox (badness 1221) in paragraph at lines 466--467
+Underfull \hbox (badness 1221) in paragraph at lines 492--493
 \T1/Heuristica-TLF/m/n/12 and most of all, slow work---and what you need is a
  []
 
-[211]
-Underfull \hbox (badness 1038) in paragraph at lines 468--469
+[213]
+Underfull \hbox (badness 1038) in paragraph at lines 494--495
 \T1/Heuristica-TLF/m/n/12 to get the boss off your case, that's my prob-lem, no
 t
  []
 
-[212]
-Underfull \hbox (badness 1057) in paragraph at lines 472--473
+[214]
+Underfull \hbox (badness 1057) in paragraph at lines 498--499
 \T1/Heuristica-TLF/m/n/12 officer---you'd prob-a-bly just use your sword, would
 n't
  []
 
-[213]
-Underfull \hbox (badness 2529) in paragraph at lines 474--475
+
+Underfull \hbox (badness 2529) in paragraph at lines 500--501
 []\T1/Heuristica-TLF/m/n/12 Well, the Procu-ra-tor had done ev-ery-thing in his
 
  []
 
-
-Underfull \hbox (badness 1412) in paragraph at lines 476--477
+[215]
+Underfull \hbox (badness 1412) in paragraph at lines 502--503
 []\T1/Heuristica-TLF/m/n/12 ...Fabricius and I stood in an empty wing of the
  []
 
 
-Underfull \hbox (badness 1924) in paragraph at lines 476--477
+Underfull \hbox (badness 1924) in paragraph at lines 502--503
 \T1/Heuristica-TLF/m/n/12 not even a mouse could slip through. In the square
  []
 
-[214]
-Underfull \hbox (badness 1231) in paragraph at lines 478--479
+
+Underfull \hbox (badness 1231) in paragraph at lines 504--505
 \T1/Heuristica-TLF/m/n/12 con-vict in to us, at which point a very strange thin
 g
  []
 
 
-Underfull \hbox (badness 3954) in paragraph at lines 478--479
+Underfull \hbox (badness 3954) in paragraph at lines 504--505
 \T1/Heuristica-TLF/m/n/12 hap-pened. The mo-saic floor of the prae-to-rium had
  []
 
 
-Underfull \hbox (badness 4752) in paragraph at lines 480--481
+Underfull \hbox (badness 4752) in paragraph at lines 506--507
 []\T1/Heuristica-TLF/m/n/12 Meanwhile, a de-cu-rion from the Spe-cial Forces
  []
 
 
-Underfull \hbox (badness 1199) in paragraph at lines 480--481
+Underfull \hbox (badness 1199) in paragraph at lines 506--507
 \T1/Heuristica-TLF/m/n/12 gallery. Yes, the cloak could clearly be seen from th
 e
  []
 
-
-Underfull \hbox (badness 2503) in paragraph at lines 482--483
+[216]
+Underfull \hbox (badness 2503) in paragraph at lines 508--509
 []\T1/Heuristica-TLF/m/n/12 At this point, I took the op-por-tu-nity to ob-serv
 e
  []
 
-[215]
-Underfull \hbox (badness 6268) in paragraph at lines 484--485
+
+Underfull \hbox (badness 6268) in paragraph at lines 510--511
 []\T1/Heuristica-TLF/m/n/12 I for-went any clever open-ing moves and went
  []
 
 
-Underfull \hbox (badness 1286) in paragraph at lines 484--485
+Underfull \hbox (badness 1286) in paragraph at lines 510--511
 \T1/Heuristica-TLF/m/n/12 go-ing on to-day; we've al-ready fed him enough drugs
 
  []
 
 
-Underfull \hbox (badness 1215) in paragraph at lines 484--485
+Underfull \hbox (badness 1215) in paragraph at lines 510--511
 \T1/Heuristica-TLF/m/n/12 and keep you in hid-ing for a while; af-ter three day
 s,
  []
 
 
-Underfull \hbox (badness 1281) in paragraph at lines 484--485
+Underfull \hbox (badness 1281) in paragraph at lines 510--511
 \T1/Heuristica-TLF/m/n/12 some time, though, you'll have to disappear---ascend
  []
 
 
-Underfull \hbox (badness 1005) in paragraph at lines 484--485
+Underfull \hbox (badness 1005) in paragraph at lines 510--511
 \T1/Heuristica-TLF/m/n/12 from Palestine---in the Tin Is-lands, for ex-am-ple. 
 We'll
  []
 
 
-Underfull \hbox (badness 2865) in paragraph at lines 484--485
+Underfull \hbox (badness 2865) in paragraph at lines 510--511
 \T1/Heuristica-TLF/m/n/12 and mis-sives, which we'll se-cretly dis-tribute to y
 our
  []
 
-[216]
-Underfull \hbox (badness 1448) in paragraph at lines 486--487
+[217]
+Underfull \hbox (badness 1448) in paragraph at lines 512--513
 \T1/Heuristica-TLF/m/n/12 I as-sured him that any anx-i-ety on his part (how di
 d
  []
 
 
-Underfull \hbox (badness 3601) in paragraph at lines 486--487
+Underfull \hbox (badness 3601) in paragraph at lines 512--513
 \T1/Heuristica-TLF/m/n/12 to keep the se-cret?) was com-pletely un-der-stand-ab
 le
  []
 
 
-Underfull \hbox (badness 1496) in paragraph at lines 486--487
+Underfull \hbox (badness 1496) in paragraph at lines 512--513
 \T1/Heuristica-TLF/m/n/12 guar-an-tee his safety---namely, the fact that he wou
 ld
  []
 
 
-Underfull \hbox (badness 1320) in paragraph at lines 486--487
+Underfull \hbox (badness 1320) in paragraph at lines 512--513
 \T1/Heuristica-TLF/m/n/12 band of dis-ci-ples was clearly in-ca-pable of ex-pan
 d-ing
  []
 
 
-Underfull \hbox (badness 2189) in paragraph at lines 486--487
+Underfull \hbox (badness 2189) in paragraph at lines 512--513
 \T1/Heuristica-TLF/m/n/12 dis-in-te-grate quickly and lose all of its au-thor-i
 ty and
  []
 
 
-Underfull \hbox (badness 1675) in paragraph at lines 486--487
+Underfull \hbox (badness 1675) in paragraph at lines 512--513
 \T1/Heuristica-TLF/m/n/12 in-flu-ence; not only that, but his mar-velous Teach-
 ing
  []
 
 
-Underfull \hbox (badness 4981) in paragraph at lines 486--487
+Underfull \hbox (badness 4981) in paragraph at lines 512--513
 \T1/Heuristica-TLF/m/n/12 would be all but forgotten---an out-come we would
  []
 
-
-Underfull \hbox (badness 1776) in paragraph at lines 488--489
+[218]
+Underfull \hbox (badness 1776) in paragraph at lines 514--515
 \T1/Heuristica-TLF/m/n/12 days later were we able to re-con-struct the events o
 f
  []
 
-[217] [218]
-Underfull \hbox (badness 2426) in paragraph at lines 494--495
+[219]
+Underfull \hbox (badness 2426) in paragraph at lines 520--521
 []\T1/Heuristica-TLF/m/n/12 ``Sorry, chief, I thought you al-ready knew. I was
  []
 
 
-Underfull \hbox (badness 1454) in paragraph at lines 498--499
+Underfull \hbox (badness 1454) in paragraph at lines 524--525
 []\T1/Heuristica-TLF/m/n/12 ``Well, of course! We'll do ev-ery-thing the way we
 
  []
 
 
-Underfull \hbox (badness 2318) in paragraph at lines 500--501
+Underfull \hbox (badness 2318) in paragraph at lines 526--527
 []\T1/Heuristica-TLF/m/n/12 ``Ah, yes, just like the old Jew-ish joke about the
 
  []
 
 
-Underfull \hbox (badness 3861) in paragraph at lines 500--501
+Underfull \hbox (badness 3861) in paragraph at lines 526--527
 \T1/Heuristica-TLF/m/n/12 fu-neral with-out a body; are you out of your mind,
  []
 
-
-Underfull \hbox (badness 4254) in paragraph at lines 508--509
+[220]
+Underfull \hbox (badness 4254) in paragraph at lines 534--535
 []\T1/Heuristica-TLF/m/n/12 Overall, Fabri-cius' al-ready in-sane idea was now
  []
 
 
-Underfull \hbox (badness 1107) in paragraph at lines 508--509
+Underfull \hbox (badness 1107) in paragraph at lines 534--535
 \T1/Heuristica-TLF/m/n/12 if we had any chance of es-cap-ing the snare we were
  []
 
 
-Underfull \hbox (badness 1286) in paragraph at lines 508--509
+Underfull \hbox (badness 1286) in paragraph at lines 534--535
 \T1/Heuristica-TLF/m/n/12 mea-sures to pre-vent them from be-ing present at the
 
  []
 
-[219]
-Underfull \hbox (badness 1242) in paragraph at lines 512--513
+[221]
+Underfull \hbox (badness 1242) in paragraph at lines 536--537
 \T1/Heuristica-TLF/m/n/12 Didn't he think that one of Yeshua's fol-low-ers shou
 ld
  []
 
 
-Underfull \hbox (badness 6641) in paragraph at lines 512--513
+Underfull \hbox (badness 6641) in paragraph at lines 536--537
 \T1/Heuristica-TLF/m/n/12 knew, the Ro-mans were plan-ning to throw all the
  []
 
-[220]
-Underfull \hbox (badness 1694) in paragraph at lines 516--517
+File: assets/afranius-2.png Graphic file (type bmp)
+<assets/afranius-2.png>
+[222] [223]
+Underfull \hbox (badness 1694) in paragraph at lines 547--548
 \T1/Heuristica-TLF/m/n/12 for me: ``Re-port to the Hege-mon at once!'' I en-ter
 ed
  []
 
 
-Underfull \hbox (badness 7558) in paragraph at lines 518--519
+Underfull \hbox (badness 7558) in paragraph at lines 549--550
 []\T1/Heuristica-TLF/m/n/12 That be-ing said, there was one more ob-sta-cle
  []
 
 
-Underfull \hbox (badness 2635) in paragraph at lines 518--519
+Underfull \hbox (badness 2635) in paragraph at lines 549--550
 \T1/Heuristica-TLF/m/n/12 stand-ing in our way, which threat-ened to bring our
  []
 
 
-Underfull \hbox (badness 1077) in paragraph at lines 518--519
+Underfull \hbox (badness 1077) in paragraph at lines 549--550
 \T1/Heuristica-TLF/m/n/12 ful-fill their con-scious and un-con-scious de-sires.
  There
  []
 
-[221]
-Underfull \hbox (badness 2080) in paragraph at lines 520--521
+
+Underfull \hbox (badness 2080) in paragraph at lines 551--552
 \T1/Heuristica-TLF/m/n/12 Notsri was merely an im-pos-tor, the ex-apostle Ju-da
 s
  []
 
 
-Underfull \hbox (badness 1983) in paragraph at lines 520--521
+Underfull \hbox (badness 1983) in paragraph at lines 551--552
 \T1/Heuristica-TLF/m/n/12 con-tinue to paint him-self be-fore the San-hedrin as
  a
  []
 
-[222]
-Underfull \hbox (badness 1014) in paragraph at lines 524--525
+[224] [225]
+Underfull \hbox (badness 1014) in paragraph at lines 555--556
 \T1/Heuristica-TLF/m/n/12 in line with the re-ports con-stantly stream-ing in f
 rom
  []
 
 
-Underfull \hbox (badness 3838) in paragraph at lines 524--525
+Underfull \hbox (badness 3838) in paragraph at lines 555--556
 \T1/Heuristica-TLF/m/n/12 our surveil-lance ser-vice (which had re-cently start
 ed
  []
 
 
-Underfull \hbox (badness 1325) in paragraph at lines 524--525
+Underfull \hbox (badness 1325) in paragraph at lines 555--556
 \T1/Heuristica-TLF/m/n/12 op-er-at-ing in ``emer-gency search'' mode); use-less
  as it
  []
 
 
-Underfull \hbox (badness 3514) in paragraph at lines 524--525
+Underfull \hbox (badness 3514) in paragraph at lines 555--556
 \T1/Heuristica-TLF/m/n/12 it cover-to-cover no fewer than three times. Fi-nally
 ,
  []
 
 
-Underfull \hbox (badness 2119) in paragraph at lines 524--525
+Underfull \hbox (badness 2119) in paragraph at lines 555--556
 \T1/Heuristica-TLF/m/n/12 from the map to see him hold-ing two documents---
  []
 
 
-Underfull \hbox (badness 1769) in paragraph at lines 526--527
+Underfull \hbox (badness 1769) in paragraph at lines 557--558
 \T1/Heuristica-TLF/m/n/12 John's `be-trayal.' Right here in the mar-gins is a n
 ote
  []
 
-[223]
-Underfull \hbox (badness 1231) in paragraph at lines 540--541
+[226]
+Underfull \hbox (badness 1231) in paragraph at lines 571--572
 \T1/Heuristica-TLF/m/n/12 And if he ac-tu-ally tries to leave Jerusalem tonight
  or
  []
 
-[224]
-Underfull \hbox (badness 3396) in paragraph at lines 544--545
+[227]
+Underfull \hbox (badness 3396) in paragraph at lines 575--576
 \T1/Heuristica-TLF/m/n/12 guards; this was un-likely, but the pos-si-bil-ity ex
 -isted
  []
 
 
-Underfull \hbox (badness 1412) in paragraph at lines 544--545
+Underfull \hbox (badness 1412) in paragraph at lines 575--576
 \T1/Heuristica-TLF/m/n/12 nonethe-less. Sec-ond (and far more im-por-tantly), t
 his
  []
 
 
-Underfull \hbox (badness 2409) in paragraph at lines 544--545
+Underfull \hbox (badness 2409) in paragraph at lines 575--576
 \T1/Heuristica-TLF/m/n/12 was a di-rect vi-o-la-tion of the Procu-ra-tor's cat-
 e-gor-i-cal
  []
 
-[225]
-Underfull \hbox (badness 1400) in paragraph at lines 548--549
+[228]
+Underfull \hbox (badness 1400) in paragraph at lines 579--580
 \T1/Heuristica-TLF/m/n/12 lay-ers of wind-ing cloths. The mo-ment of truth came
 
  []
 
 
-Underfull \hbox (badness 1132) in paragraph at lines 548--549
+Underfull \hbox (badness 1132) in paragraph at lines 579--580
 \T1/Heuristica-TLF/m/n/12 the fol-low-ing morn-ing, when a squad of le-gion-nai
 res
  []
 
 
-Underfull \hbox (badness 2393) in paragraph at lines 548--549
+Underfull \hbox (badness 2393) in paragraph at lines 579--580
 \T1/Heuristica-TLF/m/n/12 sta-tioned it-self in front of the tomb; trail-ing be
 -hind
  []
 
 
-Underfull \hbox (badness 1014) in paragraph at lines 548--549
+Underfull \hbox (badness 1014) in paragraph at lines 579--580
 \T1/Heuristica-TLF/m/n/12 drenched with sweat. I looked on from a dis-tance as
  []
 
-[226]
-Underfull \hbox (badness 1496) in paragraph at lines 550--551
+
+Underfull \hbox (badness 1496) in paragraph at lines 581--582
 []\T1/Heuristica-TLF/m/n/12 And so, this marked the end of our prepa-ra-tion.
  []
 
 
-Underfull \hbox (badness 1910) in paragraph at lines 550--551
+Underfull \hbox (badness 1910) in paragraph at lines 581--582
 \T1/Heuristica-TLF/m/n/12 on Ju-das; un-for-tu-nately, we had made ab-so-lutely
  no
  []
 
 
-Underfull \hbox (badness 1642) in paragraph at lines 550--551
+Underfull \hbox (badness 1642) in paragraph at lines 581--582
 \T1/Heuristica-TLF/m/n/12 progress in this re-spect. More-over, we re-ceived wo
 rd
  []
 
 
-Underfull \hbox (badness 2103) in paragraph at lines 550--551
+Underfull \hbox (badness 2103) in paragraph at lines 581--582
 \T1/Heuristica-TLF/m/n/12 it was pos-si-ble we were chas-ing af-ter a red her-r
 ing.
  []
 
-[227]
-Underfull \hbox (badness 4205) in paragraph at lines 556--557
+[229] [230]
+Underfull \hbox (badness 4205) in paragraph at lines 587--588
 []\T1/Heuristica-TLF/m/n/12 Well, I guess we weren't fool-ing any-one with a
  []
 
 
-Underfull \hbox (badness 1603) in paragraph at lines 556--557
+Underfull \hbox (badness 1603) in paragraph at lines 587--588
 \T1/Heuristica-TLF/m/n/12 with ex-ces-sive pick-i-ness. At the end of the day, 
 we'd
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 558--559
+Underfull \hbox (badness 10000) in paragraph at lines 589--590
 []\T1/Heuristica-TLF/m/n/12 The chief of the guard was a young in-fantry
  []
 
-[228]
-Underfull \hbox (badness 10000) in paragraph at lines 560--561
+
+Underfull \hbox (badness 10000) in paragraph at lines 591--592
 []\T1/Heuristica-TLF/m/n/12 ``Now what do you have to say for your-self,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 560--561
+Underfull \hbox (badness 10000) in paragraph at lines 591--592
 \T1/Heuristica-TLF/m/n/12 cen-tu-rion?'' I snarled, send-ing him a pen-e-trat-i
 ng
  []
 
-[229]
-Underfull \hbox (badness 6396) in paragraph at lines 566--567
+[231]
+Underfull \hbox (badness 6396) in paragraph at lines 597--598
 \T1/Heuristica-TLF/m/n/12 for thought---talk about a worst-case sce-nario! The
  []
 
 
-Underfull \hbox (badness 1102) in paragraph at lines 566--567
+Underfull \hbox (badness 1102) in paragraph at lines 597--598
 \T1/Heuristica-TLF/m/n/12 out of the poor cen-tu-rion; for its own part, how-ev
 er,
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 568--569
+[232]
+Underfull \hbox (badness 10000) in paragraph at lines 599--600
 []\T1/Heuristica-TLF/m/n/12 Meanwhile, the cen-tu-rion was de-ject-edly
  []
 
 
-Underfull \hbox (badness 6658) in paragraph at lines 568--569
+Underfull \hbox (badness 6658) in paragraph at lines 599--600
 \T1/Heuristica-TLF/m/n/12 as-sem-bling his pla-toon. He was about to give the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 568--569
+Underfull \hbox (badness 10000) in paragraph at lines 599--600
 \T1/Heuristica-TLF/m/n/12 com-mand ``For-ward march!'' when sud-denly, he
  []
 
 
-Underfull \hbox (badness 1270) in paragraph at lines 568--569
+Underfull \hbox (badness 1270) in paragraph at lines 599--600
 \T1/Heuristica-TLF/m/n/12 hes-i-tated; was he se-ri-ously go-ing to leave the r
 est of
  []
 
 
-Underfull \hbox (badness 2409) in paragraph at lines 568--569
+Underfull \hbox (badness 2409) in paragraph at lines 599--600
 \T1/Heuristica-TLF/m/n/12 their wel-come; the sec-ond act was due to start any
  []
 
 
-Underfull \hbox (badness 1728) in paragraph at lines 570--571
+Underfull \hbox (badness 1728) in paragraph at lines 601--602
 []\T1/Heuristica-TLF/m/n/12 Almost as soon as we planted sev-eral ``an-gels in
  []
 
 
-Underfull \hbox (badness 1137) in paragraph at lines 570--571
+Underfull \hbox (badness 1137) in paragraph at lines 601--602
 \T1/Heuristica-TLF/m/n/12 shin-ing robes'' by the tomb, some of Yeshua's fe-mal
 e
  []
 
 
-Underfull \hbox (badness 1253) in paragraph at lines 570--571
+Underfull \hbox (badness 1253) in paragraph at lines 601--602
 \T1/Heuristica-TLF/m/n/12 off with-out a hitch: the women fell to their knees a
 t
  []
 
 
-Underfull \hbox (badness 1394) in paragraph at lines 570--571
+Underfull \hbox (badness 1394) in paragraph at lines 601--602
 \T1/Heuristica-TLF/m/n/12 the sight of the an-gels, who pro-ceeded to give them
 
  []
 
-[230]
-Underfull \hbox (badness 1112) in paragraph at lines 572--573
+
+Underfull \hbox (badness 1112) in paragraph at lines 603--604
 \T1/Heuristica-TLF/m/n/12 them to con-fess to the theft and de-struc-tion of th
 eir
  []
 
-
-Underfull \hbox (badness 3668) in paragraph at lines 574--575
+[233]
+Underfull \hbox (badness 3668) in paragraph at lines 605--606
 \T1/Heuristica-TLF/m/n/12 the ever-inseparable John and Pe-ter. Our op-er-a-tiv
 es
  []
 
 
-Underfull \hbox (badness 5490) in paragraph at lines 574--575
+Underfull \hbox (badness 5490) in paragraph at lines 605--606
 \T1/Heuristica-TLF/m/n/12 But then---thank Jupiter!---Mary was left com-pletely
 
  []
 
-[231]
-Underfull \hbox (badness 1394) in paragraph at lines 576--577
+
+Underfull \hbox (badness 1394) in paragraph at lines 607--608
 \T1/Heuristica-TLF/m/n/12 scratched his head. ``You couldn't do any bet-ter?'' 
 he
  []
 
 
-Underfull \hbox (badness 1448) in paragraph at lines 576--577
+Underfull \hbox (badness 1448) in paragraph at lines 607--608
 \T1/Heuristica-TLF/m/n/12 any-thing else, and all bets were off. Ac-cord-ingly,
  our
  []
 
-
-Underfull \hbox (badness 1609) in paragraph at lines 578--579
+[234]
+Underfull \hbox (badness 1609) in paragraph at lines 609--610
 []\T1/Heuristica-TLF/m/n/12 Meanwhile, we had an-other prob-lem to con-tend
  []
 
 
-Underfull \hbox (badness 2368) in paragraph at lines 578--579
+Underfull \hbox (badness 2368) in paragraph at lines 609--610
 \T1/Heuristica-TLF/m/n/12 he was in-structed to say as lit-tle as pos-si-ble du
 r-ing
  []
 
 
-Underfull \hbox (badness 1694) in paragraph at lines 578--579
+Underfull \hbox (badness 1694) in paragraph at lines 609--610
 \T1/Heuristica-TLF/m/n/12 his ap-pear-ances, as per the proverb, ``a silent foo
 l is
  []
 
 
-Underfull \hbox (badness 2245) in paragraph at lines 578--579
+Underfull \hbox (badness 2245) in paragraph at lines 609--610
 \T1/Heuristica-TLF/m/n/12 counted wise.'' Nev-er-the-less, it was vi-tally im-p
 or-tant
  []
 
 
-Underfull \hbox (badness 3895) in paragraph at lines 578--579
+Underfull \hbox (badness 3895) in paragraph at lines 609--610
 \T1/Heuristica-TLF/m/n/12 that the ut-terly be-wil-dered dis-ci-ples be given s
 ome
  []
 
 
-Underfull \hbox (badness 2538) in paragraph at lines 578--579
+Underfull \hbox (badness 2538) in paragraph at lines 609--610
 \T1/Heuristica-TLF/m/n/12 the ad-vi-sor went on a sor-tie and joined a group of
 
  []
 
 
-Underfull \hbox (badness 2426) in paragraph at lines 578--579
+Underfull \hbox (badness 2426) in paragraph at lines 609--610
 \T1/Heuristica-TLF/m/n/12 sev-eral dis-ci-ples trav-el-ing to Em-maus, spend-in
 g two
  []
 
 
-Underfull \hbox (badness 1789) in paragraph at lines 578--579
+Underfull \hbox (badness 1789) in paragraph at lines 609--610
 \T1/Heuristica-TLF/m/n/12 The re-sult of their meet-ing was one we never could
  []
 
 
-Underfull \hbox (badness 1342) in paragraph at lines 578--579
+Underfull \hbox (badness 1342) in paragraph at lines 609--610
 \T1/Heuristica-TLF/m/n/12 res-ur-rected teacher, al-beit in ``an al-tered form.
 '' They
  []
 
-[232]
-Underfull \hbox (badness 7012) in paragraph at lines 580--581
+[235]
+Underfull \hbox (badness 7012) in paragraph at lines 611--612
 \T1/Heuristica-TLF/m/n/12 so all the other con-se-quences I had fore-seen had
  []
 
 
-Underfull \hbox (badness 1292) in paragraph at lines 580--581
+Underfull \hbox (badness 1292) in paragraph at lines 611--612
 \T1/Heuristica-TLF/m/n/12 all, had ig-nored all the warn-ings we had given them
 
  []
 
 
-Underfull \hbox (badness 2726) in paragraph at lines 582--583
+Underfull \hbox (badness 2726) in paragraph at lines 613--614
 \T1/Heuristica-TLF/m/n/12 dis-ci-ples with lit-tle dif-fi-culty: for ex-am-ple,
  we could
  []
 
 
-Underfull \hbox (badness 1852) in paragraph at lines 582--583
+Underfull \hbox (badness 1852) in paragraph at lines 613--614
 \T1/Heuristica-TLF/m/n/12 Di-vi-sion or the Syr-ian aux-il-iary units. Now, how
 -ever,
  []
 
 
-Underfull \hbox (badness 4872) in paragraph at lines 582--583
+Underfull \hbox (badness 4872) in paragraph at lines 613--614
 \T1/Heuristica-TLF/m/n/12 my hands were tied by the Procu-ra-tor's cat-e-gor-i-
 cal
  []
 
 
-Underfull \hbox (badness 5331) in paragraph at lines 582--583
+Underfull \hbox (badness 5331) in paragraph at lines 613--614
 \T1/Heuristica-TLF/m/n/12 pro-hi-bi-tion on even in-di-rectly in-volv-ing the o
 f-fi-cial
  []
 
 
-Underfull \hbox (badness 2837) in paragraph at lines 582--583
+Underfull \hbox (badness 2837) in paragraph at lines 613--614
 \T1/Heuristica-TLF/m/n/12 Ro-man au-thor-i-ties in this ca-per; mean-while, Jud
 ean
  []
 
 
-Underfull \hbox (badness 1132) in paragraph at lines 582--583
+Underfull \hbox (badness 1132) in paragraph at lines 613--614
 \T1/Heuristica-TLF/m/n/12 him gen-uinely dangerous---like a leper who'd lost hi
 s
  []
 
-[233]
-Underfull \hbox (badness 1472) in paragraph at lines 584--585
+[236]
+Underfull \hbox (badness 1472) in paragraph at lines 615--616
 \T1/Heuristica-TLF/m/n/12 was found hang-ing in Geth-se-mane; the se-cret po-li
 ce
  []
 
 
-Underfull \hbox (badness 4872) in paragraph at lines 584--585
+Underfull \hbox (badness 4872) in paragraph at lines 615--616
 \T1/Heuristica-TLF/m/n/12 im-me-di-ately launched a man-hunt for the dis-ci-ple
 s,
  []
 
 
-Underfull \hbox (badness 4819) in paragraph at lines 584--585
+Underfull \hbox (badness 4819) in paragraph at lines 615--616
 \T1/Heuristica-TLF/m/n/12 and en-listed the help of the Crim-i-nal In-ves-ti-ga
 -tion
  []
 
 
-Underfull \hbox (badness 1337) in paragraph at lines 584--585
+Underfull \hbox (badness 1337) in paragraph at lines 615--616
 \T1/Heuristica-TLF/m/n/12 two agen-cies man-aged to turn the city quite lit-er-
 ally
  []
 
-[234]
-Underfull \hbox (badness 2961) in paragraph at lines 586--587
+
+Underfull \hbox (badness 2961) in paragraph at lines 617--618
 \T1/Heuristica-TLF/m/n/12 ``res-ur-rected'' Rabbi. Our first test with Mary lef
 t us
  []
 
 
-Underfull \hbox (badness 2865) in paragraph at lines 586--587
+Underfull \hbox (badness 2865) in paragraph at lines 617--618
 \T1/Heuristica-TLF/m/n/12 de-tec-tive story), and had all but set-tled on slip-
 ping
  []
 
-
-Underfull \hbox (badness 1303) in paragraph at lines 588--589
+[237]
+Underfull \hbox (badness 1303) in paragraph at lines 619--620
 \T1/Heuristica-TLF/m/n/12 a sort of ``ver-i-fi-ca-tion of cru-ci-fix-ion'': a s
 et of ghastly
  []
 
 
-Underfull \hbox (badness 1122) in paragraph at lines 588--589
+Underfull \hbox (badness 1122) in paragraph at lines 619--620
 \T1/Heuristica-TLF/m/n/12 amazing---not even the most ex-act-ing of pro-fes-sio
 nal
  []
 
 
-Underfull \hbox (badness 1259) in paragraph at lines 588--589
+Underfull \hbox (badness 1259) in paragraph at lines 619--620
 \T1/Heuristica-TLF/m/n/12 tem-porar-ily re-moved the ever-skeptical Thomas from
 
  []
 
-[235]
-Underfull \hbox (badness 5637) in paragraph at lines 590--591
+
+Underfull \hbox (badness 5637) in paragraph at lines 621--622
 \T1/Heuristica-TLF/m/n/12 con-stantly car-ried out surveil-lance on the dis-ci-
 ples
  []
 
-
-Underfull \hbox (badness 1845) in paragraph at lines 594--595
+[238]
+Underfull \hbox (badness 1845) in paragraph at lines 625--626
 \T1/Heuristica-TLF/m/n/12 kept grind-ing down their stub-born com-rade, and he
  []
 
 
-Underfull \hbox (badness 1902) in paragraph at lines 594--595
+Underfull \hbox (badness 1902) in paragraph at lines 625--626
 \T1/Heuristica-TLF/m/n/12 Thomas di-rectly, ``Take your fin-ger and put it in m
 y
  []
 
-[236]
-Underfull \hbox (badness 10000) in paragraph at lines 596--597
+
+Underfull \hbox (badness 10000) in paragraph at lines 627--628
 []\T1/Heuristica-TLF/m/n/12 In the mean-time, po-lice ac-tiv-ity in Jerusalem
  []
 
 
-Underfull \hbox (badness 4792) in paragraph at lines 596--597
+Underfull \hbox (badness 4792) in paragraph at lines 627--628
 \T1/Heuristica-TLF/m/n/12 con-tin-ued to wane, and af-ter tak-ing ev-ery pos-si
 -ble
  []
 
 
-Underfull \hbox (badness 2158) in paragraph at lines 596--597
+Underfull \hbox (badness 2158) in paragraph at lines 627--628
 \T1/Heuristica-TLF/m/n/12 pre-cau-tion, we were able to send the dis-ci-ples ba
 ck
  []
 
 
-Underfull \hbox (badness 4660) in paragraph at lines 596--597
+Underfull \hbox (badness 4660) in paragraph at lines 627--628
 \T1/Heuristica-TLF/m/n/12 home to Galilee. There, how-ever, our trou-bles only
  []
 
 
-Underfull \hbox (badness 2020) in paragraph at lines 596--597
+Underfull \hbox (badness 2020) in paragraph at lines 627--628
 \T1/Heuristica-TLF/m/n/12 con-tin-ued, for no sooner than they ar-rived did the
 y
  []
 
 
-Underfull \hbox (badness 3179) in paragraph at lines 596--597
+Underfull \hbox (badness 3179) in paragraph at lines 627--628
 \T1/Heuristica-TLF/m/n/12 started preach-ing their own con-cep-tions of Yeshua'
 s
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 598--599
+[239]
+Underfull \hbox (badness 10000) in paragraph at lines 629--630
 []\T1/Heuristica-TLF/m/n/12 We needed to in-ter-vene at once, be-fore the
  []
 
 
-Underfull \hbox (badness 3815) in paragraph at lines 598--599
+Underfull \hbox (badness 3815) in paragraph at lines 629--630
 \T1/Heuristica-TLF/m/n/12 back and re-fer to him-self as Yeshua's ``mes-sen-ger
 ''),
  []
 
 
-Underfull \hbox (badness 4391) in paragraph at lines 598--599
+Underfull \hbox (badness 4391) in paragraph at lines 629--630
 \T1/Heuristica-TLF/m/n/12 the ad-vi-sor was nonethe-less able to make an even
  []
 
 
-Underfull \hbox (badness 5274) in paragraph at lines 598--599
+Underfull \hbox (badness 5274) in paragraph at lines 629--630
 \T1/Heuristica-TLF/m/n/12 all our ex-pec-ta-tions: Fabri-cius man-aged to con-f
 irm
  []
 
-[237]
-Underfull \hbox (badness 2245) in paragraph at lines 600--601
+
+Underfull \hbox (badness 2245) in paragraph at lines 631--632
 \T1/Heuristica-TLF/m/n/12 The Galilean soil was duly pre-pared for sow-ing (the
 
  []
 
-[238]
-Underfull \hbox (badness 10000) in paragraph at lines 604--605
+[240]
+Underfull \hbox (badness 10000) in paragraph at lines 635--636
 []\T1/Heuristica-TLF/m/n/12 But then, when Op-er-a-tion FISH was all but
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 604--605
+Underfull \hbox (badness 10000) in paragraph at lines 635--636
 \T1/Heuristica-TLF/m/n/12 com-plete, the Hege-mon sud-denly called me onto
  []
 
 
-Underfull \hbox (badness 1048) in paragraph at lines 604--605
+Underfull \hbox (badness 1048) in paragraph at lines 635--636
 \T1/Heuristica-TLF/m/n/12 growth in pop-u-lar-ity in the sub-ver-sive teach-ing
 s of a
  []
 
 
-Underfull \hbox (badness 1400) in paragraph at lines 604--605
+Underfull \hbox (badness 1400) in paragraph at lines 635--636
 \T1/Heuristica-TLF/m/n/12 cer-tain Yeshua Ha-Notsri, who had suc-cess-fully bee
 n
  []
 
 
-Underfull \hbox (badness 2460) in paragraph at lines 604--605
+Underfull \hbox (badness 2460) in paragraph at lines 635--636
 \T1/Heuristica-TLF/m/n/12 ex-e-cuted about a month be-fore, but had ap-par-entl
 y
  []
 
 
-Underfull \hbox (badness 2173) in paragraph at lines 604--605
+Underfull \hbox (badness 2173) in paragraph at lines 635--636
 \T1/Heuristica-TLF/m/n/12 been or-ches-trated by some ``out-side force,'' and t
 hat
  []
 
 
-Underfull \hbox (badness 4927) in paragraph at lines 604--605
+Underfull \hbox (badness 4927) in paragraph at lines 635--636
 \T1/Heuristica-TLF/m/n/12 the San-hedrin had be-gun to in-ves-ti-gate the mat-t
 er
  []
 
 
-Underfull \hbox (badness 1603) in paragraph at lines 604--605
+Underfull \hbox (badness 1603) in paragraph at lines 635--636
 \T1/Heuristica-TLF/m/n/12 any of my find-ings? Did I un-der-stand the enor-mous
 
  []
 
 
-Underfull \hbox (badness 1430) in paragraph at lines 604--605
+Underfull \hbox (badness 1430) in paragraph at lines 635--636
 \T1/Heuristica-TLF/m/n/12 to Cae-sar's au-thor-ity? It was good that I un-der-s
 tood;
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 606--607
+[241]
+Underfull \hbox (badness 10000) in paragraph at lines 637--638
 []\T1/Heuristica-TLF/m/n/12 ``In short, we must im-me-di-ately start an
  []
 
 
-Underfull \hbox (badness 2856) in paragraph at lines 606--607
+Underfull \hbox (badness 2856) in paragraph at lines 637--638
 \T1/Heuristica-TLF/m/n/12 in-ves-ti-ga-tion con-cur-rent with that of the San-h
 edrin.
  []
 
 
-Underfull \hbox (badness 3635) in paragraph at lines 606--607
+Underfull \hbox (badness 3635) in paragraph at lines 637--638
 \T1/Heuristica-TLF/m/n/12 And if it re-ally turns out cer-tain in-di-vid-u-als 
 in our
  []
 
 
-Underfull \hbox (badness 1147) in paragraph at lines 606--607
+Underfull \hbox (badness 1147) in paragraph at lines 637--638
 \T1/Heuristica-TLF/m/n/12 or-ga-ni-za-tion are us-ing their po-si-tion, in-ten-
 tion-ally or
  []
 
 
-Underfull \hbox (badness 3199) in paragraph at lines 606--607
+Underfull \hbox (badness 3199) in paragraph at lines 637--638
 \T1/Heuristica-TLF/m/n/12 ac-tu-ally your guys who did this!'' At this point, t
 he
  []
 
-[239]
-Underfull \hbox (badness 4846) in paragraph at lines 610--611
+[242]
+Underfull \hbox (badness 4846) in paragraph at lines 641--642
 []\T1/Heuristica-TLF/m/n/12 As for the oth-ers... Petro-n-ius and his men? All
  []
 
 
-Underfull \hbox (badness 4120) in paragraph at lines 610--611
+Underfull \hbox (badness 4120) in paragraph at lines 641--642
 \T1/Heuristica-TLF/m/n/12 op-er-a-tives who es-corted the dis-ci-ples? They had
  to
  []
 
 
-Underfull \hbox (badness 1259) in paragraph at lines 610--611
+Underfull \hbox (badness 1259) in paragraph at lines 641--642
 \T1/Heuristica-TLF/m/n/12 guard them from lynch-ing, which could have caused
  []
 
 
-Underfull \hbox (badness 1783) in paragraph at lines 610--611
+Underfull \hbox (badness 1783) in paragraph at lines 641--642
 \T1/Heuristica-TLF/m/n/12 artist? Hm... Maybe so... About three weeks ago, our
  []
 
-[240]
-Underfull \hbox (badness 2376) in paragraph at lines 614--615
+File: assets/afranius-3.png Graphic file (type bmp)
+<assets/afranius-3.png>
+[243] [244]
+Underfull \hbox (badness 2376) in paragraph at lines 650--651
 []\T1/Heuristica-TLF/m/n/12 The fear struck me that the prob-lem wasn't the
  []
 
 
-Underfull \hbox (badness 1297) in paragraph at lines 614--615
+Underfull \hbox (badness 1297) in paragraph at lines 650--651
 \T1/Heuristica-TLF/m/n/12 San-hedrin's in-ves-ti-ga-tion (they would never come
  up
  []
 
 
-Underfull \hbox (badness 7576) in paragraph at lines 614--615
+Underfull \hbox (badness 7576) in paragraph at lines 650--651
 \T1/Heuristica-TLF/m/n/12 with any-thing, nor could they), but some-thing far
  []
 
 
-Underfull \hbox (badness 3965) in paragraph at lines 614--615
+Underfull \hbox (badness 3965) in paragraph at lines 650--651
 \T1/Heuristica-TLF/m/n/12 some-where \T1/Heuristica-TLF/m/it/12 up in the spher
 es\T1/Heuristica-TLF/m/n/12 , which I still couldn't
  []
 
 
-Underfull \hbox (badness 1231) in paragraph at lines 614--615
+Underfull \hbox (badness 1231) in paragraph at lines 650--651
 \T1/Heuristica-TLF/m/n/12 putting the ge-nie back into the bot-tle of ``coun-te
 r-ing
  []
 
 
-Underfull \hbox (badness 6592) in paragraph at lines 614--615
+Underfull \hbox (badness 6592) in paragraph at lines 650--651
 \T1/Heuristica-TLF/m/n/12 Jew-ish ex-trem-ism.'' And if so, then my at-tempt to
 
  []
 
 
-Underfull \hbox (badness 5475) in paragraph at lines 614--615
+Underfull \hbox (badness 5475) in paragraph at lines 650--651
 \T1/Heuristica-TLF/m/it/12 tie up loose ends \T1/Heuristica-TLF/m/n/12 was lead
 -ing up to a pre-dictable,
  []
 
 
-Underfull \hbox (badness 1546) in paragraph at lines 614--615
+Underfull \hbox (badness 1546) in paragraph at lines 650--651
 \T1/Heuristica-TLF/m/n/12 de-press-ing fi-nale: the mo-ment I com-pleted that t
 ask
  []
 
 
-Underfull \hbox (badness 4072) in paragraph at lines 614--615
+Underfull \hbox (badness 4072) in paragraph at lines 650--651
 \T1/Heuristica-TLF/m/n/12 would be my very last. As soon as I came to that
  []
 
 
-Underfull \hbox (badness 6380) in paragraph at lines 614--615
+Underfull \hbox (badness 6380) in paragraph at lines 650--651
 \T1/Heuristica-TLF/m/n/12 dis-ap-point-ing con-clu-sion, I set about com-pos-in
 g a
  []
 
 
-Underfull \hbox (badness 1953) in paragraph at lines 616--617
+Underfull \hbox (badness 1953) in paragraph at lines 652--653
 \T1/Heuristica-TLF/m/n/12 phase of Op-er-a-tion FISH. For starters, the Hege-mo
 n
  []
 
-[241]
-Underfull \hbox (badness 1466) in paragraph at lines 618--619
+
+Underfull \hbox (badness 1466) in paragraph at lines 654--655
 \T1/Heuristica-TLF/m/n/12 pres-sure was off, he had re-cently stopped prac-ti-c
 ally
  []
 
 
-Underfull \hbox (badness 6125) in paragraph at lines 618--619
+Underfull \hbox (badness 6125) in paragraph at lines 654--655
 \T1/Heuristica-TLF/m/n/12 Fabri-cius, as I had sus-pected, had merely plunged
  []
 
 
-Underfull \hbox (badness 1168) in paragraph at lines 618--619
+Underfull \hbox (badness 1168) in paragraph at lines 654--655
 \T1/Heuristica-TLF/m/n/12 him sev-eral times be-fore, his at-tacks had never be
 en
  []
 
 
-Underfull \hbox (badness 2050) in paragraph at lines 618--619
+Underfull \hbox (badness 2050) in paragraph at lines 654--655
 \T1/Heuristica-TLF/m/n/12 I of-fered my thoughts, then (with an ob-vi-ous ef-fo
 rt)
  []
 
 
-Underfull \hbox (badness 4013) in paragraph at lines 618--619
+Underfull \hbox (badness 4013) in paragraph at lines 654--655
 \T1/Heuristica-TLF/m/n/12 in the fu-ture (so that the sect's per-se-cu-tion by 
 the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 618--619
+Underfull \hbox (badness 10000) in paragraph at lines 654--655
 \T1/Heuristica-TLF/m/n/12 of-fi-cial au-thor-i-ties might lend it cred-i-bil-it
 y in the
  []
 
 
-Underfull \hbox (badness 1354) in paragraph at lines 618--619
+Underfull \hbox (badness 1354) in paragraph at lines 654--655
 \T1/Heuristica-TLF/m/n/12 eyes of the pub-lic), I should en-sure Pe-ter's safet
 y no
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 618--619
+Underfull \hbox (badness 10000) in paragraph at lines 654--655
 \T1/Heuristica-TLF/m/n/12 mat-ter what the cir-cum-stances, ``re-gard-less of t
 he
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 618--619
+Underfull \hbox (badness 10000) in paragraph at lines 654--655
 \T1/Heuristica-TLF/m/n/12 of a highly-educated ide-o-logue from the Phar-isee
  []
 
-[242]
-Underfull \hbox (badness 4726) in paragraph at lines 626--627
+[245] [246]
+Underfull \hbox (badness 4726) in paragraph at lines 662--663
 []\T1/Heuristica-TLF/m/n/12 ``Well... It's just that this whole time, I've been
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 626--627
+Underfull \hbox (badness 10000) in paragraph at lines 662--663
 \T1/Heuristica-TLF/m/n/12 won-der-ing what led Him to tell me back in the
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 626--627
+Underfull \hbox (badness 10000) in paragraph at lines 662--663
 \T1/Heuristica-TLF/m/n/12 prae-to-rium, `What you do, do quickly!'---and I've
  []
 
 
-Underfull \hbox (badness 3281) in paragraph at lines 626--627
+Underfull \hbox (badness 3281) in paragraph at lines 662--663
 \T1/Heuristica-TLF/m/it/12 name-sakes\T1/Heuristica-TLF/m/n/12 : Fabri-cius, De
 miurge---like two peas in a
  []
 
 
-Underfull \hbox (badness 1496) in paragraph at lines 626--627
+Underfull \hbox (badness 1496) in paragraph at lines 662--663
 \T1/Heuristica-TLF/m/n/12 pod... So now I won-der: could ev-ery-thing have been
 
  []
 
 
-Underfull \hbox (badness 1048) in paragraph at lines 626--627
+Underfull \hbox (badness 1048) in paragraph at lines 662--663
 \T1/Heuristica-TLF/m/n/12 pre-de-ter-mined the very mo-ment Ju-das picked up hi
 s
  []
 
 
-Underfull \hbox (badness 1515) in paragraph at lines 630--631
+Underfull \hbox (badness 1515) in paragraph at lines 666--667
 []\T1/Heuristica-TLF/m/n/12 ``Ahhh! So that's it... Re-ally, two `Craftsmen'---
 one
  []
 
 
-Underfull \hbox (badness 1742) in paragraph at lines 634--635
+Underfull \hbox (badness 1742) in paragraph at lines 670--671
 []\T1/Heuristica-TLF/m/n/12 ``\T1/Heuristica-TLF/m/it/12 You \T1/Heuristica-TLF
 /m/n/12 try find-ing some other way to ex-plain that
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 636--637
+Underfull \hbox (badness 10000) in paragraph at lines 672--673
 []\T1/Heuristica-TLF/m/n/12 ``Get a grip on your-self, cen-tu-rion! There's no
  []
 
 
-Underfull \hbox (badness 6300) in paragraph at lines 636--637
+Underfull \hbox (badness 6300) in paragraph at lines 672--673
 \T1/Heuristica-TLF/m/n/12 pos-si-ble way any in-for-ma-tion on FISH could have
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 636--637
+Underfull \hbox (badness 10000) in paragraph at lines 672--673
 \T1/Heuristica-TLF/m/n/12 should know that even stranger co-in-ci-dences can
  []
 
-[243]
-Underfull \hbox (badness 1221) in paragraph at lines 638--639
+
+Underfull \hbox (badness 1221) in paragraph at lines 674--675
 \T1/Heuristica-TLF/m/n/12 said, drily and some-how \T1/Heuristica-TLF/m/it/12 c
 on-clu-sively\T1/Heuristica-TLF/m/n/12 : ``What-ever you
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 638--639
+Underfull \hbox (badness 1442) in paragraph at lines 674--675
 \T1/Heuristica-TLF/m/n/12 then so be it. Now let's for-get this con-ver-sa-tion
  ever
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 640--641
+[247]
+Underfull \hbox (badness 10000) in paragraph at lines 676--677
 []\T1/Heuristica-TLF/m/n/12 ``Listen here, cen-tu-rion. It sounds to me like
  []
 
 
-Underfull \hbox (badness 4726) in paragraph at lines 640--641
+Underfull \hbox (badness 4726) in paragraph at lines 676--677
 \T1/Heuristica-TLF/m/n/12 some-one needs a lit-tle rest. Go out to An-ti-och, o
 r
  []
 
 
-Underfull \hbox (badness 1400) in paragraph at lines 642--643
+Underfull \hbox (badness 1400) in paragraph at lines 678--679
 \T1/Heuristica-TLF/m/n/12 in-ter-est-ing thought, chief.'' Then, out of nowhere
 , he
  []
 
 
-Underfull \hbox (badness 1430) in paragraph at lines 644--645
+Underfull \hbox (badness 1430) in paragraph at lines 680--681
 []\T1/Heuristica-TLF/m/n/12 Right that very mo-ment, my eyes fell on a thick
  []
 
 
-Underfull \hbox (badness 1831) in paragraph at lines 644--645
+Underfull \hbox (badness 1831) in paragraph at lines 680--681
 \T1/Heuristica-TLF/m/n/12 sub-ject, I po-litely in-quired if he had re-turned t
 o his
  []
 
 
-Underfull \hbox (badness 4132) in paragraph at lines 644--645
+Underfull \hbox (badness 4132) in paragraph at lines 680--681
 \T1/Heuristica-TLF/m/n/12 trans-la-tions from Canaan-ite as a way of cur-ing hi
 s
  []
 
 
-Underfull \hbox (badness 2717) in paragraph at lines 644--645
+Underfull \hbox (badness 2717) in paragraph at lines 680--681
 \T1/Heuristica-TLF/m/n/12 melan-choly. Fabri-cius, for some rea-son flushed wit
 h
  []
 
-[244]
-Underfull \hbox (badness 4193) in paragraph at lines 646--647
+[248]
+Underfull \hbox (badness 4193) in paragraph at lines 682--683
 []\T1/Heuristica-TLF/m/n/12 It wasn't that I was alarmed by the cen-tu-rion's
  []
 
 
-Underfull \hbox (badness 5161) in paragraph at lines 648--649
+Underfull \hbox (badness 5161) in paragraph at lines 684--685
 []\T1/Heuristica-TLF/m/n/12 Time and time again, I turned over the whole
  []
 
 
-Underfull \hbox (badness 1521) in paragraph at lines 648--649
+Underfull \hbox (badness 1521) in paragraph at lines 684--685
 \T1/Heuristica-TLF/m/n/12 ``Demi-urge''? No, that was just non-sense. His stran
 ge
  []
 
-[245]
-Underfull \hbox (badness 1502) in paragraph at lines 652--653
+[249]
+Underfull \hbox (badness 1502) in paragraph at lines 688--689
 \T1/Heuristica-TLF/m/n/12 of FISH had been wiped clean, that I'd me-thod-i-call
 y
  []
 
 
-Underfull \hbox (badness 1910) in paragraph at lines 652--653
+Underfull \hbox (badness 1910) in paragraph at lines 688--689
 \T1/Heuristica-TLF/m/n/12 had nearly failed to spot the great-est dan-ger. Be-f
 ore
  []
 
 
-Underfull \hbox (badness 3965) in paragraph at lines 652--653
+Underfull \hbox (badness 3965) in paragraph at lines 688--689
 \T1/Heuristica-TLF/m/n/12 any-thing else, I needed to get the cen-tu-rion un-de
 r
  []
 
 
-Underfull \hbox (badness 6110) in paragraph at lines 652--653
+Underfull \hbox (badness 6110) in paragraph at lines 688--689
 \T1/Heuristica-TLF/m/n/12 tight surveil-lance and close off all his chan-nels o
 f
  []
 
 
-Underfull \hbox (badness 1028) in paragraph at lines 652--653
+Underfull \hbox (badness 1028) in paragraph at lines 688--689
 \T1/Heuristica-TLF/m/n/12 communication---all of that went with-out say-ing. Bu
 t
  []
 
 
-Underfull \hbox (badness 3701) in paragraph at lines 654--655
+Underfull \hbox (badness 3701) in paragraph at lines 690--691
 []\T1/Heuristica-TLF/m/n/12 A few months ago, I could have qui-etly placed
  []
 
 
-Underfull \hbox (badness 1360) in paragraph at lines 654--655
+Underfull \hbox (badness 1360) in paragraph at lines 690--691
 \T1/Heuristica-TLF/m/n/12 him ``on a hold'' in one of our high-security sta-tio
 ns
  []
 
 
-Underfull \hbox (badness 2334) in paragraph at lines 654--655
+Underfull \hbox (badness 2334) in paragraph at lines 690--691
 \T1/Heuristica-TLF/m/n/12 in the coun-try-side, and sooner or later, it would a
 ll
  []
 
-[246]
-Underfull \hbox (badness 4328) in paragraph at lines 656--657
+[250]
+Underfull \hbox (badness 4328) in paragraph at lines 692--693
 []\T1/Heuristica-TLF/m/n/12 While turn-ing this de-press-ing topic over in my
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 656--657
+Underfull \hbox (badness 10000) in paragraph at lines 692--693
 \T1/Heuristica-TLF/m/n/12 mind, I purely me-chan-i-cally re-quested ac-cess to
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 656--657
+Underfull \hbox (badness 10000) in paragraph at lines 692--693
 \T1/Heuristica-TLF/m/n/12 Fabri-cius' dossier. How-ever, the mes-sen-ger came
  []
 
 
-Underfull \hbox (badness 1715) in paragraph at lines 656--657
+Underfull \hbox (badness 1715) in paragraph at lines 692--693
 \T1/Heuristica-TLF/m/n/12 of In-ter-nal Coun-ter-in-tel-li-gence. He had al-rea
 dy been
  []
 
-[247]
-Underfull \hbox (badness 1997) in paragraph at lines 658--659
+
+Underfull \hbox (badness 1997) in paragraph at lines 694--695
 \T1/Heuristica-TLF/m/n/12 had smelled blood in the wa-ter, and now there was
  []
 
 
-Underfull \hbox (badness 1596) in paragraph at lines 658--659
+Underfull \hbox (badness 1596) in paragraph at lines 694--695
 \T1/Heuristica-TLF/m/n/12 noth-ing that could stop it. For my part---if I wante
 d
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 660--661
+[251]
+Underfull \hbox (badness 10000) in paragraph at lines 696--697
 []\T1/Heuristica-TLF/m/n/12 ``...Here's that dossier you re-quested, my dear
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 664--665
+Underfull \hbox (badness 10000) in paragraph at lines 700--701
 []\T1/Heuristica-TLF/m/n/12 ``What's that got to do with it? Un-scrupu-lous
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 664--665
+Underfull \hbox (badness 1173) in paragraph at lines 700--701
 \T1/Heuristica-TLF/m/n/12 con-tacts, per-sonal in-dis-cre-tion, state-ments ree
 k-ing of
  []
 
-[248]
-Underfull \hbox (badness 10000) in paragraph at lines 666--667
+
+Underfull \hbox (badness 10000) in paragraph at lines 702--703
 []\T1/Heuristica-TLF/m/n/12 ``Hm... Quaestor, I'm afraid that the Cen-tral
  []
 
 
-Underfull \hbox (badness 3942) in paragraph at lines 666--667
+Underfull \hbox (badness 3942) in paragraph at lines 702--703
 \T1/Heuristica-TLF/m/n/12 In-tel-li-gence Di-rec-torate of the Empire---which a
 lone
  []
 
-
-Underfull \hbox (badness 3049) in paragraph at lines 668--669
+[252]
+Underfull \hbox (badness 3049) in paragraph at lines 704--705
 \T1/Heuristica-TLF/m/n/12 paws had killed more of Cae-sar's sub-jects than any
  []
 
 
-Underfull \hbox (badness 2119) in paragraph at lines 668--669
+Underfull \hbox (badness 2119) in paragraph at lines 704--705
 \T1/Heuristica-TLF/m/n/12 de-sire to rest on his lau-rels. Back in Rome, Quin-t
 us
  []
 
 
-Underfull \hbox (badness 1052) in paragraph at lines 670--671
+Underfull \hbox (badness 1052) in paragraph at lines 706--707
 \T1/Heuristica-TLF/m/n/12 about we team up? Give us ev-ery-thing you've got on
  []
 
-[249]
-Underfull \hbox (badness 10000) in paragraph at lines 672--673
+
+Underfull \hbox (badness 10000) in paragraph at lines 708--709
 []\T1/Heuristica-TLF/m/n/12 Just what was the catch here? Surely he had
  []
 
 
-Underfull \hbox (badness 2608) in paragraph at lines 672--673
+Underfull \hbox (badness 2608) in paragraph at lines 708--709
 \T1/Heuristica-TLF/m/n/12 some-thing up his sleeve. Un-less... un-less this was
 n't
  []
 
-
-Underfull \hbox (badness 10000) in paragraph at lines 674--675
+[253]
+Underfull \hbox (badness 10000) in paragraph at lines 710--711
 []\T1/Heuristica-TLF/m/n/12 ``I must con-fess I don't quite un-der-stand,
  []
 
 
-Underfull \hbox (badness 2384) in paragraph at lines 674--675
+Underfull \hbox (badness 2384) in paragraph at lines 710--711
 \T1/Heuristica-TLF/m/n/12 Fabri-cius with? Un-sanc-tioned con-tacts with Parthi
 an
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 678--679
+Underfull \hbox (badness 10000) in paragraph at lines 714--715
 \T1/Heuristica-TLF/m/n/12 mind---did he se-ri-ously ex-pect me to give up my
  []
 
-[250]
-Underfull \hbox (badness 1048) in paragraph at lines 684--685
+
+Underfull \hbox (badness 1048) in paragraph at lines 720--721
 \T1/Heuristica-TLF/m/n/12 and, as we al-ways do in such cases, we launched an
  []
 
-
-Underfull \hbox (badness 2020) in paragraph at lines 686--687
+[254]
+Underfull \hbox (badness 2020) in paragraph at lines 722--723
 []\T1/Heuristica-TLF/m/n/12 ``Well, we are car-ry-ing out op-er-a-tive work... 
 And
  []
 
 
-Underfull \hbox (badness 2409) in paragraph at lines 688--689
+Underfull \hbox (badness 2409) in paragraph at lines 724--725
 \T1/Heuristica-TLF/m/n/12 Have you es-tab-lished the source of the leak? Yes or
 
  []
 
 
-Underfull \hbox (badness 1286) in paragraph at lines 688--689
+Underfull \hbox (badness 1286) in paragraph at lines 724--725
 \T1/Heuristica-TLF/m/n/12 no? I don't hear an an-swer...!'' (Es-ca-late, al-way
 s keep
  []
 
 
-Underfull \hbox (badness 3803) in paragraph at lines 688--689
+Underfull \hbox (badness 3803) in paragraph at lines 724--725
 \T1/Heuristica-TLF/m/n/12 lives on the line ev-ery hour---while you're out here
 
  []
 
-[251]
-Underfull \hbox (badness 1946) in paragraph at lines 700--701
+[255]
+Underfull \hbox (badness 1946) in paragraph at lines 736--737
 \T1/Heuristica-TLF/m/it/12 ob-li-gated \T1/Heuristica-TLF/m/n/12 to love his en
 -emy, to love him fondly and
  []
 
 
-Underfull \hbox (badness 6268) in paragraph at lines 702--702
+Underfull \hbox (badness 6268) in paragraph at lines 738--738
 [][] \T1/Heuristica-TLF/m/n/10 A se-ries of speeches made by the Ro-man con-sul
  Ci-cero
  []
 
 
-Underfull \hbox (badness 5388) in paragraph at lines 702--703
+Underfull \hbox (badness 5388) in paragraph at lines 738--739
 []\T1/Heuristica-TLF/m/n/12 ``This is all too com-pli-cated for me, hon-or-able
 
  []
 
-[252]
-Underfull \hbox (badness 1163) in paragraph at lines 706--707
+[256]
+Underfull \hbox (badness 1163) in paragraph at lines 742--743
 []\T1/Heuristica-TLF/m/n/12 ``Before you leave, Quaestor, I'd like to tell you 
 a
  []
 
 
-Underfull \hbox (badness 1142) in paragraph at lines 708--709
+Underfull \hbox (badness 1142) in paragraph at lines 744--745
 []\T1/Heuristica-TLF/m/n/12 ``So now, this ac-count be-longs to a cer-tain... l
 et's
  []
 
 
-Underfull \hbox (badness 1102) in paragraph at lines 708--709
+Underfull \hbox (badness 1102) in paragraph at lines 744--745
 \T1/Heuristica-TLF/m/n/12 enough, his in-com-pe-tence; un-for-tu-nately for him
 , he
  []
 
-[253]
-Underfull \hbox (badness 10000) in paragraph at lines 714--715
+[257]
+Underfull \hbox (badness 10000) in paragraph at lines 750--751
 \T1/Heuristica-TLF/m/n/12 to hand over the rel-e-vant doc-u-ments to In-ter-nal
 
  []
 
 
-Underfull \hbox (badness 4467) in paragraph at lines 714--715
+Underfull \hbox (badness 4467) in paragraph at lines 750--751
 \T1/Heuristica-TLF/m/n/12 Coun-ter-in-tel-li-gence, how many hours would it tak
 e
  []
 
-[254]
-Underfull \hbox (badness 10000) in paragraph at lines 716--717
+[258]
+Underfull \hbox (badness 10000) in paragraph at lines 752--753
 \T1/Heuristica-TLF/m/n/12 a ter-ri-ble co-in-ci-dence!! I'll swear by anything-
 --my
  []
 
 
-Underfull \hbox (badness 1237) in paragraph at lines 716--717
+Underfull \hbox (badness 1237) in paragraph at lines 752--753
 \T1/Heuristica-TLF/m/n/12 mother's grave, my daugh-ter's health... My daugh-ter
 's
  []
 
 
-Underfull \hbox (badness 4752) in paragraph at lines 718--719
+Underfull \hbox (badness 4752) in paragraph at lines 754--755
 \T1/Heuristica-TLF/m/n/12 back at the Cen-ter, they'd spent more than a year
  []
 
 
-Underfull \hbox (badness 2285) in paragraph at lines 718--719
+Underfull \hbox (badness 2285) in paragraph at lines 754--755
 \T1/Heuristica-TLF/m/n/12 kow-tow-ing to him, silently let-ting him lead them t
 o
  []
 
 
-Underfull \hbox (badness 1867) in paragraph at lines 718--719
+Underfull \hbox (badness 1867) in paragraph at lines 754--755
 \T1/Heuristica-TLF/m/n/12 the slaughter---wholesale and retail---for \T1/Heuris
 tica-TLF/m/it/12 lèse ma-jesté\T1/Heuristica-TLF/m/n/12 .
  []
 
 
-Underfull \hbox (badness 5022) in paragraph at lines 720--721
+Underfull \hbox (badness 5022) in paragraph at lines 756--757
 []\T1/Heuristica-TLF/m/n/12 ``The way I see it, Quaestor, you still have yet
  []
 
 
-Underfull \hbox (badness 2809) in paragraph at lines 720--721
+Underfull \hbox (badness 2809) in paragraph at lines 756--757
 \T1/Heuristica-TLF/m/n/12 to re-al-ize the full hor-ror of your predica-ment. A
 f-ter
  []
 
 
-Underfull \hbox (badness 2334) in paragraph at lines 720--721
+Underfull \hbox (badness 2334) in paragraph at lines 756--757
 \T1/Heuristica-TLF/m/n/12 all, es-pi-onage isn't ex-actly `lay-ing a curse on C
 ae-sar
  []
 
 
-Underfull \hbox (badness 5288) in paragraph at lines 720--721
+Underfull \hbox (badness 5288) in paragraph at lines 756--757
 \T1/Heuristica-TLF/m/n/12 won't need a \T1/Heuristica-TLF/m/it/12 con-fes-sion\
 T1/Heuristica-TLF/m/n/12 , but \T1/Heuristica-TLF/m/it/12 in-for-ma-tion\T1/Heu
 ristica-TLF/m/n/12 ---contacts,
  []
 
-[255]
-Underfull \hbox (badness 1997) in paragraph at lines 724--725
+[259]
+Underfull \hbox (badness 1997) in paragraph at lines 760--761
 \T1/Heuristica-TLF/m/n/12 up your deal-ings with `Methuse-lah,' but, as you can
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 726--727
+Underfull \hbox (badness 10000) in paragraph at lines 762--763
 \T1/Heuristica-TLF/m/n/12 (In-ci-den-tally: when the peo-ple from `Methuse-lah'
 
  []
 
 
-Underfull \hbox (badness 6001) in paragraph at lines 726--727
+Underfull \hbox (badness 6001) in paragraph at lines 762--763
 \T1/Heuristica-TLF/m/n/12 rea-son for greas-ing his palm, didn't they?---we wil
 l
  []
 
 
-Underfull \hbox (badness 2529) in paragraph at lines 726--727
+Underfull \hbox (badness 2529) in paragraph at lines 762--763
 \T1/Heuristica-TLF/m/n/12 dis-cover any ev-i-dence of Rome's in-volve-ment in t
 he
  []
 
 
-Underfull \hbox (badness 1371) in paragraph at lines 726--727
+Underfull \hbox (badness 1371) in paragraph at lines 762--763
 \T1/Heuristica-TLF/m/n/12 ef-forts that this lu-di-crous tale---a man with a ga
 p-ing
  []
 
-[256]
-Underfull \hbox (badness 1852) in paragraph at lines 728--729
+[260]
+Underfull \hbox (badness 1852) in paragraph at lines 764--765
 \T1/Heuristica-TLF/m/n/12 Sev-eral hours af-ter our last meet-ing, the Un-de-cl
 ared
  []
 
 
-Underfull \hbox (badness 2035) in paragraph at lines 728--729
+Underfull \hbox (badness 2035) in paragraph at lines 764--765
 \T1/Heuristica-TLF/m/n/12 the Em-pire, Gen-eral Staff Cen-tu-rion Gaius Fabri-c
 ius,
  []
 
 
-Underfull \hbox (badness 6284) in paragraph at lines 728--729
+Underfull \hbox (badness 6284) in paragraph at lines 764--765
 \T1/Heuristica-TLF/m/n/12 hav-ing fi-nally fin-ished trans-lat-ing the Hit-tite
  hymn
  []
 
 
-Underfull \hbox (badness 1314) in paragraph at lines 728--729
+Underfull \hbox (badness 1314) in paragraph at lines 764--765
 \T1/Heuristica-TLF/m/n/12 he was strug-gling with, drained a cup of his fa-vori
 te
  []
 
 
-Underfull \hbox (badness 1442) in paragraph at lines 728--729
+Underfull \hbox (badness 1442) in paragraph at lines 764--765
 \T1/Heuristica-TLF/m/n/12 Cae-cuban wine and stabbed him-self with his ser-vice
 
  []
 
 
-Underfull \hbox (badness 1308) in paragraph at lines 728--729
+Underfull \hbox (badness 1308) in paragraph at lines 764--765
 \T1/Heuristica-TLF/m/n/12 peo-ple in the world know the truth about Op-er-a-tio
 n
  []
 
-[257]
-Underfull \hbox (badness 4242) in paragraph at lines 730--731
+[261]
+Underfull \hbox (badness 4242) in paragraph at lines 766--767
 \T1/Heuristica-TLF/m/n/12 it. Sad to say, but at the time, I my-self thought it
 
  []
 
 
-Underfull \hbox (badness 1337) in paragraph at lines 730--731
+Underfull \hbox (badness 1337) in paragraph at lines 766--767
 \T1/Heuristica-TLF/m/n/12 slow-ness to act, de-cided to force the is-sue. The n
 ext
  []
 
 
-Underfull \hbox (badness 1715) in paragraph at lines 730--731
+Underfull \hbox (badness 1715) in paragraph at lines 766--767
 \T1/Heuristica-TLF/m/n/12 the best of his abil-ity (in par-tic-u-lar, he had ju
 st put
  []
 
 
-Underfull \hbox (badness 1270) in paragraph at lines 732--733
+Underfull \hbox (badness 1270) in paragraph at lines 768--769
 \T1/Heuristica-TLF/m/n/12 it may be: by the time you read this sen-tence, I wil
 l
  []
 
-[258]
-Overfull \hbox (11.66626pt too wide) in paragraph at lines 734--741
+[262]
+Overfull \hbox (11.66626pt too wide) in paragraph at lines 770--777
 [] [] 
  []
 
-) [259] (./main.aux)
+) [263] (./main.aux)
  ***********
 LaTeX2e <2025-11-01>
 L3 programming layer <2026/02/24>
@@ -10967,12 +10999,12 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 41210 strings out of 468168
- 877322 string characters out of 5432816
- 1656890 words of memory out of 5000000
- 69214 multiletter control sequences out of 15000+600000
- 719929 words of font info for 171 fonts, out of 8000000 for 9000
+ 41366 strings out of 468168
+ 881430 string characters out of 5432816
+ 1657339 words of memory out of 5000000
+ 69346 multiletter control sequences out of 15000+600000
+ 720033 words of font info for 184 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  99i,12n,125p,2520b,4399s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on main.xdv (263 pages, 673208 bytes).
+Output written on main.xdv (267 pages, 677264 bytes).

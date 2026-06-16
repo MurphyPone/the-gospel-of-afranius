@@ -24,6 +24,18 @@
   \tikz[baseline=(X.base), inner sep=0pt, outer sep=0pt] \node[anchor=base, xslant=0.18] (X) {\oldenglishfont #1};%
 }
 
+% Typewriter font for the Afranius letterhead (Courier-like). Prefer Courier New
+% (cleaner outline), then Courier, else fall back to the default monospace family.
+\IfFontExistsTF{Courier New}{%
+  \newfontfamily\letterheadfont{Courier New}%
+}{%
+  \IfFontExistsTF{Courier}{%
+    \newfontfamily\letterheadfont{Courier}%
+  }{%
+    \let\letterheadfont\ttfamily
+  }%
+}
+
 \usepackage[english]{babel} % language
 \addto\captionsbrazilian{\renewcommand{\contentsname}{Contents}}
 

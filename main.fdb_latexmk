@@ -1,22 +1,22 @@
 # Fdb version 4
-["biber main"] 1781620384.5636 "main.bcf" "main.bbl" "main" 1781624375.57706 0
-  "main.bcf" 1781624374.26492 108131 30320fdbe89f7517eb602099ed86e32b "xelatex"
+["biber main"] 1781620384.5636 "main.bcf" "main.bbl" "main" 1781627099.7431 0
+  "main.bcf" 1781627096.26282 108131 30320fdbe89f7517eb602099ed86e32b "xelatex"
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["makeindex main.idx"] 1781620384.36022 "main.idx" "main.ind" "main" 1781624375.57701 0
-  "main.idx" 1781624373.23225 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
+["makeindex main.idx"] 1781620384.36022 "main.idx" "main.ind" "main" 1781627099.74305 0
+  "main.idx" 1781627095.40242 0 d41d8cd98f00b204e9800998ecf8427e "xelatex"
   (generated)
   "main.ilg"
   "main.ind"
   (rewritten before read)
-["xdvipdfmx"] 1781624374.72888 "main.xdv" "main.pdf" "main" 1781624375.57877 0
-  "main.xdv" 1781624374.26635 673208 beaaf49656f21eab19066ae974dc02a5 "xelatex"
+["xdvipdfmx"] 1781627096.66039 "main.xdv" "main.pdf" "main" 1781627099.74475 0
+  "main.xdv" 1781627096.26416 677264 d53fda388fefe39b40fcb784ab2bdb56 "xelatex"
   (generated)
   "main.pdf"
   (rewritten before read)
-["xelatex"] 1781624371.93923 "main.tex" "main.xdv" "main" 1781624375.57708 0
+["xelatex"] 1781627094.16008 "main.tex" "main.xdv" "main" 1781627099.74312 0
   "/usr/local/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/jknappen/ec/ecrm1200.tfm" 1136768653 3584 f80ddd985bd00e29e9a6047ebd9d4781 ""
   "/usr/local/texlive/2026/texmf-dist/fonts/tfm/public/fourier/fourier-bb.tfm" 1575236847 588 30b875a179a99eec0f6f0a2540c942c1 ""
@@ -224,14 +224,20 @@
   "/usr/local/texlive/2026/texmf-dist/web2c/texmf.cnf" 1770478701 43630 e9fa012910491fe5ae08a72c3c2997a7 ""
   "/usr/local/texlive/2026/texmf-var/web2c/xetex/xelatex.fmt" 1772409801 5948578 5fe39ea6ff7c75811a06ab52f34ee855 ""
   "/usr/local/texlive/2026/texmf.cnf" 1772409725 577 648cd9f92f9c0eac486f4c71c85cfbbe ""
+  "assets/afranius-1.png" 1781626490.45759 1093618 8eb5c37455d0aa62fc6dee1b8e2fe463 ""
+  "assets/afranius-2.png" 1781626533.35608 1270508 80dffc68b85b88dc1dfc765eee379fd8 ""
+  "assets/afranius-3.png" 1781626566.1687 1364325 96e2529c23e814a6a9a4dd950cfcfa86 ""
+  "assets/golgatha.png" 1781626294.1085 957782 7fe033f987c1b3df19959af80ce150c4 ""
+  "assets/john-the-baptist.png" 1781626433.8948 1122899 d906922248779ac10ca24b2595bb3677 ""
   "assets/procurator.png" 1781620406.34101 941099 4dce147e038b9302891ba37bcc1ce721 ""
-  "content/01-preface.tex" 1781624109.81045 4266 199fadcfb13330cdd49530a59019006f ""
+  "assets/spqr.png" 1781625432.04812 6043 3748ec2ee7343d4c0a84316b1b4c9fb0 ""
+  "content/01-preface.tex" 1781626122.36053 4243 555e6cccedbe7b46206a4b06bb7cfb6e ""
   "content/02-mcdowells-argument.tex" 1781622524.44978 6868 29ab6597776fb80542b0b2791b1cbfd2 ""
   "content/03-problem-statement.tex" 1781622737.17139 8402 92086c78acd613d338de2922fbe6ac45 ""
   "content/04-historical-background.tex" 1781622527.05335 10757 eaefef3820e215d1b77e178d4c9f7716 ""
   "content/05-the-procurator-of-judea.tex" 1781622527.97501 15604 15cafc6480c196ab5701d164cacce57c ""
-  "content/06-golgatha.tex" 1781622529.59074 12215 19f0f2c9f8d9219c6f7734d50450014c ""
-  "content/07-john-the-baptist.tex" 1781622534.75164 27573 1e601256957fda8ee957523d7fe190ae ""
+  "content/06-golgatha.tex" 1781626385.0506 12448 32c5083fe680b4d3db14750ee44f782f ""
+  "content/07-john-the-baptist.tex" 1781626724.49009 27837 1f53c25cc28597303a3d44c82ab965ff ""
   "content/08-the-raising-of-lazarus.tex" 1781622535.06278 10482 8aad75889a2173b7492870dec25ca9f1 ""
   "content/09-judas.tex" 1781622535.61162 15449 0247273a884e6fed3853dfd8d22a92ff ""
   "content/10-last-supper.tex" 1781622536.19808 14958 acea70ba801e454e8f15077f47619b28 ""
@@ -239,17 +245,17 @@
   "content/12-second-warning.tex" 1781622538.04932 9242 74c1467a3604392f5694b890f5749991 ""
   "content/13-appearances-of-the-risen-christ.tex" 1781622539.36946 27659 88e2bcdba86013cd8bfbc414f88522bd ""
   "content/14-third-warning.tex" 1781623181.23316 2578 901cb86d6efcb70f7d1080c2b0281ba0 ""
-  "content/15-the-gospel-of-afranius.tex" 1781624363.2995 193264 fec16fddebb6d1d58c7b911f49e046e2 ""
+  "content/15-the-gospel-of-afranius.tex" 1781627089.471 194667 945319b47774bd304f15183746a9f3aa ""
   "frontmatter/copyrightpage.tex" 1781624282.41459 1205 48e886e00867ceb1467ad44be7193dac ""
   "frontmatter/titlepage.tex" 1781623812.95483 576 b49f2ed3664ac434b291d81ccfff947a ""
   "frontmatter/tocpage.tex" 1781185619.28871 271 3271ab1df6440ad93524d14915c19835 ""
-  "main.aux" 1781624374.25854 5023 c1c42cb26c165a846d8d2105ff31f8fa "xelatex"
+  "main.aux" 1781627096.25679 5317 53a78885c9dff1f4439c5c090d5f38d9 "xelatex"
   "main.bbl" 1781620386.63666 466 76d65a242ec496c9b4361af646ff12cb "biber main"
   "main.ind" 1781620384.56127 0 d41d8cd98f00b204e9800998ecf8427e "makeindex main.idx"
-  "main.run.xml" 1781624374.26612 2385 0b7d280d70fcf871baa59d1ad6178a6c "xelatex"
+  "main.run.xml" 1781627096.26388 2385 0b7d280d70fcf871baa59d1ad6178a6c "xelatex"
   "main.tex" 1781623737.11169 2111 981dbe1ef08c2351e1b1a6c8f1927c3a ""
-  "main.toc" 1781624374.26631 817 92344b18282c63e2380ac9599fa09723 "xelatex"
-  "misc/options.sty" 1781623872.15083 11024 4c3146cb841846bc4211b81a2e3cc88d ""
+  "main.toc" 1781627096.2641 817 b0e2002eef9a1d1e9a1ebef94e1d6df0 "xelatex"
+  "misc/options.sty" 1781624959.84623 11389 b8fb43ffb14a35fc89ff3498a9892085 ""
   (generated)
   "main.aux"
   "main.bcf"
