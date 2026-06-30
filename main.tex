@@ -1,5 +1,5 @@
 % paper size is in preamble.sty
-\documentclass[12pt,openany,table,x11names]{book}
+\documentclass[10pt,openany,table,x11names]{book}
 
 % Continuous footnote numbering across all chapters (don't reset at \chapter)
 \makeatletter
@@ -9,19 +9,6 @@
 \newenvironment{smallquote}
   {\begin{quote}\small}
   {\end{quote}}
-
-\newenvironment{tinyquote}
-  {\begin{quote}\footnotesize}
-  {\end{quote}}
-
-\newcommand*{\crossupsidedown}[1]{
-    \text{
-      \raisebox{.5ex}{
-        \makebox[0pt][l]{\rule[-.2pt]{.75ex}{#1pt}}
-        \makebox[.75ex]{\rule[-.5ex]{#1pt}{1.5ex}}
-      }
-    }   
-}
 
 % meta data
 \newcommand{\authorname}{Kirill Eskrov}

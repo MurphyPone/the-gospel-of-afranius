@@ -1,13 +1,6 @@
 % XeLaTeX: load fontspec first for Unicode support
 \usepackage{fontspec}
 
-% For Hebrew
-% https://tuteurs.ens.fr/noncvs/docs/cjhebrew/cjh-en.pdf
-\usepackage{cjhebrew}
-
-% For inserting timeline 
-\usepackage{pdfpages}
-
 % Font for old English / long s (U+017F); Libertine has the glyph, Merriweather does not.
 % Try filename first (from libertine package in TeX Live); else fall back to default so doc compiles.
 \IfFontExistsTF{LinLibertine_R.otf}{%
@@ -18,10 +11,6 @@
   }{%
     \let\oldenglishfont\normalfont
   }%
-}
-% Old English font has no italic; use graphic slant so names match \itshape convention
-\newcommand{\oldenglishemph}[1]{%
-  \tikz[baseline=(X.base), inner sep=0pt, outer sep=0pt] \node[anchor=base, xslant=0.18] (X) {\oldenglishfont #1};%
 }
 
 % Typewriter font for the Afranius letterhead (Courier-like). Prefer Courier New
@@ -37,54 +26,30 @@
 }
 
 \usepackage[english]{babel} % language
-\addto\captionsbrazilian{\renewcommand{\contentsname}{Contents}}
 
-\usepackage{lettrine}   % Add drop caps to chapter openings
 \usepackage{graphicx}
-\usepackage{fourier,heuristica}
+\usepackage{fourier,heuristica} % heavier Utopia-derived roman; sets overall body font weight
 \usepackage{libertine}
 \usepackage[black]{merriweather}
-% \usepackage{ebgaramond}
 \usepackage{csquotes}
 \usepackage[backend=biber, style=verbose-ibid, citepages=separate]{biblatex}
-% TODO: revisit how to sort these jaunts
 \DeclareNameAlias{sortname}{family-given}
 \addbibresource{references.bib}
-\usepackage{amsmath}
 \usepackage{tikz}
 \usetikzlibrary{positioning}
 
 % Font encoding (inputenc not needed: XeLaTeX uses UTF-8 by default)
 \usepackage[TS1,T1]{fontenc}
-% fourier, heuristica removed: not used; caused font conflicts and XeLaTeX warns to use fourier-otf
-% \usepackage{merriweather} %% Option 'black' gives heavier bold face 
-\usepackage{array, booktabs}
-\usepackage{graphicx}
-\usepackage{epigraph} 
-
-% Codificação de entrada e saída
-\usepackage{xspace}
-
-% for strikethrough
-\usepackage[normalem]{ulem}
 
 \usepackage[para]{bigfoot}
 \DeclareNewFootnote[para]{arabic}
 \interfootnotelinepenalty=10000
-\usepackage{needspace}
-% Use \needspace{<lines>\baselineskip} before a paragraph that has a long
-% para footnote so the paragraph+footnote start on a page with enough room.
 
 % Leading indent for all footnote text (so you can omit \hspace{0.25em} in each)
 \let\savedfootnote\footnote
 \RenewDocumentCommand{\footnote}{ o m }{%
   \IfNoValueTF{#1}{\savedfootnote{\hspace{0.25em}#2}}{\savedfootnote[#1]{\hspace{0.25em}#2}}%
 }
-
-% custom colors
-\definecolor{myPeriwinkle}{RGB}{204, 204, 255} 
-
-\newcommand{\hsp}{\kern 1pt}    % for nested quotation marks
 
 % Paragraph formatting
 \renewcommand{\baselinestretch}{1.125}      % Allow paragraphs to breathe by spreading the lines further
@@ -230,68 +195,13 @@
     }%
 }
 
-% --- Chapter opener: optional verso plate + recto \chapter (twoside spreads) ---
-% The book class is often used with openany, so \chapter does not guarantee a recto
-% opening. Call \chapteropener (with or without an image) immediately before \chapter
-% when you want the chapter title to begin on a right-hand (odd) page. If an image path
-% is given, it is set alone on the preceding verso (even) page with the attribution below.
-% The attribution is a single braced argument: avoid ``\cmd{}'' before the closing ``}''
-% (use ``\PL '' or ``\PL\ '' instead of ``\PL{}''), or wrap the whole line in an extra
-% pair of braces: \chapteropener[fig]{{Text \PL{} here.}}
-% For a recto chapter with no plate, use \chapterrectoonly instead of \chapteropener with
-% an empty optional (the latter ignores the attribution argument).
-\makeatletter
-\newcommand{\ttlchapterforcerecto}{%
-  \clearpage
-  \if@twoside
-    \ifodd\c@page
-    \else
-      \null\thispagestyle{empty}\newpage
-    \fi
-  \fi
-}
-\newcommand{\ttlchapterensureverso}{%
-  \clearpage
-  \if@twoside
-    \ifodd\c@page
-      \null\thispagestyle{empty}\newpage
-    \fi
-  \fi
-}
-\makeatother
-\newcommand{\chapterrectoonly}{\ttlchapterforcerecto}
-\NewDocumentCommand{\chapteropener}{ O{} m }{%
-  \if\relax\detokenize{#1}\relax
-    \ttlchapterforcerecto
-  \else
-    \ttlchapterensureverso
-    \thispagestyle{empty}%
-    \enlargethispage{\baselineskip}%
-    \vspace*{\stretch{1}}%
-    \begin{center}
-      \includegraphics[width=\linewidth,height=0.72\textheight,keepaspectratio]{#1}%
-    \end{center}%
-    \vspace{\stretch{1.5}}%
-    \if\relax\detokenize{#2}\relax
-    \else
-      \begin{minipage}[t]{\linewidth}
-        \footnotesize\itshape\raggedright
-        \noindent #2\par
-      \end{minipage}%
-    \fi
-    \vspace*{\stretch{1}}%
-    \clearpage
-    \ttlchapterforcerecto
-  \fi
-}
-
 \titleformat{\part}[display]
   {\centering}                    % overall alignment
   {\fontsize{48}{56}\selectfont
   Part \thepart}                  % BIG "Part I"
   {2em}                           % space between label and title
   {\Huge\itshape}                 % title style
-  [\vspace{1em}\adfdoublesharpflourishleft\quad\adfast{9}\quad\adfdoublesharpflourishright] % TODO: add upside down cross here
+  [\vspace{1em}\adfdoublesharpflourishleft\quad\adfast{9}\quad\adfdoublesharpflourishright] 
 
 % Store part title for running head (left-center even page)
 \newcommand{\currentparttitle}{\subtitle} % default before first \part
@@ -322,16 +232,8 @@
 
 % headers/footers
 
-\newcommand{\ornpagenum}{%
-  \centering
-  \adfsharpflourishleft\kern0.6em
-  \thepage
-  \kern0.6em\adfsharpflourishright
-}
-
 \setlength{\headheight}{15pt}
 \renewcommand{\headrulewidth}{0pt}
-% \fancyhf[LFE,RFO]{\ornpagenum} % Set page numbers in the footer
 % \fancyhead[CE]{\subtitle} % Book title in middle of right-side page header
 \fancyhead[RCO]{\leftmark} % Chapter 
 \fancyhead[RO]{\thepage} % Chapter 
@@ -339,13 +241,3 @@
 \fancyhead[LE]{\thepage} % title
  
 
-% custom colors
-\definecolor{customgold}{RGB}{203,161,53}
-
-% for stressing syllables
-\usepackage{stackengine}
-\renewcommand\stacktype{L}
-
-% for the index
-\usepackage{imakeidx}
-\makeindex

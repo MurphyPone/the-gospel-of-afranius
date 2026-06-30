@@ -1,16 +1,16 @@
 \babel@toc {english}{}\relax 
 \contentsline {chapter}{Preface}{1}{}%
-\contentsline {chapter}{McDowell's Argument}{4}{}%
-\contentsline {chapter}{Problem Statement}{10}{}%
-\contentsline {chapter}{Historical Background}{16}{}%
-\contentsline {chapter}{The Procurator of Judea}{24}{}%
-\contentsline {chapter}{Golgatha}{35}{}%
-\contentsline {chapter}{John the Baptist}{44}{}%
-\contentsline {chapter}{The Raising of Lazarus}{64}{}%
-\contentsline {chapter}{Judas}{72}{}%
-\contentsline {chapter}{The Last Supper and Gethsemane}{83}{}%
-\contentsline {chapter}{The Empty Tomb}{94}{}%
-\contentsline {chapter}{Second Warning to McDowell}{106}{}%
-\contentsline {chapter}{The Appearances of the Risen Christ}{113}{}%
-\contentsline {chapter}{Third Warning to McDowell}{132}{}%
-\contentsline {chapter}{The Gospel of Afranius}{134}{}%
+\contentsline {chapter}{McDowell's Argument}{3}{}%
+\contentsline {chapter}{Problem Statement}{7}{}%
+\contentsline {chapter}{Historical Background}{11}{}%
+\contentsline {chapter}{The Procurator of Judea}{17}{}%
+\contentsline {chapter}{Golgatha}{25}{}%
+\contentsline {chapter}{John the Baptist}{32}{}%
+\contentsline {chapter}{The Raising of Lazarus}{46}{}%
+\contentsline {chapter}{Judas}{51}{}%
+\contentsline {chapter}{The Last Supper and Gethsemane}{59}{}%
+\contentsline {chapter}{The Empty Tomb}{66}{}%
+\contentsline {chapter}{Second Warning to McDowell}{74}{}%
+\contentsline {chapter}{The Appearances of the Risen Christ}{79}{}%
+\contentsline {chapter}{Third Warning to McDowell}{92}{}%
+\contentsline {chapter}{The Gospel of Afranius}{94}{}%
